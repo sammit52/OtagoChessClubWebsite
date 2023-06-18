@@ -1,8 +1,28 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <img src="{{ url_for('static', filename='images/WebsiteLowQualityHeader.png')}}" alt="Website Header" class="website-header">
         <meta charset="utf-8" />
         <title>{% block title%}{% endblock %}</title>
-        <link rel="stylesheet" type="text/css" href=""{{ url_for('static', filename='site.css')}}
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='site.css')}}"/>
     </head>
+
+    <body>
+        <div class="navbar">
+            <a href="{{ url_for('home') }}" class="navbar-item">HOME</a>
+            <a href="{{ url_for('about') }}" class="navbar-item">ABOUT</a>
+            <a href="{{ url_for('news') }}" class="navbar-item">NEWS</a>
+        </div>
+
+        <div class="body-content">
+            {% block content %}
+            {% endblock %}
+            <hr/>
+            <footer>
+                <p>Contact us: otagochess@gmail.com</p>
+                <p>Page Last Edited: DD/MM/YY</p>
+                <p>&copy; 2023</p>
+            </footer>
+        </div>
+    </body>
 </html>

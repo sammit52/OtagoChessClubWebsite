@@ -4,9 +4,9 @@
 }
 
 .navbar {
-    background-color: lightslategray;
+    background-color: black;
     font-size: 1em;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, Helvetica, sans-serif;
+    font-family: 'Mingzat', sans-serif;
     color: white;
     padding: 8px 5px 8px 5px;
 }
@@ -14,11 +14,6 @@
 .navbar a {
     text-decoration: none;
     color: inherit;
-}
-
-.navbar-brand {
-    font-size: 1.2em;
-    font-weight: 600;
 }
 
 .navbar-item {
@@ -31,5 +26,8 @@
     font-family:'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-
+.website-header {
+    width: 100%;
+    height: auto;
+}
 
