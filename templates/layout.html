@@ -3,16 +3,39 @@
     <head>
         <img src="{{ url_for('static', filename='images/WebsiteLowQualityHeader.png')}}" alt="Website Header" class="website-header">
         <meta charset="utf-8" />
-        <title>{% block title%}{% endblock %}</title>
+        <title>
+            {% block title %}{% endblock %}
+        </title>
         <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='site.css')}}"/>
     </head>
 
     <body>
+        <nav>
         <div class="navbar">
+            <a class="hamburger-menu">&#8801;</a>
+            <li class="mobile-menu-item"><a href="{{ url_for('home') }}" >HOME</a></li>
+            <li class="mobile-menu-item"><a href="{{ url_for('about') }}">ABOUT</a></li>
+            <li class="mobile-menu-item"><a href="{{ url_for('news') }}">NEWS</a></li>
+            <li class="mobile-menu-item"><a href="{{ url_for('notices') }}">NOTICES</a></li>
+            <li class="mobile-menu-item"><a href="{{ url_for('calendar') }}">CALENDAR</a></li>
+            <li class="mobile-menu-item"><a href="{{ url_for('tournaments') }}">TOURNAMENTS</a></li>
+            <li class="mobile-menu-item"><a href="{{ url_for('results') }}">RESULTS</a></li>
+            <li class="mobile-menu-item"><a href="{{ url_for('ratings') }}">RATINGS</a></li>
+            <li class="mobile-menu-item"><a href="{{ url_for('library') }}">LIBRARY</a></li>
+            
+            
             <a href="{{ url_for('home') }}" class="navbar-item">HOME</a>
             <a href="{{ url_for('about') }}" class="navbar-item">ABOUT</a>
             <a href="{{ url_for('news') }}" class="navbar-item">NEWS</a>
+            <a href="{{ url_for('notices') }}" class="navbar-item">NOTICES</a>
+            <a href="{{ url_for('calendar') }}" class="navbar-item">CALENDAR</a>
+            <a href="{{ url_for('tournaments') }}" class="navbar-item">TOURNAMENTS</a>
+            <a href="{{ url_for('results') }}" class="navbar-item">RESULTS</a>
+            <a href="{{ url_for('ratings') }}" class="navbar-item">RATINGS</a>
+            <a href="{{ url_for('library') }}" class="navbar-item">LIBRARY</a>
         </div>
+        </nav>
+
 
         <div class="body-content">
             {% block content %}

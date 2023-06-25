@@ -31,3 +31,27 @@ def about():
 @app.route("/news")
 def news():
     return render_template("news.html")
+
+@app.route("/notices")
+def notices():
+    return render_template("notices.html")
+
+@app.route("/calendar")
+def calendar():
+    return render_template("calendar.html")
+
+@app.route("/tournaments")
+def tournaments():
+    return render_template("tournament.html")
+
+@app.route("/results")
+def results():
+    return render_template("results.html")
+
+@app.route("/ratings")
+def ratings():
+    return render_template("ratings.html")
+
+@app.route("/library")
+def library():
+    return render_template("library.html")
