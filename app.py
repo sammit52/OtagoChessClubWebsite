@@ -55,3 +55,4 @@ def ratings():
 @app.route("/library")
 def library():
     return render_template("library.html")
+

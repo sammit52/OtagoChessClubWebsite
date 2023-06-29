@@ -3,6 +3,12 @@
     color: blue;
 }
 
+.website-header {
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
 .navbar {
     background-color: black;
     font-size: 1em;
@@ -11,57 +17,37 @@
     padding: 1.1% 0.8% 1.1% 0.8%;
 }
 
-.navbar a {
-    text-decoration: none;
-    color: inherit;
-}
-
 .navbar-item {
     font-variant: small-caps;
-    margin-left: 30px;
-    font-size: 1.5vw;
+    margin-left: 10px;
+    font-size: 10px;
+
 }
 
-
-.hamburger-menu {
+.dropdown {
+    color: #fff;
     display: none;
-    color: white;
+    padding: 1px 1px;
+    font-size: 20px;
 }
-
-
-.website-header {
-    width: 100%;
-    height: auto;
-    display: flex;
-}
-
 
 .body-content {
     padding: 5px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.mobile-menu-item {
-    font-size: 16px;
-    color: white;
-    display: none;
-}
-
 @media screen and (max-width: 1000px) {
     .navbar-item {
         display: none;
-        font-size: 0;
     }   
-    .navbar {
-        padding: 0px 15px 0px 15px;
-    }
-    .hamburger-menu {
+    .dropdown {
         display: block;
-        font-size: 35px;
-    }
-    .mobile-menu-item {
-        display: contents;
     }
 }
 
+/*   .navbar {
+        padding: 0px 15px 0px 15px;
+        background-color: black;
+    }
+*/
 
