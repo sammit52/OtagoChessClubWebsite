@@ -3,7 +3,7 @@
     color: blue;
 }
 
-.website-header {
+.website-header-image {
     width: 100%;
     height: auto;
     display: flex;
@@ -11,24 +11,40 @@
 
 .navbar {
     background-color: black;
-    font-size: 1em;
-    font-family: 'Mingzat', sans-serif;
-    color: #ffffff;
     padding: 1.1% 0.8% 1.1% 0.8%;
 }
 
-.navbar-item {
-    font-variant: small-caps;
-    margin-left: 10px;
-    font-size: 10px;
-
+.navbar-pc {
+    display: inline;
+    margin: auto;
 }
+
+.navbar-item {
+    float: left;
+    font-variant: small-caps;
+    margin-left: 15px;
+    font-size: 20px;
+    font-family: 'Mingzat', sans-serif;
+    color: #ffffff;
+    display:block;
+}
+
+.footer {
+    background-color: black;
+    padding: 10px;
+}
+
+.footer-content {
+    color: white;
+    text-align: center;
+}
+
 
 .dropdown {
     color: #fff;
     display: none;
-    padding: 1px 1px;
-    font-size: 20px;
+    padding: 0 6px;
+    font-size: 30px;
 }
 
 .body-content {
@@ -42,6 +58,10 @@
     }   
     .dropdown {
         display: block;
+    }
+    .navbar {
+        padding: 1px 8px 2px 10px;
+    
     }
 }
 

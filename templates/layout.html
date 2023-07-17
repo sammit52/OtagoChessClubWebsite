@@ -12,7 +12,7 @@
 
     <body>
         <header>
-            <img src="{{ url_for('static', filename='images/WebsiteLowQualityHeader.png')}}" alt="Website Header" class="website-header">
+            <img src="{{ url_for('static', filename='images/WebsiteLowQualityHeader.png')}}" alt="Website Header" class="website-header-image">
 
             <div class="navbar">
                 <div class="dropdown">
@@ -31,15 +31,18 @@
                         <a class="dropdown-item" href="{{ url_for('library') }}">LIBRARY</a>
                     </div>
                 </div>
-                <a href="{{ url_for('home') }}" class="navbar-item">HOME</a>
-                <a href="{{ url_for('about') }}" class="navbar-item">ABOUT</a>
-                <a href="{{ url_for('news') }}" class="navbar-item">NEWS</a>
-                <a href="{{ url_for('notices') }}" class="navbar-item">NOTICES</a>
-                <a href="{{ url_for('calendar') }}" class="navbar-item">CALENDAR</a>
-                <a href="{{ url_for('tournaments') }}" class="navbar-item">TOURNAMENTS</a>
-                <a href="{{ url_for('results') }}" class="navbar-item">RESULTS</a>
-                <a href="{{ url_for('ratings') }}" class="navbar-item">RATINGS</a>
-                <a href="{{ url_for('library') }}" class="navbar-item">LIBRARY</a>
+
+                <div>
+                        <a href="{{ url_for('home') }}" class="navbar-item">HOME</a>
+                        <a href="{{ url_for('about') }}" class="navbar-item">ABOUT</a>
+                        <a href="{{ url_for('news') }}" class="navbar-item">NEWS</a>
+                        <a href="{{ url_for('notices') }}" class="navbar-item">NOTICES</a>
+                        <a href="{{ url_for('calendar') }}" class="navbar-item">CALENDAR</a>
+                        <a href="{{ url_for('tournaments') }}" class="navbar-item">TOURNAMENTS</a>
+                        <a href="{{ url_for('results') }}" class="navbar-item">RESULTS</a>
+                        <a href="{{ url_for('ratings') }}" class="navbar-item">RATINGS</a>
+                        <a href="{{ url_for('library') }}" class="navbar-item">LIBRARY</a>
+                </div>  
             </div>
 
         </header>
@@ -48,10 +51,14 @@
                 {% block content %}
                 {% endblock %}
                 <hr/>
-                <footer>
-                    <p>Contact us: otagochess@gmail.com</p>
-                    <p>Page Last Edited: DD/MM/YY</p>
-                    <p>&copy; 2023</p>
+                <footer class = "footer">
+                    <div class="footer-content">
+                        <p>Contact us: otagochess@gmail.com</p>
+                        <p>____________________________________________________________________</p>
+                        <p>The Otago Chess Club would like to acknowledge the support of the following organizations:</p>
+                        <p>Page Last Edited: DD/MM/YY</p>
+                        <p>&copy; 2023</p>
+                    </div>
                 </footer>
             </div>  
         </main>
