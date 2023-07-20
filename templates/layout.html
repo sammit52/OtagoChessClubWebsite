@@ -33,15 +33,23 @@
                 </div>
 
                 <div>
-                        <a href="{{ url_for('home') }}" class="navbar-item">HOME</a>
-                        <a href="{{ url_for('about') }}" class="navbar-item">ABOUT</a>
-                        <a href="{{ url_for('news') }}" class="navbar-item">NEWS</a>
-                        <a href="{{ url_for('notices') }}" class="navbar-item">NOTICES</a>
-                        <a href="{{ url_for('calendar') }}" class="navbar-item">CALENDAR</a>
-                        <a href="{{ url_for('tournaments') }}" class="navbar-item">TOURNAMENTS</a>
-                        <a href="{{ url_for('results') }}" class="navbar-item">RESULTS</a>
-                        <a href="{{ url_for('ratings') }}" class="navbar-item">RATINGS</a>
-                        <a href="{{ url_for('library') }}" class="navbar-item">LIBRARY</a>
+                        <a style = "text-decoration: none;" href="{{ url_for('home') }}" class="navbar-item">HOME</a>
+                        <p class="navbar-item">&#9474;</p>
+                        <a style = "text-decoration: none;" href="{{ url_for('about') }}" class="navbar-item">ABOUT</a>
+                        <p class="navbar-item">&#9474;</p>
+                        <a style = "text-decoration: none;" href="{{ url_for('news') }}" class="navbar-item">NEWS</a>
+                        <p class="navbar-item">&#9474;</p>
+                        <a style = "text-decoration: none;" href="{{ url_for('notices') }}" class="navbar-item">NOTICES</a>
+                        <p class="navbar-item">&#9474;</p>
+                        <a style = "text-decoration: none;" href="{{ url_for('calendar') }}" class="navbar-item">CALENDAR</a>
+                        <p class="navbar-item">&#9474;</p>
+                        <a style = "text-decoration: none;" href="{{ url_for('tournaments') }}" class="navbar-item">TOURNAMENTS</a>
+                        <p class="navbar-item">&#9474;</p>
+                        <a style = "text-decoration: none;" href="{{ url_for('results') }}" class="navbar-item">RESULTS</a>
+                        <p class="navbar-item">&#9474;</p>
+                        <a style = "text-decoration: none;" href="{{ url_for('ratings') }}" class="navbar-item">RATINGS</a>
+                        <p class="navbar-item">&#9474;</p>
+                        <a style = "text-decoration: none;" href="{{ url_for('library') }}" class="navbar-item">LIBRARY</a>
                 </div>  
             </div>
 
@@ -51,20 +59,22 @@
                 {% block content %}
                 {% endblock %}
                 <hr/>
-                <footer class = "footer">
-                    <div class="footer-content">
-                        <p>Contact us: otagochess@gmail.com</p>
-                        <p>____________________________________________________________________</p>
-                        <p>The Otago Chess Club would like to acknowledge the support of the following organizations:</p>
-                        <img src="{{ url_for('static', filename='images/ODTSponsor.png')}}">
-                        <img src="{{ url_for('static', filename='images/LionFoundationSponsor.png')}}">
-                        <img src="{{ url_for('static', filename='images/BendigoFoundationSponsor.gif')}}">
-                        <img src="{{ url_for('static', filename='images/OtagoCommunityTrustSponsor.png')}}">
-                        <p>Page Last Edited: DD/MM/YY</p>
-                        <p>&copy; 2023</p>
-                    </div>
-                </footer>
-            </div>  
+            </div>
+            
+            <footer class = "footer">
+                <div class="footer-content">
+                    <p>Contact us: otagochess@gmail.com</p>
+                    <p>____________________________________________________________________</p>
+                    <p>The Otago Chess Club would like to acknowledge the support of the following organizations:</p>
+                    <a href="https://www.odt.co.nz/"><img class= "sponsor-logo" src="{{ url_for('static', filename='images/ODTSponsor.png')}}"></a>
+                    <a href="https://lionfoundation.nz/"><img class= "sponsor-logo" src="{{ url_for('static', filename='images/LionFoundationSponsor.png')}}"></a>
+                    <a href="https://www.bendigovalley.co.nz/"><img class= "sponsor-logo" src="{{ url_for('static', filename='images/BendigoFoundationSponsor.gif')}}"></a>
+                    <a href="https://www.oct.org.nz/"><img class= "sponsor-logo" src="{{ url_for('static', filename='images/OCTSponsor.png')}}"></a>
+                    <a href="https://www.dunedin.govt.nz/"><img class= "sponsor-logo" src="{{ url_for('static', filename='images/DCCSponsor.webp')}}"></a>
+                    <p>Page Last Edited: DD/MM/YY</p>
+                    <p>&copy; 2023</p>
+                </div>
+            </footer>
         </main>
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>

@@ -3,5 +3,30 @@
 Home Page
 {% endblock %}
 {% block content %}
-<p>Home Page for the visual studio Flask tutorial.</p>
+<div class = "left-container">
+<h1 class = "header">Want to play chess in Otago?</h1>
+<p class = "written-content">The Otago Chess club has been established in Dunedin since 1875. We warmly welcome anyone interested in joining the club to come along to our weekly club meetings on Wednesday evenings at 7pm. We cater to all chess players whether competitive and social and hope everyone can have a fun time playing the beautiful game of chess. 
+    As a member of the Otago Chess Club you can:
+    <br>
+    ♛ Play in the club tournaments held on Wednesday evenings throughout the year, as well as play social games.
+    <br>
+    <br>
+    ♛ Play social chess on Tuesday afternoon 1pm-4pm
+    <br>
+    <br>
+    ♛ Borrow books from our extensive library of over 600 volumes
+    <br>
+    <br>
+    ♛ Gain a national chess rating to gauge your improvement
+    <br>
+    <br>
+    ♛ Exchange ideas and test your play against the strongest players in the region
+</p>
+</div>
+<div class = "right-container">
+    <img  src="{{ url_for('static', filename='images/OCCHouse.jpg')}}" alt="Otago Chess Club House" class="main-images">
+
+
+</div>
+
 {% endblock %}
