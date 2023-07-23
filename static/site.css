@@ -30,6 +30,20 @@
 
 }
 
+.navbar-divider {
+    font-family: 'Mingzat', sans-serif;
+    color: #ffffff;
+    font-variant: small-caps;
+    margin-left: 10px;
+    display: inline-block;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
 .navbar-item:hover{ color: rgb(220, 220, 220); }
 
 .footer {
@@ -59,17 +73,35 @@
 
 .body-content {    
     margin-left: 20px;
-    padding: 5px;
+    padding: 1vw;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .written-content {
-    margin-right: 30px;
+    margin-right: 60px;
 }
 
 .header {
     font-weight: bold; 
     font-family: Merriweather, serif;
+    color: black;
+}
+
+.membership-prices {
+    width: 50%;
+    align-items: left;
+    float: left;
+}
+
+.upcoming-events {
+    width: 50%;
+    align-items: right;
+    float: right;
+}
+
+.map {
+    height: 400px;
+    width: 90%;
 }
 
 .main-images {
@@ -96,10 +128,14 @@
     width: 33.3%
 }
 
-@media screen and (max-width: 1150px) {
+
+@media screen and (max-width: 1175px) {
     .navbar-item {
         display: none;
-    }   
+    } 
+    .navbar-divider {
+        display: none; 
+    }  
     .dropdown {
         display: block;
         padding: 0 6px;

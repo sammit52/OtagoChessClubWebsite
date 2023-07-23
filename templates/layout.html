@@ -16,9 +16,7 @@
 
             <div class="navbar">
                 <div class="dropdown">
-                    <button role="button" type="button" class="btn dropdown" data-toggle="dropdown"> 
-                        &#8801;
-                    </button>
+                    <button role="button" type="button" class="btn dropdown" data-toggle="dropdown">&#8801;</button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                         <a class="dropdown-item" href="{{ url_for('home') }}">HOME</a>
                         <a class="dropdown-item" href="{{ url_for('about') }}">ABOUT</a>
@@ -34,21 +32,21 @@
 
                 <div>
                         <a style = "text-decoration: none;" href="{{ url_for('home') }}" class="navbar-item">HOME</a>
-                        <p class="navbar-item">&#9474;</p>
+                        <p class="navbar-divider">&#9474;</p>
                         <a style = "text-decoration: none;" href="{{ url_for('about') }}" class="navbar-item">ABOUT</a>
-                        <p class="navbar-item">&#9474;</p>
+                        <p class="navbar-divider">&#9474;</p>
                         <a style = "text-decoration: none;" href="{{ url_for('news') }}" class="navbar-item">NEWS</a>
-                        <p class="navbar-item">&#9474;</p>
+                        <p class="navbar-divider">&#9474;</p>
                         <a style = "text-decoration: none;" href="{{ url_for('notices') }}" class="navbar-item">NOTICES</a>
-                        <p class="navbar-item">&#9474;</p>
+                        <p class="navbar-divider">&#9474;</p>
                         <a style = "text-decoration: none;" href="{{ url_for('calendar') }}" class="navbar-item">CALENDAR</a>
-                        <p class="navbar-item">&#9474;</p>
+                        <p class="navbar-divider">&#9474;</p>
                         <a style = "text-decoration: none;" href="{{ url_for('tournaments') }}" class="navbar-item">TOURNAMENTS</a>
-                        <p class="navbar-item">&#9474;</p>
+                        <p class="navbar-divider">&#9474;</p>
                         <a style = "text-decoration: none;" href="{{ url_for('results') }}" class="navbar-item">RESULTS</a>
-                        <p class="navbar-item">&#9474;</p>
+                        <p class="navbar-divider">&#9474;</p>
                         <a style = "text-decoration: none;" href="{{ url_for('ratings') }}" class="navbar-item">RATINGS</a>
-                        <p class="navbar-item">&#9474;</p>
+                        <p class="navbar-divider">&#9474;</p>
                         <a style = "text-decoration: none;" href="{{ url_for('library') }}" class="navbar-item">LIBRARY</a>
                 </div>  
             </div>
@@ -58,7 +56,6 @@
             <div class="body-content">
                 {% block content %}
                 {% endblock %}
-                <hr/>
             </div>
             
             <footer class = "footer">
