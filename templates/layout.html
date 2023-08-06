@@ -6,8 +6,11 @@
         <title>
             {% block title %}{% endblock %}
         </title>
+        <link rel="icon" type="image/x-icon" href="{{ url_for('static', filename='images/OCCLogo.gif') }}">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='site.css')}}"/>
+        <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='site.css')}}">
+        {% block script %}{% endblock %}
+
     </head>
 
     <body>
@@ -29,7 +32,6 @@
                         <a class="dropdown-item" href="{{ url_for('library') }}">LIBRARY</a>
                     </div>
                 </div>
-
                 <div>
                         <a style = "text-decoration: none;" href="{{ url_for('home') }}" class="navbar-item">HOME</a>
                         <p class="navbar-divider">&#9474;</p>

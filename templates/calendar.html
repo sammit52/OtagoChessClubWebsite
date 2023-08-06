@@ -1,7 +1,29 @@
 {% extends "layout.html" %}
+{% block script %}
+<script src = 'fullcalendar/dist/index.global.js'></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var calendarEl = document.getElementById('calendar');
+
+    let calendar = new Calendar(calendarEl, {
+        plugins: [ googleCalendarPlugin ],
+        googleCalendarApiKey: 'AIzaSyCSouPVYumW5IHJGmJzikR4-RIK3tbISeM',
+        events: {
+            googleCalendarAccountId: 'f87833500104928c8fe435ceb2db6f55e81db34f8af20624b565005f8f51eafe@group.calendar.google.com'
+        }
+
+    })
+    calendar.render();
+});
+</script>
+
+
+
+{% endblock %}
 {% block title %}
 Calendar Page
 {% endblock %}
 {% block content %}
 <p>This is the calendar page for the website.</p>
+<div id='calendar'></div>
 {% endblock %}

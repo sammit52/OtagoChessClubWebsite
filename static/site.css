@@ -30,6 +30,8 @@
 
 }
 
+
+
 .navbar-divider {
     font-family: 'Mingzat', sans-serif;
     color: #ffffff;
@@ -78,7 +80,7 @@
 }
 
 .written-content {
-    margin-right: 60px;
+    margin-right: 30px;
 }
 
 .header {
@@ -91,6 +93,7 @@
     width: 50%;
     align-items: left;
     float: left;
+
 }
 
 .upcoming-events {
@@ -128,7 +131,6 @@
     width: 33.3%
 }
 
-
 @media screen and (max-width: 1175px) {
     .navbar-item {
         display: none;
@@ -144,7 +146,10 @@
     .navbar {
         padding: 5px 8px 9px 10px;
     }
-
+    .header {
+        font-size: 3.4lvw;
+    }
+    
 }
 
 @media screen and (max-width: 850px) {
@@ -156,6 +161,9 @@
     }
     .right-container {
         width: 0;
+    }
+    .header {
+        font-size: 29px;
     }
 }
 
