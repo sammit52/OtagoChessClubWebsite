@@ -131,6 +131,11 @@
     width: 33.3%
 }
 
+.calendar {
+    height:50vw;
+    width: auto;
+}
+
 @media screen and (max-width: 1175px) {
     .navbar-item {
         display: none;
