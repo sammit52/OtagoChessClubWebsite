@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
         googleCalendarApiKey: 'AIzaSyBrSepztiiinJcyMsWfUjhjcLK9qA8Cm14',
 
         events: 'f87833500104928c8fe435ceb2db6f55e81db34f8af20624b565005f8f51eafe@group.calendar.google.com',
-
+        
         eventClick: function(arg) {
 
         window.open(arg.event.url, '_blank', 'width=700,height=600');
@@ -39,6 +39,6 @@ document.addEventListener('DOMContentLoaded', function() {
 Calendar Page
 {% endblock %}
 {% block content %}
-<p>This is the calendar page for the website.</p>
+<h1 class="header">This is the calendar page for the website.</h1>
 <div class='calendar' id='calendar'></div>
 {% endblock %}

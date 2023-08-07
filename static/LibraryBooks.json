@@ -1,0 +1,5816 @@
+[
+ {
+   "FIELD1": "Number",
+   "FIELD2": "Category",
+   "FIELD3": "Author",
+   "FIELD4": "Title",
+   "FIELD5": "Date",
+   "FIELD6": "Notation",
+   "FIELD7": "Notes"
+ },
+ {
+   "FIELD1": "1411",
+   "FIELD2": "Biography",
+   "FIELD3": "Brady, Frank",
+   "FIELD4": "Profile of a Prodigy: The Life and Games of Bobby Fischer",
+   "FIELD5": "1965",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1243",
+   "FIELD2": "Biography",
+   "FIELD3": "Euwe, Max",
+   "FIELD4": "Meet the Masters",
+   "FIELD5": "1945",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1324",
+   "FIELD2": "Biography",
+   "FIELD3": "Euwe, Max",
+   "FIELD4": "Meet the Masters",
+   "FIELD5": "1940",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1577",
+   "FIELD2": "Biography",
+   "FIELD3": "Földeák, Árpád",
+   "FIELD4": "Chess Olympiads 1927-1968",
+   "FIELD5": "1968",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1622",
+   "FIELD2": "Biography",
+   "FIELD3": "Forbes, Cathy",
+   "FIELD4": "The Polgar Sisters Training or Genius?",
+   "FIELD5": "1992",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1377",
+   "FIELD2": "Biography",
+   "FIELD3": "Gligoric & Wade",
+   "FIELD4": "The World Chess Championship",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1435",
+   "FIELD2": "Biography",
+   "FIELD3": "Greygoose, Frank",
+   "FIELD4": "Chessmen",
+   "FIELD5": "1979",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Roger Gonin"
+ },
+ {
+   "FIELD1": "1490",
+   "FIELD2": "Biography",
+   "FIELD3": "Gufeld et al",
+   "FIELD4": "Bobby Fischer from Genius to Legend",
+   "FIELD5": "2002",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Tony Dowden"
+ },
+ {
+   "FIELD1": "1141",
+   "FIELD2": "Biography",
+   "FIELD3": "Hannak, Dr J.",
+   "FIELD4": "Emanuel Lasker – The Life of a Chess Master",
+   "FIELD5": "1952",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1320",
+   "FIELD2": "Biography",
+   "FIELD3": "Kasparov & Wade",
+   "FIELD4": "Fighting Chess: Games and Career",
+   "FIELD5": "1988",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1356",
+   "FIELD2": "Biography",
+   "FIELD3": "Keres & Golombek",
+   "FIELD4": "Grandmaster of Chess – The Middle Years of Paul Keres",
+   "FIELD5": "1966",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1180",
+   "FIELD2": "Biography",
+   "FIELD3": "Kotov, Alexander",
+   "FIELD4": "Alexander Alekhine",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1413",
+   "FIELD2": "Biography",
+   "FIELD3": "Lawton, Geoff",
+   "FIELD4": "Tony Miles: It's Only Me",
+   "FIELD5": "2003",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1375",
+   "FIELD2": "Biography",
+   "FIELD3": "Levy, David N.L.",
+   "FIELD4": "Svetozar Gligoric's Chess Career",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1348",
+   "FIELD2": "Biography",
+   "FIELD3": "Marshall, Frank J.",
+   "FIELD4": "Frank J. Marshall's best games of chess",
+   "FIELD5": "1942",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1513",
+   "FIELD2": "Biography",
+   "FIELD3": "Polgar, Susan with Truong, Paul",
+   "FIELD4": "Breaking Through",
+   "FIELD5": "2005",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1592",
+   "FIELD2": "Biography",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "The Human Side of Chess",
+   "FIELD5": "1953",
+   "FIELD6": "N/A",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1637",
+   "FIELD2": "Biography",
+   "FIELD3": "Saidy & Lessing",
+   "FIELD4": "The World of Chess",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Marilyn Jankowska"
+ },
+ {
+   "FIELD1": "1302",
+   "FIELD2": "Biography",
+   "FIELD3": "Sarapu, Ortvin",
+   "FIELD4": "Mr Chess' The Ortvin Sarapu Story",
+   "FIELD5": "1993",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1384",
+   "FIELD2": "Biography",
+   "FIELD3": "Schonberg, Harold C.",
+   "FIELD4": "Grandmasters of chess",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1419",
+   "FIELD2": "Biography",
+   "FIELD3": "Schonberg, Harold C.",
+   "FIELD4": "Grandmasters of chess",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1523",
+   "FIELD2": "Biography",
+   "FIELD3": "Tal, Mikhail",
+   "FIELD4": "The Life and Games of Mikhail Tal",
+   "FIELD5": "1997",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1448",
+   "FIELD2": "Biography",
+   "FIELD3": "Vainstein, B.S.",
+   "FIELD4": "David Bronstein – Chess Improviser",
+   "FIELD5": "1983",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1588",
+   "FIELD2": "Biography",
+   "FIELD3": "Vasiliev, Vik. L.",
+   "FIELD4": "Tigran Petrosian his Life and Games",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1446",
+   "FIELD2": "Biography",
+   "FIELD3": "Waitzkin, Fred",
+   "FIELD4": "Searching for Bobby Fischer",
+   "FIELD5": "1988",
+   "FIELD6": "N/A",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1192",
+   "FIELD2": "Ending",
+   "FIELD3": "Averbakh & Chekhover",
+   "FIELD4": "Knight Endings",
+   "FIELD5": "1977",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1194",
+   "FIELD2": "Ending",
+   "FIELD3": "Averbakh & Maizelis",
+   "FIELD4": "Pawn Endings",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1578",
+   "FIELD2": "Ending",
+   "FIELD3": "Averbakh, Chekhover & Henkin",
+   "FIELD4": "Queen v. Rook/Minor Piece Endings",
+   "FIELD5": "1978",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1604",
+   "FIELD2": "Ending",
+   "FIELD3": "Averbakh, Yuri",
+   "FIELD4": "Bishop Endings",
+   "FIELD5": "1977",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1191",
+   "FIELD2": "Ending",
+   "FIELD3": "Averbakh, Yuri",
+   "FIELD4": "Bishop v. Knight Endings",
+   "FIELD5": "1976",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1186",
+   "FIELD2": "Ending",
+   "FIELD3": "Averbakh, Yuri",
+   "FIELD4": "Chess Endings: Essential Knowledge",
+   "FIELD5": "1987",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1372",
+   "FIELD2": "Ending",
+   "FIELD3": "Averbakh, Yuri",
+   "FIELD4": "Chess Endings: Essential Knowledge",
+   "FIELD5": "1966",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1193",
+   "FIELD2": "Ending",
+   "FIELD3": "Averbakh, Yuri",
+   "FIELD4": "Queen and Pawn Endings",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1573",
+   "FIELD2": "Ending",
+   "FIELD3": "Averbakh, Yuri",
+   "FIELD4": "Rook v. Minor Piece Endings",
+   "FIELD5": "1978",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1188",
+   "FIELD2": "Ending",
+   "FIELD3": "Averbakh, Yuri",
+   "FIELD4": "Shakhmatny Okonchaniya (Chess Endings)",
+   "FIELD5": "1984",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, in Russian"
+ },
+ {
+   "FIELD1": "1181",
+   "FIELD2": "Ending",
+   "FIELD3": "Bán, Jenö",
+   "FIELD4": "The Tactics of Endgames",
+   "FIELD5": "1963",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1313",
+   "FIELD2": "Ending",
+   "FIELD3": "Bán, Jenö",
+   "FIELD4": "The Tactics of Endgames",
+   "FIELD5": "1997",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1373",
+   "FIELD2": "Ending",
+   "FIELD3": "Barden, Leonard",
+   "FIELD4": "How to Play the Endgame in Chess",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1484",
+   "FIELD2": "Ending",
+   "FIELD3": "Barden, Leonard",
+   "FIELD4": "How to Play the Endgame in Chess",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1599",
+   "FIELD2": "Ending",
+   "FIELD3": "Beliavsky & Mikhalchishin",
+   "FIELD4": "Modern Endgame Practice",
+   "FIELD5": "2003",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1371",
+   "FIELD2": "Ending",
+   "FIELD3": "Botvinnik, M. M.",
+   "FIELD4": "Botvinnik of the End Game",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1189",
+   "FIELD2": "Ending",
+   "FIELD3": "Bouwmeester, Hans",
+   "FIELD4": "Modern End-game Studies for the Chess-player",
+   "FIELD5": "1959",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1352",
+   "FIELD2": "Ending",
+   "FIELD3": "Bouwmeester, Hans",
+   "FIELD4": "Modern End-game Studies for the Chess-player",
+   "FIELD5": "1959",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1474",
+   "FIELD2": "Ending",
+   "FIELD3": "Chernev, Irving",
+   "FIELD4": "Capablanca's Best Chess Endings",
+   "FIELD5": "1978",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1403",
+   "FIELD2": "Ending",
+   "FIELD3": "Chernev, Irving",
+   "FIELD4": "Chessboard Magic!",
+   "FIELD5": "1943",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1109",
+   "FIELD2": "Ending",
+   "FIELD3": "Cheron, Andre",
+   "FIELD4": "Lehr- und Handbuch der Endspiele (Vol 1)",
+   "FIELD5": "1952",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1110",
+   "FIELD2": "Ending",
+   "FIELD3": "Cheron, Andre",
+   "FIELD4": "Lehr- und Handbuch der Endspiele (Vol 2)",
+   "FIELD5": "1952",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1111",
+   "FIELD2": "Ending",
+   "FIELD3": "Cheron, Andre",
+   "FIELD4": "Lehr- und Handbuch der Endspiele (Vol 3)",
+   "FIELD5": "1952",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1182",
+   "FIELD2": "Ending",
+   "FIELD3": "Fine, Reuben",
+   "FIELD4": "Basic Chess Endings",
+   "FIELD5": "1941",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1517",
+   "FIELD2": "Ending",
+   "FIELD3": "Flear, Glenn",
+   "FIELD4": "Improve your endgame play",
+   "FIELD5": "2000",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1502",
+   "FIELD2": "Ending",
+   "FIELD3": "Hooper, David",
+   "FIELD4": "A Pocket Guide to Chess Endgames",
+   "FIELD5": "1970",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1187",
+   "FIELD2": "Ending",
+   "FIELD3": "Keres, Paul",
+   "FIELD4": "Practical Chess Endings",
+   "FIELD5": "1974",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1553",
+   "FIELD2": "Ending",
+   "FIELD3": "Keres, Paul",
+   "FIELD4": "Practical Chess Endings",
+   "FIELD5": "1973",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1185",
+   "FIELD2": "Ending",
+   "FIELD3": "Levenfish & Smyslov",
+   "FIELD4": "Rook Endings",
+   "FIELD5": "1971",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1396",
+   "FIELD2": "Ending",
+   "FIELD3": "Levenfish & Smyslov",
+   "FIELD4": "Rook Endings",
+   "FIELD5": "1989",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1466",
+   "FIELD2": "Ending",
+   "FIELD3": "Levenfish & Smyslov",
+   "FIELD4": "Rook Endings",
+   "FIELD5": "1989",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1184",
+   "FIELD2": "Ending",
+   "FIELD3": "Lommer, Harold M.",
+   "FIELD4": "1357 Endgame Studies",
+   "FIELD5": "1975",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1108",
+   "FIELD2": "Ending",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Classification of Chess Endings – The Best Endings of Capablanca and Fischer",
+   "FIELD5": "1978",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1343",
+   "FIELD2": "Ending",
+   "FIELD3": "Mednis, Edmar",
+   "FIELD4": "Practical Rook Endings",
+   "FIELD5": "1982",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1338",
+   "FIELD2": "Ending",
+   "FIELD3": "Mednis, Edmar",
+   "FIELD4": "Questions and Answers on practical Endgame play",
+   "FIELD5": "1987",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1507",
+   "FIELD2": "Ending",
+   "FIELD3": "Muller, Karsten and Lamprecht, Frank",
+   "FIELD4": "Fundamental Chess Endings",
+   "FIELD5": "2001",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1508",
+   "FIELD2": "Ending",
+   "FIELD3": "Nunn, John",
+   "FIELD4": "Endgame Challenge",
+   "FIELD5": "2002",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1589",
+   "FIELD2": "Ending",
+   "FIELD3": "Nunn, John",
+   "FIELD4": "Tactical Chess Endings",
+   "FIELD5": "1981",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1605",
+   "FIELD2": "Ending",
+   "FIELD3": "Pandolfini, Bruce",
+   "FIELD4": "Beginning Chess",
+   "FIELD5": "1993",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1112",
+   "FIELD2": "Ending",
+   "FIELD3": "Portisch & Sarkozy",
+   "FIELD4": "Six Hundred Endings",
+   "FIELD5": "1981",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1183",
+   "FIELD2": "Ending",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Practical End-game Play",
+   "FIELD5": "1945",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1452",
+   "FIELD2": "Ending",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Practical End-game Play",
+   "FIELD5": "1940",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1339",
+   "FIELD2": "Ending",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Strategy in the chess endgame",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1437",
+   "FIELD2": "Ending",
+   "FIELD3": "Schiller, Eric",
+   "FIELD4": "639 Essential Endgame Positions",
+   "FIELD5": "2000",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1519",
+   "FIELD2": "Ending",
+   "FIELD3": "Seirawan, Yasser",
+   "FIELD4": "Winning Chess Endings",
+   "FIELD5": "2003",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1585",
+   "FIELD2": "Ending",
+   "FIELD3": "Sutherland & Lommer",
+   "FIELD4": "1234 Modern Endgame Studies",
+   "FIELD5": "1968",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1190",
+   "FIELD2": "Ending",
+   "FIELD3": "Yanofsky, D.A.",
+   "FIELD4": "How to Win End-games",
+   "FIELD5": "1957",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1410",
+   "FIELD2": "Ending",
+   "FIELD3": "Znosko-Borovsky, Eugene",
+   "FIELD4": "How to play chess endings",
+   "FIELD5": "1952",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1534",
+   "FIELD2": "Fiction",
+   "FIELD3": "Hood, David",
+   "FIELD4": "The Chess Men",
+   "FIELD5": "1999",
+   "FIELD6": "N/A",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1175",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Alekhine, Alexander",
+   "FIELD4": "My Best Games of Chess 1908-1923",
+   "FIELD5": "1960",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1340",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Alekhine, Alexander",
+   "FIELD4": "My Best Games of Chess 1908-1923",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1176",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Alekhine, Alexander",
+   "FIELD4": "My Best Games of Chess 1924-1937",
+   "FIELD5": "1955",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1389",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Alekhine, Alexander",
+   "FIELD4": "My Best Games of Chess 1924-1937",
+   "FIELD5": "1947",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1179",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Alexander, C.H.O'D.",
+   "FIELD4": "Alekhine's Best Games of Chess 1938-1945",
+   "FIELD5": "1959",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1391",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Alexander, C.H.O'D.",
+   "FIELD4": "Alekhine's Best Games of Chess 1938-1945",
+   "FIELD5": "1949",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1121",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Blackburne, J. H.",
+   "FIELD4": "Blackburne's Chess Games",
+   "FIELD5": "1979",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1132",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Botvinnik, M. M.",
+   "FIELD4": "Botvinnik's Best Games 1947-1970",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1126",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Botvinnik, M. M.",
+   "FIELD4": "One Hundred Selected Games",
+   "FIELD5": "1960",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1308",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Botvinnik, M. M.",
+   "FIELD4": "Selected Games 1967-1970",
+   "FIELD5": "1981",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1414",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Bronstein & Fürstenberg",
+   "FIELD4": "The Sorceror's Apprentice",
+   "FIELD5": "1995",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1309",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Bronstein, David",
+   "FIELD4": "200 Open Games",
+   "FIELD5": "1977",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Terry Duffield"
+ },
+ {
+   "FIELD1": "1496",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Burgess, Nunn & Emms",
+   "FIELD4": "The Mammoth Book of the World’s Greatest Chess Games",
+   "FIELD5": "2010",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1455",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Cafferty, Bernard",
+   "FIELD4": "Tal's 100 Best Games",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1322",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Chernev, Irving",
+   "FIELD4": "The Most Instructive Games of Chess Ever Played",
+   "FIELD5": "1965",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1458",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Chernev, Irving",
+   "FIELD4": "The Most Instructive Games of Chess Ever Played",
+   "FIELD5": "1965",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1427",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Chernev, Irving",
+   "FIELD4": "The Russians Play Chess",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1228",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Clarke, P.H.",
+   "FIELD4": "100 Soviet Miniatures",
+   "FIELD5": "1963",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1409",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Clarke, P.H.",
+   "FIELD4": "Mikhail Tal's Best Games of Chess",
+   "FIELD5": "1961",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1142",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Clarke, P.H.",
+   "FIELD4": "Petrosian's Best Games of Chess",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1390",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Clarke, P.H.",
+   "FIELD4": "Petrosian's Best Games of Chess 1946-1963",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1218",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Coles, R.N.",
+   "FIELD4": "Battles-royal of the Chessboard",
+   "FIELD5": "1948",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1227",
+   "FIELD2": "Games Collection",
+   "FIELD3": "du Mont, J.",
+   "FIELD4": "200 Miniature Games of Chess",
+   "FIELD5": "1941",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1245",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Emery, Alfred",
+   "FIELD4": "Chess of Today",
+   "FIELD5": "1924",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1249",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Fine, Reuben",
+   "FIELD4": "The World's Great Chess Games",
+   "FIELD5": "1952",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1124",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Fischer, Robert J.",
+   "FIELD4": "My 60 Memorable Games",
+   "FIELD5": "1969",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1307",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Fischer, Robert J.",
+   "FIELD4": "My 60 Memorable Games",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1374",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Fischer, Robert J.",
+   "FIELD4": "My 60 Memorable Games",
+   "FIELD5": "1969",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1247",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Gligoric, Svetzovar",
+   "FIELD4": "Selected Chess Masterpieces",
+   "FIELD5": "1970",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1350",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Gligorich, Svetozar",
+   "FIELD4": "Selected Chess Masterpieces",
+   "FIELD5": "1970",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1155",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Golombek, H.",
+   "FIELD4": "Capablanca's 100 Best Games of Chess",
+   "FIELD5": "1947",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1358",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Golombek, H.",
+   "FIELD4": "Capablanca's 100 Best Games of Chess",
+   "FIELD5": "1947",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1433",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Golombek, H.",
+   "FIELD4": "Capablanca's 100 Best Games of Chess",
+   "FIELD5": "1970",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Roger Gonin"
+ },
+ {
+   "FIELD1": "1240",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Golombek, H.",
+   "FIELD4": "Fifty Great Games of Modern Chess",
+   "FIELD5": "1947",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1354",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Golombek, H.",
+   "FIELD4": "Fifty Great Games of Modern Chess",
+   "FIELD5": "1947",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1143",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Golombek, H.",
+   "FIELD4": "Reti's Best Games of Chess",
+   "FIELD5": "1954",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1197",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Hajtun, J.",
+   "FIELD4": "Sekected Games of Mikhail Tal",
+   "FIELD5": "1961",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1454",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Hajtun, J.",
+   "FIELD4": "Selected Games of Mikhail Tal",
+   "FIELD5": "1961",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1445",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Heidenfeld, W.",
+   "FIELD4": "Draw!",
+   "FIELD5": "1982",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1587",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Karpov, Anatoly",
+   "FIELD4": "Learn From Your Defeats",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1457",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Kasparov, Gary",
+   "FIELD4": "My Games",
+   "FIELD5": "1983",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1428",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Keene, Raymond",
+   "FIELD4": "Fischer' Chess Games",
+   "FIELD5": "1980",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1393",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Keres & Golombek",
+   "FIELD4": "Grandmaster of Chess – The Early Games of Paul Keres",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1140",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Keres & Golombek",
+   "FIELD4": "Grandmaster of Chess – The Later Year of Paul Keres",
+   "FIELD5": "1969",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1135",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Kmoch, Hans",
+   "FIELD4": "Rubinstein's Chess Masterpieces",
+   "FIELD5": "1941",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1394",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Kmoch, Hans",
+   "FIELD4": "Rubinstein's Chess Masterpieces/ 100 Selected Games",
+   "FIELD5": "1941",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1586",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Korchnoi, Wade & Blackstock",
+   "FIELD4": "Korchnoi's 400 Best Games",
+   "FIELD5": "1978",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1133",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Levy & O'Connell",
+   "FIELD4": "Korchnoi's Chess Games",
+   "FIELD5": "1979",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1138",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Marshall, Frank J.",
+   "FIELD4": "Marshall's Best Games of Chess",
+   "FIELD5": "1942",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1198",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Nunn & Griffiths",
+   "FIELD4": "Secrets of Grandmaster Play",
+   "FIELD5": "1987",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1597",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Nunn, John",
+   "FIELD4": "John Nunn's Best Games",
+   "FIELD5": "1995",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1602",
+   "FIELD2": "Games Collection",
+   "FIELD3": "O'Connell, Levy & Adams",
+   "FIELD4": "The Complete Games of World Champion Anatoly Karpov",
+   "FIELD5": "1976",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1451",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Pachman's Decisive Games",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1450",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Reinfeld & Chernev",
+   "FIELD4": "Chess Strategy and Tactics",
+   "FIELD5": "1933",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1137",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Reinfeld & Fine",
+   "FIELD4": "Lasker's Greatest Chess Games 1889-1914",
+   "FIELD5": "1935",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1314",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "A Treasury of British Chess Masterpieces",
+   "FIELD5": "1962",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1379",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "British Chess Masters Past and Present",
+   "FIELD5": "1947",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1304",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Chess Masters on Winning Chess",
+   "FIELD5": "1960",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1579",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Hypermodern Chess",
+   "FIELD5": "1948",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1552",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Tarrasch's Best Games of Chess",
+   "FIELD5": "1960",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1607",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "The Immortal Games of Capablanca",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1346",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Reshevsky, Samuel",
+   "FIELD4": "How chess games are won",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1429",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Reshevsky, Samuel",
+   "FIELD4": "The Art of Positional Play",
+   "FIELD5": "1976",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1219",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Reti, Richard",
+   "FIELD4": "Masters of the Chessboard",
+   "FIELD5": "1932",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1521",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Seirawan, Yasser",
+   "FIELD4": "Winning Chess Brilliancies",
+   "FIELD5": "2003",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1139",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Sergeant, Philip W.",
+   "FIELD4": "Morphy's Games of Chess",
+   "FIELD5": "1957",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1382",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Tartakower & du Mont",
+   "FIELD4": "100 Master Games of Modern Chess",
+   "FIELD5": "1954",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1250",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Tartakower & du Mont",
+   "FIELD4": "500 Master Games of Chess, Book I",
+   "FIELD5": "1952",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1251",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Tartakower & du Mont",
+   "FIELD4": "501 Master Games of Chess, Books II & III",
+   "FIELD5": "1952",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1590",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Thomas, Hilary",
+   "FIELD4": "Complete Games of Mikhail Tal 1936-59",
+   "FIELD5": "1980",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1220",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Watts & Hereford",
+   "FIELD4": "Every Game Check mate",
+   "FIELD5": "1930",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1244",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Watts & Hereford",
+   "FIELD4": "Every Game Check mate",
+   "FIELD5": "1931",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1387",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Wenman, P.",
+   "FIELD4": "Master Chess Play",
+   "FIELD5": "1951",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1217",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Wenman, P.",
+   "FIELD4": "One Hundred Chess Gems",
+   "FIELD5": "1945",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1144",
+   "FIELD2": "Games Collection",
+   "FIELD3": "Wildhagen, Dr E.",
+   "FIELD4": "Weltgeschichte des Schachs – Lieferung 26 Petrosjan",
+   "FIELD5": "1963",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1367",
+   "FIELD2": "General",
+   "FIELD3": "Abrahams, Gerald",
+   "FIELD4": "Test Your Chess",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1366",
+   "FIELD2": "General",
+   "FIELD3": "Abrahams, Gerald",
+   "FIELD4": "The Pan book of Chess",
+   "FIELD5": "1965",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1224",
+   "FIELD2": "General",
+   "FIELD3": "Alexander & Beach",
+   "FIELD4": "Learn Chess: A new way for all – Volume Two: Wninning Methods",
+   "FIELD5": "1963",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1122",
+   "FIELD2": "General",
+   "FIELD3": "Aptekar, Lev",
+   "FIELD4": "Wisdom in Chess",
+   "FIELD5": "1987",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1456",
+   "FIELD2": "General",
+   "FIELD3": "Aptekar, Lev",
+   "FIELD4": "Wisdom in Chess",
+   "FIELD5": "1987",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1601",
+   "FIELD2": "General",
+   "FIELD3": "Averbakh, Yuri",
+   "FIELD4": "Chess Tactics for Advanced Players",
+   "FIELD5": "1984",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1210",
+   "FIELD2": "General",
+   "FIELD3": "Avni, Amatzia",
+   "FIELD4": "Creative Chess",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1424",
+   "FIELD2": "General",
+   "FIELD3": "Barden, Leonard",
+   "FIELD4": "Play Better Chess",
+   "FIELD5": "1980",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1436",
+   "FIELD2": "General",
+   "FIELD3": "Barden, Leonard",
+   "FIELD4": "Play Better Chess",
+   "FIELD5": "1980",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Roger Gonin"
+ },
+ {
+   "FIELD1": "1368",
+   "FIELD2": "General",
+   "FIELD3": "Barden, Leonard",
+   "FIELD4": "The Guardian Chess Book",
+   "FIELD5": "1967",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1453",
+   "FIELD2": "General",
+   "FIELD3": "Belasco, Albert",
+   "FIELD4": "Chess and Draughts How to Play Scientifically",
+   "FIELD5": "1962",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1415",
+   "FIELD2": "General",
+   "FIELD3": "Bott & Morrison",
+   "FIELD4": "Discovering Chess",
+   "FIELD5": "1973",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1306",
+   "FIELD2": "General",
+   "FIELD3": "Bott & Morrison",
+   "FIELD4": "More Chess for Children",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1638",
+   "FIELD2": "General",
+   "FIELD3": "Bott & Morrison",
+   "FIELD4": "More Chess for Children",
+   "FIELD5": "1968",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Marilyn Jankowska"
+ },
+ {
+   "FIELD1": "1606",
+   "FIELD2": "General",
+   "FIELD3": "Brace, Edward R.",
+   "FIELD4": "An illustrated dictionary of Chess",
+   "FIELD5": "1979",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1495",
+   "FIELD2": "General",
+   "FIELD3": "Burgess, Graham",
+   "FIELD4": "The Mammoth Book of Chess",
+   "FIELD5": "1997",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1628",
+   "FIELD2": "General",
+   "FIELD3": "Burgess, Graham",
+   "FIELD4": "The Mammoth Book of Chess",
+   "FIELD5": "2009",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Max Lough"
+ },
+ {
+   "FIELD1": "1434",
+   "FIELD2": "General",
+   "FIELD3": "Capablanca, Jose R.",
+   "FIELD4": "A Primer of Chess",
+   "FIELD5": "1935",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Roger Gonin"
+ },
+ {
+   "FIELD1": "1303",
+   "FIELD2": "General",
+   "FIELD3": "Capablanca, Jose R.",
+   "FIELD4": "Chess Fundamentals",
+   "FIELD5": "1971",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1363",
+   "FIELD2": "General",
+   "FIELD3": "Capablanca, Jose R.",
+   "FIELD4": "Chess Fundamentals",
+   "FIELD5": "1951",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1125",
+   "FIELD2": "General",
+   "FIELD3": "Capablanca, Jose R.",
+   "FIELD4": "Last Lectures: The Chess Legacy of Jose Raoul Capablanca",
+   "FIELD5": "1966",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1351",
+   "FIELD2": "General",
+   "FIELD3": "Capablanca, Jose R.",
+   "FIELD4": "Last Lectures: The Chess Legacy of Jose Raoul Capablanca",
+   "FIELD5": "1966",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1497",
+   "FIELD2": "General",
+   "FIELD3": "Chernev, Irving",
+   "FIELD4": "Logical Chess: Move by Move",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1349",
+   "FIELD2": "General",
+   "FIELD3": "Chernev, Irving",
+   "FIELD4": "The Bright Side of Chess",
+   "FIELD5": "1952",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1639",
+   "FIELD2": "General",
+   "FIELD3": "Cunnington, E. E.",
+   "FIELD4": "Chess Traps and Strategems",
+   "FIELD5": "1920",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Marilyn Jankowska"
+ },
+ {
+   "FIELD1": "1562",
+   "FIELD2": "General",
+   "FIELD3": "Depasquale, Chris",
+   "FIELD4": "My 60 Memorable Columns",
+   "FIELD5": "1995",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1501",
+   "FIELD2": "General",
+   "FIELD3": "Ellison, George",
+   "FIELD4": "Spike’s Chess Primer",
+   "FIELD5": "1983",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1312",
+   "FIELD2": "General",
+   "FIELD3": "Fischer, Robert J.",
+   "FIELD4": "Bobby Fischer Teaches Chess",
+   "FIELD5": "1972",
+   "FIELD6": "diagram only",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1365",
+   "FIELD2": "General",
+   "FIELD3": "Fischer, Robert J.",
+   "FIELD4": "Bobby Fischer Teaches Chess",
+   "FIELD5": "1966",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1616",
+   "FIELD2": "General",
+   "FIELD3": "Fox & James",
+   "FIELD4": "The Even More Complete Chess Addict",
+   "FIELD5": "1993",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1400",
+   "FIELD2": "General",
+   "FIELD3": "Fraenkel, Heinrich ('Assiac')",
+   "FIELD4": "Adventure in Chess",
+   "FIELD5": "1951",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1355",
+   "FIELD2": "General",
+   "FIELD3": "Fraenkel, Heinrich ('Assiac')",
+   "FIELD4": "The Delights of Chess",
+   "FIELD5": "1960",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1596",
+   "FIELD2": "General",
+   "FIELD3": "Gligoric, Svetzovar",
+   "FIELD4": "Shall We Play Fischerrandom Chess?",
+   "FIELD5": "2002",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1421",
+   "FIELD2": "General",
+   "FIELD3": "Golombek, H.",
+   "FIELD4": "The Game of Chess",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1549",
+   "FIELD2": "General",
+   "FIELD3": "Golombek, H.",
+   "FIELD4": "The Game of Chess",
+   "FIELD5": "1954",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1483",
+   "FIELD2": "General",
+   "FIELD3": "Golombek, Harry",
+   "FIELD4": "Improve your Chess",
+   "FIELD5": "1976",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1361",
+   "FIELD2": "General",
+   "FIELD3": "Green, R. F.",
+   "FIELD4": "Chess",
+   "FIELD5": "1951",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1489",
+   "FIELD2": "General",
+   "FIELD3": "Green, R. F.",
+   "FIELD4": "Chess",
+   "FIELD5": "1934",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1462",
+   "FIELD2": "General",
+   "FIELD3": "Grishin & Ilyin",
+   "FIELD4": "The ABC of Chess",
+   "FIELD5": "1986",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1575",
+   "FIELD2": "General",
+   "FIELD3": "Gufeld, Eduard",
+   "FIELD4": "Exploiting Small Advantages",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1460",
+   "FIELD2": "General",
+   "FIELD3": "Hanauer, Milton L.",
+   "FIELD4": "Chess Made Easy",
+   "FIELD5": "1973",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1467",
+   "FIELD2": "General",
+   "FIELD3": "Harding, Tim",
+   "FIELD4": "Better Chess for Average Players",
+   "FIELD5": "1978",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1463",
+   "FIELD2": "General",
+   "FIELD3": "Harding, Tim",
+   "FIELD4": "Why you lose at Chess",
+   "FIELD5": "1982",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1557",
+   "FIELD2": "General",
+   "FIELD3": "Harding, Tim",
+   "FIELD4": "Why you lose at Chess",
+   "FIELD5": "1982",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1216",
+   "FIELD2": "General",
+   "FIELD3": "Harley, Brian",
+   "FIELD4": "Chess and its Stars",
+   "FIELD5": "1936",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1317",
+   "FIELD2": "General",
+   "FIELD3": "Hartston, William R.",
+   "FIELD4": "Teach Yourself Better Chess",
+   "FIELD5": "1997",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1318",
+   "FIELD2": "General",
+   "FIELD3": "Hartston, William R.",
+   "FIELD4": "Teach Yourself Better Chess",
+   "FIELD5": "1997",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1319",
+   "FIELD2": "General",
+   "FIELD3": "Hartston, William R.",
+   "FIELD4": "Teach Yourself Chess",
+   "FIELD5": "1996",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1611",
+   "FIELD2": "General",
+   "FIELD3": "Horowitz & Rothenberg",
+   "FIELD4": "The Complete Book of Chess",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1478",
+   "FIELD2": "General",
+   "FIELD3": "Horowitz, I. A.",
+   "FIELD4": "All About Chess",
+   "FIELD5": "1971",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1619",
+   "FIELD2": "General",
+   "FIELD3": "Horowitz, I. A.",
+   "FIELD4": "Solitaire Chess",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1128",
+   "FIELD2": "General",
+   "FIELD3": "Hübner, Robert",
+   "FIELD4": "Fünfundfünfzig feiste Fehler",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton,"
+ },
+ {
+   "FIELD1": "1503",
+   "FIELD2": "General",
+   "FIELD3": "James, Richard",
+   "FIELD4": "Chess for Kids",
+   "FIELD5": "2010",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1504",
+   "FIELD2": "General",
+   "FIELD3": "James, Richard",
+   "FIELD4": "The Right Way to Teach Chess to Kids",
+   "FIELD5": "2013",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1328",
+   "FIELD2": "General",
+   "FIELD3": "King, Daniel",
+   "FIELD4": "Test Your Chess with Daniel King",
+   "FIELD5": "2004",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1464",
+   "FIELD2": "General",
+   "FIELD3": "Kostyev, Aleksander",
+   "FIELD4": "From Beginner to Expert in 40 Lessons",
+   "FIELD5": "1984",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1406",
+   "FIELD2": "General",
+   "FIELD3": "Kotov & Yudovich",
+   "FIELD4": "The Soviet Chess School",
+   "FIELD5": "1983",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1130",
+   "FIELD2": "General",
+   "FIELD3": "Kotov & Yudovich",
+   "FIELD4": "The Soviet School of Chess",
+   "FIELD5": "1958",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1574",
+   "FIELD2": "General",
+   "FIELD3": "Kotov, Alexander",
+   "FIELD4": "Train Like a Grandmaster",
+   "FIELD5": "1981",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1594",
+   "FIELD2": "General",
+   "FIELD3": "Krogius, Nikolai",
+   "FIELD4": "Psychology in Chess",
+   "FIELD5": "1976",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1423",
+   "FIELD2": "General",
+   "FIELD3": "Langfield, Paul",
+   "FIELD4": "Chess move by move",
+   "FIELD5": "1968",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1505",
+   "FIELD2": "General",
+   "FIELD3": "Lasker, Edward",
+   "FIELD4": "Chess",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1626",
+   "FIELD2": "General",
+   "FIELD3": "Lasker, Edward",
+   "FIELD4": "Chess & Checkers The way to Mastership",
+   "FIELD5": "1918",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1305",
+   "FIELD2": "General",
+   "FIELD3": "Lasker, Edward",
+   "FIELD4": "Chess for fun and chess for blood",
+   "FIELD5": "1942",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1215",
+   "FIELD2": "General",
+   "FIELD3": "Lasker, Edward",
+   "FIELD4": "Mitchell's Guide to the Game of Chess",
+   "FIELD5": "1941",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1418",
+   "FIELD2": "General",
+   "FIELD3": "Lasker, Edward",
+   "FIELD4": "Modern Chess Strategy",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1440",
+   "FIELD2": "General",
+   "FIELD3": "Lasker, Edward",
+   "FIELD4": "Modern Chess Strategy",
+   "FIELD5": "1951",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1214",
+   "FIELD2": "General",
+   "FIELD3": "Lasker, Emanuel",
+   "FIELD4": "Common Sense in Chess",
+   "FIELD5": "1917",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1488",
+   "FIELD2": "General",
+   "FIELD3": "Lasker, Emanuel",
+   "FIELD4": "Common Sense in Chess",
+   "FIELD5": "1917",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1223",
+   "FIELD2": "General",
+   "FIELD3": "Lasker, Emanuel",
+   "FIELD4": "Lasker's Manual of Chess",
+   "FIELD5": "1947",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1470",
+   "FIELD2": "General",
+   "FIELD3": "Lasker, Emanuel",
+   "FIELD4": "Lasker's Manual of Chess",
+   "FIELD5": "1947",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1476",
+   "FIELD2": "General",
+   "FIELD3": "Littlewood, John E.",
+   "FIELD4": "Chess Coaching",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1209",
+   "FIELD2": "General",
+   "FIELD3": "Mednis, Edmar",
+   "FIELD4": "How to be a Complete Tournament Player",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1341",
+   "FIELD2": "General",
+   "FIELD3": "Mieses, J.",
+   "FIELD4": "Instructive positions from master chess",
+   "FIELD5": "1951",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1397",
+   "FIELD2": "General",
+   "FIELD3": "Nimzowitsch, Aron",
+   "FIELD4": "My System",
+   "FIELD5": "1954",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1509",
+   "FIELD2": "General",
+   "FIELD3": "Nunn, John",
+   "FIELD4": "John Nunn’s Chess Course",
+   "FIELD5": "2014",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1559",
+   "FIELD2": "General",
+   "FIELD3": "Nunn, John",
+   "FIELD4": "Secrets of Practical Chess",
+   "FIELD5": "2007",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1353",
+   "FIELD2": "General",
+   "FIELD3": "Pandolfini, Bruce",
+   "FIELD4": "Chess Target Practice",
+   "FIELD5": "1994",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1511",
+   "FIELD2": "General",
+   "FIELD3": "Pelts, Roman & Alburt, Lev",
+   "FIELD4": "Comprehensive Chess Course  -  Volume I",
+   "FIELD5": "2007",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1512",
+   "FIELD2": "General",
+   "FIELD3": "Pelts, Roman & Alburt, Lev",
+   "FIELD4": "Comprehensive Chess Course  -  Volume II",
+   "FIELD5": "2001",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1479",
+   "FIELD2": "General",
+   "FIELD3": "Povah, Nigel",
+   "FIELD4": "Chess Training",
+   "FIELD5": "1981",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1480",
+   "FIELD2": "General",
+   "FIELD3": "Pritchard, D. Brine",
+   "FIELD4": "The Right Way to Play Chess",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1242",
+   "FIELD2": "General",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Chess for Amateurs",
+   "FIELD5": "1954",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1241",
+   "FIELD2": "General",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Chess Mastery by Question and Answer",
+   "FIELD5": "1946",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1300",
+   "FIELD2": "General",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Creative Chess",
+   "FIELD5": "1966",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1404",
+   "FIELD2": "General",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "How to play Chess like a Champion",
+   "FIELD5": "1957",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1609",
+   "FIELD2": "General",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Improve your Chess",
+   "FIELD5": "1977",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1388",
+   "FIELD2": "General",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Improving your chess",
+   "FIELD5": "1954",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1422",
+   "FIELD2": "General",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "The Joys of Chess",
+   "FIELD5": "1961",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1408",
+   "FIELD2": "General",
+   "FIELD3": "Rice, Lipton & Barnes",
+   "FIELD4": "The Two-move Chess Problem: Tradition and Development",
+   "FIELD5": "1966",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1426",
+   "FIELD2": "General",
+   "FIELD3": "Russ, Colin",
+   "FIELD4": "Miniature Chess Problems from Mnay Countries",
+   "FIELD5": "1987",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1515",
+   "FIELD2": "General",
+   "FIELD3": "Seirawan, Yasser with Silman, Jeremy",
+   "FIELD4": "Play Winning Chess",
+   "FIELD5": "2003",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1378",
+   "FIELD2": "General",
+   "FIELD3": "Short, Nigel",
+   "FIELD4": "Nigel Short on Chess",
+   "FIELD5": "1993",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1529",
+   "FIELD2": "General",
+   "FIELD3": "Soltis, Andrew",
+   "FIELD4": "Studying Chess Made Easy",
+   "FIELD5": "2010",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1370",
+   "FIELD2": "General",
+   "FIELD3": "Staunton, Howard",
+   "FIELD4": "The Chess-Player's Handbook",
+   "FIELD5": "1847",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1482",
+   "FIELD2": "General",
+   "FIELD3": "Staunton, Howard",
+   "FIELD4": "The Chess-Player's Handbook",
+   "FIELD5": "1847",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1380",
+   "FIELD2": "General",
+   "FIELD3": "Tartakover, Xavier",
+   "FIELD4": "Bréviaire des échecs",
+   "FIELD5": "1982",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Ray Stone, In French"
+ },
+ {
+   "FIELD1": "1362",
+   "FIELD2": "General",
+   "FIELD3": "Tiller, Terence (ed)",
+   "FIELD4": "Chess Treasury of the Air",
+   "FIELD5": "1966",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1364",
+   "FIELD2": "General",
+   "FIELD3": "Timman, Jan (ed)",
+   "FIELD4": "New in Chess Magazine, 1990 No.4",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1395",
+   "FIELD2": "General",
+   "FIELD3": "Wade, Bob",
+   "FIELD4": "The Batsford Book of Chess",
+   "FIELD5": "1984",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1211",
+   "FIELD2": "General",
+   "FIELD3": "Wade, Robert G.",
+   "FIELD4": "Playing Chess",
+   "FIELD5": "1974",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1531",
+   "FIELD2": "General",
+   "FIELD3": "Wolff, Patrick",
+   "FIELD4": "The Complete Idiot’s Guide to Chess  -  3rd Ed.",
+   "FIELD5": "2005",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1532",
+   "FIELD2": "History",
+   "FIELD3": "Mackett-Beeson, A E J",
+   "FIELD4": "Chessmen",
+   "FIELD5": "1973",
+   "FIELD6": "N/A",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1533",
+   "FIELD2": "History",
+   "FIELD3": "Wichman, Hans & Siegfried",
+   "FIELD4": "Chess  -  The Story of Chesspieces from antiquity to modern times",
+   "FIELD5": "1964",
+   "FIELD6": "N/A",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1100",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 100",
+   "FIELD5": "2007",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1071",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 71",
+   "FIELD5": "1997/98",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1072",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 72",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1073",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 73",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1074",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 74",
+   "FIELD5": "1998/99",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1075",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 75",
+   "FIELD5": "1999",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1076",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 76",
+   "FIELD5": "1999",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1077",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 77",
+   "FIELD5": "1999/2000",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1078",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 78",
+   "FIELD5": "2000",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1079",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 79",
+   "FIELD5": "2000",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1080",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 80",
+   "FIELD5": "2001",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1081",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 81",
+   "FIELD5": "2001",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1082",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 82",
+   "FIELD5": "2001",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1083",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 83",
+   "FIELD5": "2002",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1084",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 84",
+   "FIELD5": "2002",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1085",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 85",
+   "FIELD5": "2002",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1086",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 86",
+   "FIELD5": "2002/03",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1087",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 87",
+   "FIELD5": "2003",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1088",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 88",
+   "FIELD5": "2003",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1089",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 89",
+   "FIELD5": "2003/04",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1090",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 90",
+   "FIELD5": "2004",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1091",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 91",
+   "FIELD5": "2004",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1101",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 91 (2)",
+   "FIELD5": "2004",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1092",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 92",
+   "FIELD5": "2004/05",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1093",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 93",
+   "FIELD5": "2005",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1094",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 94",
+   "FIELD5": "2005",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1095",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 95",
+   "FIELD5": "2005",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1096",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 96",
+   "FIELD5": "2006",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1097",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 97",
+   "FIELD5": "2006",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1098",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 98",
+   "FIELD5": "2006",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1099",
+   "FIELD2": "Informant",
+   "FIELD3": "Krnic (ed)",
+   "FIELD4": "Šahovski informator 99",
+   "FIELD5": "2007",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1001",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 1",
+   "FIELD5": "1966",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1010",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 10",
+   "FIELD5": "1970",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1011",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 11",
+   "FIELD5": "1971",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1012",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 12",
+   "FIELD5": "1971",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1013",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 13",
+   "FIELD5": "1972",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1014",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 14",
+   "FIELD5": "1972",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1015",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 15",
+   "FIELD5": "1973",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1016",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 16",
+   "FIELD5": "1973",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1017",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 17",
+   "FIELD5": "1974",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1570",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 17",
+   "FIELD5": "1974",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1018",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 18",
+   "FIELD5": "1974",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1019",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 19",
+   "FIELD5": "1975",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1002",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 2",
+   "FIELD5": "1966",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1020",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 20",
+   "FIELD5": "1975",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1021",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 21",
+   "FIELD5": "1976",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1022",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 22",
+   "FIELD5": "1976",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1023",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 23",
+   "FIELD5": "1977",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1024",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 24",
+   "FIELD5": "1978",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1025",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 25",
+   "FIELD5": "1978",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1026",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 26",
+   "FIELD5": "1978",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1027",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 27",
+   "FIELD5": "1979",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1028",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 28",
+   "FIELD5": "1979",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1029",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 29",
+   "FIELD5": "1980",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1003",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 3",
+   "FIELD5": "1967",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1030",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 30",
+   "FIELD5": "1980",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1031",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 31",
+   "FIELD5": "1981",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1032",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 32",
+   "FIELD5": "1981",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1033",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 33",
+   "FIELD5": "1982",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1034",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 34",
+   "FIELD5": "1982",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1571",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 34",
+   "FIELD5": "1982",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1035",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 35",
+   "FIELD5": "1983",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1036",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 36",
+   "FIELD5": "1983",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1037",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 37",
+   "FIELD5": "1984",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1038",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 38",
+   "FIELD5": "1984",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1039",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 39",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1004",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 4",
+   "FIELD5": "1967",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1040",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 40",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1041",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 41",
+   "FIELD5": "1986",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1042",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 42",
+   "FIELD5": "1986",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1043",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 43",
+   "FIELD5": "1987",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1044",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 44",
+   "FIELD5": "1987",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1045",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 45",
+   "FIELD5": "1988",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1046",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 46",
+   "FIELD5": "1988",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1047",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 47",
+   "FIELD5": "1989",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1048",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 48",
+   "FIELD5": "1989",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1049",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 49",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1005",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 5",
+   "FIELD5": "1968",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1050",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 50",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1051",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 51",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1052",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 52",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1053",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 53",
+   "FIELD5": "1991/92",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1054",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 54",
+   "FIELD5": "1992",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1055",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 55",
+   "FIELD5": "1992",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1572",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 55",
+   "FIELD5": "1992",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1056",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 56",
+   "FIELD5": "1992/93",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1057",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 57",
+   "FIELD5": "1993",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1058",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 58",
+   "FIELD5": "1993",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1059",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 59",
+   "FIELD5": "1993/94",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1006",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 6",
+   "FIELD5": "1968",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1060",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 60",
+   "FIELD5": "1994",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1061",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 61",
+   "FIELD5": "1994",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1062",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 62",
+   "FIELD5": "1994/95",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1063",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 63",
+   "FIELD5": "1995",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1064",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 64",
+   "FIELD5": "1995",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1065",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 65",
+   "FIELD5": "1995/96",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1066",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 66",
+   "FIELD5": "1996",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1067",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 67",
+   "FIELD5": "1996",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1068",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 68",
+   "FIELD5": "1996/97",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1069",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 69",
+   "FIELD5": "1997",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1007",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 7",
+   "FIELD5": "1969",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1070",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 70",
+   "FIELD5": "1997",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1008",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 8",
+   "FIELD5": "1969",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1009",
+   "FIELD2": "Informant",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Šahovski informator 9",
+   "FIELD5": "1970",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1442",
+   "FIELD2": "Magazine",
+   "FIELD3": "Chabris, Christopher (ed.)",
+   "FIELD4": "American Chess Journal No.1",
+   "FIELD5": "1992",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1591",
+   "FIELD2": "Magazine",
+   "FIELD3": "Sosonko, Genna (Ed)",
+   "FIELD4": "New in Chess Yearbook 79, 2006",
+   "FIELD5": "2006",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1640",
+   "FIELD2": "Magazine",
+   "FIELD3": "Wade et al (eds)",
+   "FIELD4": "Chessman Quarterly Magazine Vol 1 No1 to Vol 3 No 16",
+   "FIELD5": "1968-71",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Marilyn Jankowska"
+ },
+ {
+   "FIELD1": "1288",
+   "FIELD2": "Magazine",
+   "FIELD3": "Wojciechowski-Wilton, G.",
+   "FIELD4": "Chess Digest 1954 - 1956",
+   "FIELD5": "1954-6",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1641",
+   "FIELD2": "Magazine",
+   "FIELD3": "Wood, B. H. (ed)",
+   "FIELD4": "Chess Magazine Vol 35 to Vol 44",
+   "FIELD5": "1970-79",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Marilyn Jankowska"
+ },
+ {
+   "FIELD1": "1289",
+   "FIELD2": "Magazine",
+   "FIELD3": "",
+   "FIELD4": "Shakhmatny Bullletin 1960-1961",
+   "FIELD5": "1960/61",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton in Russian"
+ },
+ {
+   "FIELD1": "1290",
+   "FIELD2": "Magazine",
+   "FIELD3": "",
+   "FIELD4": "Shakhmatny Bullletin 1962",
+   "FIELD5": "1962",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton in Russian"
+ },
+ {
+   "FIELD1": "1291",
+   "FIELD2": "Magazine",
+   "FIELD3": "",
+   "FIELD4": "Shakhmatny Bullletin 1963",
+   "FIELD5": "1963",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton in Russian"
+ },
+ {
+   "FIELD1": "1292",
+   "FIELD2": "Magazine",
+   "FIELD3": "",
+   "FIELD4": "Shakhmatny Bullletin 1964",
+   "FIELD5": "1964",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton in Russian"
+ },
+ {
+   "FIELD1": "1293",
+   "FIELD2": "Magazine",
+   "FIELD3": "",
+   "FIELD4": "Shakhmatny Bullletin 1965 – 1966",
+   "FIELD5": "1965/66",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton in Russian"
+ },
+ {
+   "FIELD1": "1294",
+   "FIELD2": "Magazine",
+   "FIELD3": "",
+   "FIELD4": "Shakhmatny Bullletin 1968",
+   "FIELD5": "1968",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton in Russian"
+ },
+ {
+   "FIELD1": "1295",
+   "FIELD2": "Magazine",
+   "FIELD3": "",
+   "FIELD4": "Shakhmatny Bullletin 1969",
+   "FIELD5": "1969",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton in Russian"
+ },
+ {
+   "FIELD1": "1296",
+   "FIELD2": "Magazine",
+   "FIELD3": "",
+   "FIELD4": "Shakhmatny Bullletin 1970 – 1971",
+   "FIELD5": "1970/71",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton in Russian"
+ },
+ {
+   "FIELD1": "1297",
+   "FIELD2": "Magazine",
+   "FIELD3": "",
+   "FIELD4": "Shakhmatny Bullletin 1972",
+   "FIELD5": "1972",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton in Russian"
+ },
+ {
+   "FIELD1": "1298",
+   "FIELD2": "Magazine",
+   "FIELD3": "",
+   "FIELD4": "Shakhmatny Bullletin 1973",
+   "FIELD5": "1973",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton in Russian"
+ },
+ {
+   "FIELD1": "1299",
+   "FIELD2": "Magazine",
+   "FIELD3": "",
+   "FIELD4": "Shakhmatny Bullletin 1974 – 1975",
+   "FIELD5": "1974/75",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton in Russian"
+ },
+ {
+   "FIELD1": "1233",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Alekhine, Alexander",
+   "FIELD4": "The Book of the New York International Chess Tournament 1924",
+   "FIELD5": "1924",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1230",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Alekhine, Alexander",
+   "FIELD4": "The Book of the Nottingham International Chess Tournament",
+   "FIELD5": "1937",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1494",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Alexander, C.H.O'D.",
+   "FIELD4": "Fischer v Spassky Reykjavik 1972",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1231",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Berliner & Messere",
+   "FIELD4": "Correspondence Chess World Championship",
+   "FIELD5": "1971",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1178",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Botvinnik, Matanovic, Kazic, Yudovich",
+   "FIELD4": "Candidates' Matches 1974",
+   "FIELD5": "1974",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1344",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Carpinter, Ramsay & Green",
+   "FIELD4": "Plaza International Chess Tournament",
+   "FIELD5": "1988",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1232",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Flohr, Salo",
+   "FIELD4": "Twelfth Chess Tournament of Nations",
+   "FIELD5": "1957",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1248",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Gligoric & Matanovic",
+   "FIELD4": "Interzonen-Turnier Portoroz 1958",
+   "FIELD5": "1959",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1145",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Gligoric, Svetzovar",
+   "FIELD4": "Fischer v Spassky The Chess Match of the Century",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1477",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Golombek, H.",
+   "FIELD4": "Fischer v Spassky The World Chess Championship 1972",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1131",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Golombek, H.",
+   "FIELD4": "World Chess Championship 1957",
+   "FIELD5": "1957",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1225",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "James & Barden",
+   "FIELD4": "The Master Game",
+   "FIELD5": "1979",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1331",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "James & Barden",
+   "FIELD4": "The Master Game",
+   "FIELD5": "1979",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1226",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "James & Hartston",
+   "FIELD4": "The Master Game: Book Two",
+   "FIELD5": "1981",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1620",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Keene, Raymond",
+   "FIELD4": "The Moscow Challenge Karpov-Kasparov",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1595",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "King, Daniel",
+   "FIELD4": "Kasparov v Deeper Blue",
+   "FIELD5": "1997",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1136",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Larsen, Bent",
+   "FIELD4": "Karpov vs. Korchnoi World Cgess Championship 1978",
+   "FIELD5": "1978",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1385",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Purdy, C.J.S.",
+   "FIELD4": "How Fischer won – World Chess Championship 1972",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1444",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Purdy, C.J.S.",
+   "FIELD4": "How Fischer won – World Chess Championship 1972",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1229",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Sarapu, Ortvin",
+   "FIELD4": "25 Years of New Zealand Chess Championships 1952-1977",
+   "FIELD5": "1977",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1447",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Speelman & Tisdall",
+   "FIELD4": "Moscow Marathon – World Chess Championship 1984/85",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1239",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Unknown",
+   "FIELD4": "AVRO 1938 – contemporary Dutch newpaper reports",
+   "FIELD5": "1938",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, in Dutch"
+ },
+ {
+   "FIELD1": "1623",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Wilson, Fred",
+   "FIELD4": "Classical Chess Matches: 1907 – 1913",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1177",
+   "FIELD2": "Match/tournament",
+   "FIELD3": "Wood, B.H. (ed)",
+   "FIELD4": "Alekhine-Euwe World Championship Match 1937",
+   "FIELD5": "1938",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1114",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Abrahams, Gerald",
+   "FIELD4": "Brilliance in Chess",
+   "FIELD5": "1977",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1221",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Abrahams, Gerald",
+   "FIELD4": "The Chess Mind",
+   "FIELD5": "1960",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1325",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Abrahams, Gerald",
+   "FIELD4": "The Chess Mind",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1383",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Abrahams, Gerald",
+   "FIELD4": "The Chess Mind",
+   "FIELD5": "1951",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1492",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Alburt, Lev and Palatnik, Sam",
+   "FIELD4": "Chess Strategy for the Tournament Player 3rd Ed.",
+   "FIELD5": "2010",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1493",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Alburt, Lev and Palatnik, Sam",
+   "FIELD4": "Chess Tactics for the Tournament Player",
+   "FIELD5": "1995",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1386",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Alexander, C.H.O'D.",
+   "FIELD4": "The Penguin book of chess positions",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1420",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Alexander, C.H.O'D.",
+   "FIELD4": "The Penguin book of chess positions",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1593",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Aptekar, Lev",
+   "FIELD4": "The Power of Chess Tactics",
+   "FIELD5": "1980",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1199",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Baburin, Alexander",
+   "FIELD4": "Winning Pawn Structures",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1545",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Baburin, Alexander",
+   "FIELD4": "Winning Pawn Structures",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1212",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Bellin & Ponzetto",
+   "FIELD4": "Test Your Positional Play",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1471",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Bellin & Ponzetto",
+   "FIELD4": "Test Your Positional Play",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1642",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Bondarevsky, I. G.",
+   "FIELD4": "Combinations in the Middle Game",
+   "FIELD5": "1960",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Marilyn Jankowska"
+ },
+ {
+   "FIELD1": "1129",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Bronstein, David",
+   "FIELD4": "200 Open Games",
+   "FIELD5": "1970",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1345",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Chernev & Reinfeld",
+   "FIELD4": "Winning Chess: How to see three moves ahead",
+   "FIELD5": "1948",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1115",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Chernev, Irving",
+   "FIELD4": "Combinations: The Heart of Chess",
+   "FIELD5": "1960",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1200",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Coles, R.N.",
+   "FIELD4": "Dynamic Chess – The Modern Style of Aggressive Play",
+   "FIELD5": "1966",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1342",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Cordingley, E.G.R.",
+   "FIELD4": "The next move is….",
+   "FIELD5": "1948",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1329",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Dunnington, Angus",
+   "FIELD4": "Can you be a Positional Chess Genius?",
+   "FIELD5": "2002",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1172",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Euwe & Kramer",
+   "FIELD4": "Das Mittelspiel: Band 6 Die Initiative",
+   "FIELD5": "1957",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1173",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Euwe & Kramer",
+   "FIELD4": "Das Mittelspiel: Band 7 Die Arten des Kőnigsangriffs",
+   "FIELD5": "1958",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1205",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Euwe & Kramer",
+   "FIELD4": "The Middle Game: Book 1 Static Features",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1202",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Euwe, Max",
+   "FIELD4": "Judgement and Planning in Chess",
+   "FIELD5": "1957",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1381",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Euwe, Max",
+   "FIELD4": "Judgement and Planning in Chess",
+   "FIELD5": "1953",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1337",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Fine, Reuben",
+   "FIELD4": "The Middle Game in Chess",
+   "FIELD5": "1952",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1439",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Fine, Reuben",
+   "FIELD4": "The Middle Game in Chess",
+   "FIELD5": "1953",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1584",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Flórián, Tibor",
+   "FIELD4": "Defence & Counter-Attack",
+   "FIELD5": "1983",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1536",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Gelfer, Israel",
+   "FIELD4": "Positional Chess Handbook",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1123",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Geller, Yelfim",
+   "FIELD4": "The Application of Chess Theory",
+   "FIELD5": "1984",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1116",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Golz/Keres",
+   "FIELD4": "Chess Combination as a Fine Art",
+   "FIELD5": "1976",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1481",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Horowitz, I. A. & Reinfeld, F.",
+   "FIELD4": "How to think ahead in Chess",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1222",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Keres & Kotov",
+   "FIELD4": "The Art of the Middle Game",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1369",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Keres & Kotov",
+   "FIELD4": "The Art of the Middle Game",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1567",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Keres & Kotov",
+   "FIELD4": "The Art of the Middle Game",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1412",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Kotov, Alexander",
+   "FIELD4": "Play like a Grandmaster",
+   "FIELD5": "1978",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1554",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Kotov, Alexander",
+   "FIELD4": "Play like a Grandmaster",
+   "FIELD5": "1978",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1201",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Kotov, Alexander",
+   "FIELD4": "Think Like a Grandmaster",
+   "FIELD5": "1971",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1608",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Lamford, Paul",
+   "FIELD4": "Improve your Game",
+   "FIELD5": "1999",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1459",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Levy, David N.L.",
+   "FIELD4": "Play Chess Combinations and Sacrifices",
+   "FIELD5": "1980",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1417",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Littlewood, John E.",
+   "FIELD4": "How to Play the Middlegame in Chess",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1485",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Littlewood, John E.",
+   "FIELD4": "How to Play the Middlegame in Chess",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1461",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Love, John",
+   "FIELD4": "Tactical Ideas in Chess",
+   "FIELD5": "1981",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1113",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Negyesy & Hegyi",
+   "FIELD4": "Combination in Chess",
+   "FIELD5": "1970",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1598",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Nimzowitsch, Aron",
+   "FIELD4": "Chess Praxis",
+   "FIELD5": "1929",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1252",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Nimzowitsch, Aron",
+   "FIELD4": "My System",
+   "FIELD5": "1954",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1321",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Nimzowitsch, Aron",
+   "FIELD4": "My System",
+   "FIELD5": "1987",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1645",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Nunn, John",
+   "FIELD4": "Understanding Chess Middlegames",
+   "FIELD5": "2011",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Max Lough"
+ },
+ {
+   "FIELD1": "1330",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Attack and Defence in Modern Chess Tactics",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1206",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Complete Chess Strategy – 1: Planning the Pieces",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1207",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Complete Chess Strategy – 2: Pawn-play and the Centre",
+   "FIELD5": "1976",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1208",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Complete Chess Strategy – Play on the Wings",
+   "FIELD5": "1978",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1376",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Modern Chess Tactics: Pieces and Pawns in Action",
+   "FIELD5": "1970",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1174",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Pachman's Modern Chess Strategy",
+   "FIELD5": "1963",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1576",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Pandolfini, Bruce",
+   "FIELD4": "Bobby Fischer's Outrageous Chess Moves",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1443",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Pandolfini, Bruce",
+   "FIELD4": "Chessercizes",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1475",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "1001 Brilliant Ways to Checkmate",
+   "FIELD5": "1955",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1514",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "1001 winning chess sacrifices and combinations",
+   "FIELD5": "1955",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1469",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Attack and Counterattack in Chess",
+   "FIELD5": "1955",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1401",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Renaud & Kahn",
+   "FIELD4": "The Art of Checkmate",
+   "FIELD5": "1953",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1392",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Reti, Richard",
+   "FIELD4": "Masters of the Chessboard",
+   "FIELD5": "1961",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1465",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Saidy, Anthony",
+   "FIELD4": "The Battle of Chess Ideas",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1516",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Seirawan, Yasser",
+   "FIELD4": "Winning Chess Combinations",
+   "FIELD5": "2006",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1203",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Seirawan, Yasser",
+   "FIELD4": "Winning Chess Strategies",
+   "FIELD5": "1994",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1518",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Seirawan, Yasser",
+   "FIELD4": "Winning Chess Tactics",
+   "FIELD5": "2005",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1522",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Seirawan, Yasser with Silman, Jeremy",
+   "FIELD4": "Winning Chess Strategies",
+   "FIELD5": "2005",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1625",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Shamkovich, Leonid",
+   "FIELD4": "Chess Sacrifices",
+   "FIELD5": "1976",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1118",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Shamkovich, Leonid",
+   "FIELD4": "The Modern Chess Sacrifice",
+   "FIELD5": "1980",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1120",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Silman, Jeremy",
+   "FIELD4": "The Reassess Your Chess Workbook",
+   "FIELD5": "2001",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1119",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Soltis, Andrew",
+   "FIELD4": "The Art of Defense in Chess",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1558",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Stean, Michael",
+   "FIELD4": "Simple Chess",
+   "FIELD5": "1978",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1629",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Stean, Michael",
+   "FIELD4": "Simple Chess",
+   "FIELD5": "2002",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Max Lough"
+ },
+ {
+   "FIELD1": "1204",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Suetin, Aleksei",
+   "FIELD4": "A Contemporary Approach to the Middle Game",
+   "FIELD5": "1976",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1548",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Suetin, Aleksei",
+   "FIELD4": "Three Steps to Chess Mastery",
+   "FIELD5": "1982",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1449",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Tal, M. & Khenkin, V.",
+   "FIELD4": "Tal's winning chess combinations",
+   "FIELD5": "1979",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1472",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Teschner & Miles",
+   "FIELD4": "It's Your Move",
+   "FIELD5": "1976",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1127",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Vukovic, Vladimir",
+   "FIELD4": "The Art of Attack in Chess",
+   "FIELD5": "1965",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1117",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Vukovic, Vladimir",
+   "FIELD4": "The Chess Sacrifice",
+   "FIELD5": "1968",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1134",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Watson, John",
+   "FIELD4": "Secrets of Modern Chess Strategy",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1473",
+   "FIELD2": "Middlegame",
+   "FIELD3": "Znosko-Borovsky, Eugene",
+   "FIELD4": "The Art of Chess Combination",
+   "FIELD5": "1959",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1432",
+   "FIELD2": "Opening",
+   "FIELD3": "Aagaard, Jacob",
+   "FIELD4": "Queen's Indian Defence – The Easy Way",
+   "FIELD5": "2006",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Chessbase DVD"
+ },
+ {
+   "FIELD1": "1431",
+   "FIELD2": "Opening",
+   "FIELD3": "Aagaard, Jacob",
+   "FIELD4": "The Nimzoindian Defence – The Easy Way",
+   "FIELD5": "2004",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Chessbase DVD"
+ },
+ {
+   "FIELD1": "1634",
+   "FIELD2": "Opening",
+   "FIELD3": "Adams, Jimmy",
+   "FIELD4": "Sicilian Najdorf Polugaevsky Variation",
+   "FIELD5": "1978",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1580",
+   "FIELD2": "Opening",
+   "FIELD3": "Adorjan & Horvath",
+   "FIELD4": "Sicilian: Sveshnikov Variation",
+   "FIELD5": "1987",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1568",
+   "FIELD2": "Opening",
+   "FIELD3": "Adorjan, András",
+   "FIELD4": "Black is OK in Rare Openings",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1326",
+   "FIELD2": "Opening",
+   "FIELD3": "Adorjan, András",
+   "FIELD4": "Black is still OK!",
+   "FIELD5": "2004",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1491",
+   "FIELD2": "Opening",
+   "FIELD3": "Alberston, Bruce",
+   "FIELD4": "Chess Opening Trap of the Day",
+   "FIELD5": "2007",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1166",
+   "FIELD2": "Opening",
+   "FIELD3": "Alburt & Schiller",
+   "FIELD4": "The Alekhine for the Tournament Player",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1278",
+   "FIELD2": "Opening",
+   "FIELD3": "Barden, Hartston & Keene",
+   "FIELD4": "The King's Indian Defence",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1547",
+   "FIELD2": "Opening",
+   "FIELD3": "Barden, Hartston & Keene",
+   "FIELD4": "The King's Indian Defence",
+   "FIELD5": "1969",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1402",
+   "FIELD2": "Opening",
+   "FIELD3": "Barden, Leonard",
+   "FIELD4": "A Guide to Chess Openings",
+   "FIELD5": "1957",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1147",
+   "FIELD2": "Opening",
+   "FIELD3": "Barden, Leonard",
+   "FIELD4": "The Ruy Lopez",
+   "FIELD5": "1963",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1539",
+   "FIELD2": "Opening",
+   "FIELD3": "Bellin & Ponzetto",
+   "FIELD4": "Mastering the Modern Benoni and the Benko Gambit",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1438",
+   "FIELD2": "Opening",
+   "FIELD3": "Bellin, Robert",
+   "FIELD4": "Trompowski Opening and Torre Attack",
+   "FIELD5": "1983",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1323",
+   "FIELD2": "Opening",
+   "FIELD3": "Benko, Pal",
+   "FIELD4": "The Benko Gambit",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1425",
+   "FIELD2": "Opening",
+   "FIELD3": "Berliner, Hans",
+   "FIELD4": "The System: A World Champion's Approach to Chess",
+   "FIELD5": "1999",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1581",
+   "FIELD2": "Opening",
+   "FIELD3": "Bikhovsky, Anatoly",
+   "FIELD4": "Spanish (Ruy Lopez): Chigorin",
+   "FIELD5": "1983",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1157",
+   "FIELD2": "Opening",
+   "FIELD3": "Bikhovsky, Anatoly",
+   "FIELD4": "The Closed Spanish: Karpov/Zaitsev Systems",
+   "FIELD5": "1993",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1156",
+   "FIELD2": "Opening",
+   "FIELD3": "Blackstock, L.S.",
+   "FIELD4": "Ruy Lopez: Breyer System",
+   "FIELD5": "1976",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1159",
+   "FIELD2": "Opening",
+   "FIELD3": "Boleslawski, Isaac",
+   "FIELD4": "Siziliansich Drachenvariante bis Paulsen-System",
+   "FIELD5": "1971",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1399",
+   "FIELD2": "Opening",
+   "FIELD3": "Borik, Otto",
+   "FIELD4": "Budapest Gambit",
+   "FIELD5": "1986",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1152",
+   "FIELD2": "Opening",
+   "FIELD3": "Botterill & Harding",
+   "FIELD4": "The Scotch",
+   "FIELD5": "1977",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1272",
+   "FIELD2": "Opening",
+   "FIELD3": "Botvinnik & Estrin",
+   "FIELD4": "The Grünfeld Defence",
+   "FIELD5": "1980",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1563",
+   "FIELD2": "Opening",
+   "FIELD3": "Burgess & Pedersen",
+   "FIELD4": "Beating the Indian Defences",
+   "FIELD5": "1997",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1169",
+   "FIELD2": "Opening",
+   "FIELD3": "Carlier, Bruno",
+   "FIELD4": "Trends: Sicilian Dragon Yugoslav Attack",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1487",
+   "FIELD2": "Opening",
+   "FIELD3": "Chernev, Irving",
+   "FIELD4": "Winning Chess Traps",
+   "FIELD5": "1946",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1498",
+   "FIELD2": "Opening",
+   "FIELD3": "Davies, Nigel",
+   "FIELD4": "Gambiteer I",
+   "FIELD5": "2007",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1499",
+   "FIELD2": "Opening",
+   "FIELD3": "Davies, Nigel",
+   "FIELD4": "Gambiteer II",
+   "FIELD5": "2007",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1500",
+   "FIELD2": "Opening",
+   "FIELD3": "de Firmian, Nick",
+   "FIELD4": "Batsford's Modern Chess Openings 15th Ed.",
+   "FIELD5": "2009",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1633",
+   "FIELD2": "Opening",
+   "FIELD3": "Eckert, Doug",
+   "FIELD4": "Sicilian Scheveningen: Keres Attack",
+   "FIELD5": "1986",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1333",
+   "FIELD2": "Opening",
+   "FIELD3": "Estrin & Panov",
+   "FIELD4": "Comprehensive Chess Openings Vol 1 Open Games",
+   "FIELD5": "1980",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Terry Duffield"
+ },
+ {
+   "FIELD1": "1334",
+   "FIELD2": "Opening",
+   "FIELD3": "Estrin & Panov",
+   "FIELD4": "Comprehensive Chess Openings Vol 2 Semi-Open Games",
+   "FIELD5": "1980",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Terry Duffield"
+ },
+ {
+   "FIELD1": "1335",
+   "FIELD2": "Opening",
+   "FIELD3": "Estrin & Panov",
+   "FIELD4": "Comprehensive Chess Openings Vol 3 Closed Games",
+   "FIELD5": "1980",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Terry Duffield"
+ },
+ {
+   "FIELD1": "1311",
+   "FIELD2": "Opening",
+   "FIELD3": "Estrin, Yakov",
+   "FIELD4": "The Traxler Counter-Attack",
+   "FIELD5": "1977",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1167",
+   "FIELD2": "Opening",
+   "FIELD3": "Estrin, Yakov",
+   "FIELD4": "The Two Knights Defence",
+   "FIELD5": "1971",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1253",
+   "FIELD2": "Opening",
+   "FIELD3": "Euwe, Max",
+   "FIELD4": "Theorie der Schach-Eröffnungen, Teil I-II Damengambit",
+   "FIELD5": "1957",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1254",
+   "FIELD2": "Opening",
+   "FIELD3": "Euwe, Max",
+   "FIELD4": "Theorie der Schach-Eröffnungen, Teil III Damengambit",
+   "FIELD5": "1960",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1255",
+   "FIELD2": "Opening",
+   "FIELD3": "Euwe, Max",
+   "FIELD4": "Theorie der Schach-Eröffnungen, Teil III Damengambit",
+   "FIELD5": "1950",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1258",
+   "FIELD2": "Opening",
+   "FIELD3": "Euwe, Max",
+   "FIELD4": "Theorie der Schach-Eröffnungen, Teil IX Sizilianisch",
+   "FIELD5": "1953",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1259",
+   "FIELD2": "Opening",
+   "FIELD3": "Euwe, Max",
+   "FIELD4": "Theorie der Schach-Eröffnungen, Teil IX Sizilianisch",
+   "FIELD5": "1962",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1256",
+   "FIELD2": "Opening",
+   "FIELD3": "Euwe, Max",
+   "FIELD4": "Theorie der Schach-Eröffnungen, Teil VI-VII Indische Spezialitäten",
+   "FIELD5": "1955",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1257",
+   "FIELD2": "Opening",
+   "FIELD3": "Euwe, Max",
+   "FIELD4": "Theorie der Schach-Eröffnungen, Teil VIII Franzeosisch/Caro-Kann",
+   "FIELD5": "1960",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1103",
+   "FIELD2": "Opening",
+   "FIELD3": "Evans & Korn",
+   "FIELD4": "Modern Chess Openings 10th Ed",
+   "FIELD5": "1965",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1151",
+   "FIELD2": "Opening",
+   "FIELD3": "Evans, Larry",
+   "FIELD4": "Chess Openings, Ideas & Analysis: Giuoco Piano",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1359",
+   "FIELD2": "Opening",
+   "FIELD3": "Fine, Reuben",
+   "FIELD4": "The Ideas Behind the Chess Openings",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1268",
+   "FIELD2": "Opening",
+   "FIELD3": "Flear, Glenn",
+   "FIELD4": "The Slav for the Tournament Player",
+   "FIELD5": "1988",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1281",
+   "FIELD2": "Opening",
+   "FIELD3": "Fridstein, G.",
+   "FIELD4": "Zaschita Ufimtseva (Pirc Defence)",
+   "FIELD5": "1970",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, in Russian"
+ },
+ {
+   "FIELD1": "1537",
+   "FIELD2": "Opening",
+   "FIELD3": "Gallagher, Joe",
+   "FIELD4": "Beating the Anti-Sicilians",
+   "FIELD5": "1994",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1551",
+   "FIELD2": "Opening",
+   "FIELD3": "Gallagher, Joe",
+   "FIELD4": "The Trompowsky",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1279",
+   "FIELD2": "Opening",
+   "FIELD3": "Geller, Efim",
+   "FIELD4": "King's Indian Defence: g3 Systems",
+   "FIELD5": "1980",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1282",
+   "FIELD2": "Opening",
+   "FIELD3": "Gligoric & Sokolov",
+   "FIELD4": "The Sicilian Defence – Book One",
+   "FIELD5": "1970",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1627",
+   "FIELD2": "Opening",
+   "FIELD3": "Gligoric et al",
+   "FIELD4": "The French Defence",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1266",
+   "FIELD2": "Opening",
+   "FIELD3": "Gligoric, Svetzovar",
+   "FIELD4": "Play the Nimzo-Indian Defence",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1360",
+   "FIELD2": "Opening",
+   "FIELD3": "Griffith & Golombek",
+   "FIELD4": "Pocket Guide to the Chess Openings",
+   "FIELD5": "1952",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1149",
+   "FIELD2": "Opening",
+   "FIELD3": "Gunsberg, I",
+   "FIELD4": "The Chess Openings",
+   "FIELD5": "1901",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1274",
+   "FIELD2": "Opening",
+   "FIELD3": "Hartston, William R.",
+   "FIELD4": "The Benoni",
+   "FIELD5": "1969",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1546",
+   "FIELD2": "Opening",
+   "FIELD3": "Hartston, William R.",
+   "FIELD4": "The Benoni",
+   "FIELD5": "1969",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1273",
+   "FIELD2": "Opening",
+   "FIELD3": "Hartston, William R.",
+   "FIELD4": "The Grünfeld Defence",
+   "FIELD5": "1971",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1150",
+   "FIELD2": "Opening",
+   "FIELD3": "Hay, Trevor",
+   "FIELD4": "King's Gambit",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1541",
+   "FIELD2": "Opening",
+   "FIELD3": "Hodgson, Julian",
+   "FIELD4": "Trends – Sicilian Sveshnikov",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1301",
+   "FIELD2": "Opening",
+   "FIELD3": "Horowitz, I. A.",
+   "FIELD4": "Chess Openings Theory and Practice",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Eric Rayner"
+ },
+ {
+   "FIELD1": "1105",
+   "FIELD2": "Opening",
+   "FIELD3": "Horowitz, I. A.",
+   "FIELD4": "Chess Openings, Theory & Practice",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1347",
+   "FIELD2": "Opening",
+   "FIELD3": "Horowitz, I. A.",
+   "FIELD4": "How to win in the chess openings",
+   "FIELD5": "1951",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1441",
+   "FIELD2": "Opening",
+   "FIELD3": "Horowitz, I. A. & Reinfeld, F.",
+   "FIELD4": "How to think ahead in Chess",
+   "FIELD5": "1948",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1600",
+   "FIELD2": "Opening",
+   "FIELD3": "Howson, J.B.",
+   "FIELD4": "200 Modern Chess Traps in the Fianchetto Openings",
+   "FIELD5": "1970",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1165",
+   "FIELD2": "Opening",
+   "FIELD3": "Jacobs, Byron",
+   "FIELD4": "A Line for White: The Caro Kann Advance Variation",
+   "FIELD5": "1988",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1327",
+   "FIELD2": "Opening",
+   "FIELD3": "Kasparov & Keene",
+   "FIELD4": "Batsford Chess Openings",
+   "FIELD5": "1982",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1569",
+   "FIELD2": "Opening",
+   "FIELD3": "Kasparov & Keene",
+   "FIELD4": "Batsford Chess Openings 2",
+   "FIELD5": "1989",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1287",
+   "FIELD2": "Opening",
+   "FIELD3": "Kasparov & Nikitin",
+   "FIELD4": "Sicilian: ...e6 and ...d6 Systems",
+   "FIELD5": "1983",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1635",
+   "FIELD2": "Opening",
+   "FIELD3": "Keene & Botterill",
+   "FIELD4": "The Modern Defence",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1603",
+   "FIELD2": "Opening",
+   "FIELD3": "Keene & Taulbut",
+   "FIELD4": "How to Play the Nimzo-Indian Defence",
+   "FIELD5": "1982",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1234",
+   "FIELD2": "Opening",
+   "FIELD3": "Keres, Paul",
+   "FIELD4": "Theorie der Schacheröffnungen, I Teil",
+   "FIELD5": "1952",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1235",
+   "FIELD2": "Opening",
+   "FIELD3": "Keres, Paul",
+   "FIELD4": "Theorie der Schacheröffnungen, II Teil",
+   "FIELD5": "1953",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1236",
+   "FIELD2": "Opening",
+   "FIELD3": "Keres, Paul",
+   "FIELD4": "Theorie der Schacheröffnungen, III Teil",
+   "FIELD5": "1958",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1153",
+   "FIELD2": "Opening",
+   "FIELD3": "Korchnoi & Zak",
+   "FIELD4": "The King's Gambit",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1102",
+   "FIELD2": "Opening",
+   "FIELD3": "Korn & Collins",
+   "FIELD4": "Modern Chess Openings 9th Ed",
+   "FIELD5": "1957",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1104",
+   "FIELD2": "Opening",
+   "FIELD3": "Korn, Walter",
+   "FIELD4": "Modern Chess Openings 11th Ed",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1621",
+   "FIELD2": "Opening",
+   "FIELD3": "Kosten, Tony",
+   "FIELD4": "Mastering the Nimzo-Indian",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1407",
+   "FIELD2": "Opening",
+   "FIELD3": "Kotronias, Vassilios",
+   "FIELD4": "Beating the Caro-Kann",
+   "FIELD5": "1994",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1170",
+   "FIELD2": "Opening",
+   "FIELD3": "Kuligowski, Adam",
+   "FIELD4": "Developments in the French Defence",
+   "FIELD5": "1986",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1270",
+   "FIELD2": "Opening",
+   "FIELD3": "Lalić, Bogdan",
+   "FIELD4": "The Grünfeld for the Attacking Player",
+   "FIELD5": "1997",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1336",
+   "FIELD2": "Opening",
+   "FIELD3": "Levy & Keene",
+   "FIELD4": "How to play the opening in chess",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1416",
+   "FIELD2": "Opening",
+   "FIELD3": "Levy & Keene",
+   "FIELD4": "How to play the opening in chess",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1486",
+   "FIELD2": "Opening",
+   "FIELD3": "Levy & Keene",
+   "FIELD4": "How to play the opening in chess",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1283",
+   "FIELD2": "Opening",
+   "FIELD3": "Levy, D.N.",
+   "FIELD4": "Sacrifices in the Sicilian (2nd ed.)",
+   "FIELD5": "1980",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1158",
+   "FIELD2": "Opening",
+   "FIELD3": "Levy, D.N.",
+   "FIELD4": "The Sicilian Dragon",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1543",
+   "FIELD2": "Opening",
+   "FIELD3": "Martin, Andrew",
+   "FIELD4": "Trends – King's Indian 6 Be2",
+   "FIELD5": "1989",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1540",
+   "FIELD2": "Opening",
+   "FIELD3": "Martin, Andrew",
+   "FIELD4": "Trends – Nimzo-Indian 4 e3",
+   "FIELD5": "1989",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1171",
+   "FIELD2": "Opening",
+   "FIELD3": "Martin, Andrew",
+   "FIELD4": "Trends: French Tarrasch",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1267",
+   "FIELD2": "Opening",
+   "FIELD3": "Martin, Andrew",
+   "FIELD4": "Trends: Nimzo-Indian 4 e3",
+   "FIELD5": "1989",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1196",
+   "FIELD2": "Opening",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Encyclopaedia of Chess Openings A",
+   "FIELD5": "1979",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1195",
+   "FIELD2": "Opening",
+   "FIELD3": "Matanovic (ed)",
+   "FIELD4": "Encyclopaedia of Chess Openings B",
+   "FIELD5": "1975",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1506",
+   "FIELD2": "Opening",
+   "FIELD3": "McDonald, Neil",
+   "FIELD4": "Play The Dutch",
+   "FIELD5": "2010",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1542",
+   "FIELD2": "Opening",
+   "FIELD3": "McDonald, Neil",
+   "FIELD4": "Trends – Alekhine Defence",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1535",
+   "FIELD2": "Opening",
+   "FIELD3": "McDonald, Neil",
+   "FIELD4": "Winning with the Kalashnikov",
+   "FIELD5": "1995",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1582",
+   "FIELD2": "Opening",
+   "FIELD3": "Moles, John",
+   "FIELD4": "The French Defence Main Line Winawer",
+   "FIELD5": "1975",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1271",
+   "FIELD2": "Opening",
+   "FIELD3": "Nesis, Gennady",
+   "FIELD4": "Tactics in the Grünfeld",
+   "FIELD5": "1992",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1612",
+   "FIELD2": "Opening",
+   "FIELD3": "Nielsen & Hansen",
+   "FIELD4": "The Sicilian Accelerated Dragon",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1276",
+   "FIELD2": "Opening",
+   "FIELD3": "Norwood, David",
+   "FIELD4": "Trends: Modern Benoni",
+   "FIELD5": "1989",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1315",
+   "FIELD2": "Opening",
+   "FIELD3": "Nunn & Gallagher",
+   "FIELD4": "The Complete Najdorf: Modern Lines",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1146",
+   "FIELD2": "Opening",
+   "FIELD3": "Nunn & Harding",
+   "FIELD4": "The Marshall Attack",
+   "FIELD5": "1989",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1280",
+   "FIELD2": "Opening",
+   "FIELD3": "Nunn & McNab",
+   "FIELD4": "The Ultimate Pirc",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1106",
+   "FIELD2": "Opening",
+   "FIELD3": "Nunn et al",
+   "FIELD4": "Nunn's Chess Openings",
+   "FIELD5": "1999",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1332",
+   "FIELD2": "Opening",
+   "FIELD3": "Nunn et al",
+   "FIELD4": "Nunn's Chess Openings",
+   "FIELD5": "1999",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From Aaron Batchelor"
+ },
+ {
+   "FIELD1": "1316",
+   "FIELD2": "Opening",
+   "FIELD3": "Nunn, John",
+   "FIELD4": "The Complete Najdorf: 6 Bg5",
+   "FIELD5": "1996",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1277",
+   "FIELD2": "Opening",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Indian Systems",
+   "FIELD5": "1962",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1555",
+   "FIELD2": "Opening",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Indian Systems",
+   "FIELD5": "1962",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1262",
+   "FIELD2": "Opening",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Moderne Schachtheorie I",
+   "FIELD5": "1956",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1237",
+   "FIELD2": "Opening",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Moderne Schachtheorie II",
+   "FIELD5": "1956",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1238",
+   "FIELD2": "Opening",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Moderne Schachtheorie III",
+   "FIELD5": "1956",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1636",
+   "FIELD2": "Opening",
+   "FIELD3": "Pachman, Ludĕk",
+   "FIELD4": "Queen's Gambit",
+   "FIELD5": "1964",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Marilyn Jankowska"
+ },
+ {
+   "FIELD1": "1510",
+   "FIELD2": "Opening",
+   "FIELD3": "Palliser, Williams & Vigus",
+   "FIELD4": "Dangerous Weapons: The Dutch",
+   "FIELD5": "2009",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1275",
+   "FIELD2": "Opening",
+   "FIELD3": "Pein, Malcolm",
+   "FIELD4": "Developments in the Grünfeld 1984-87",
+   "FIELD5": "1987",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1148",
+   "FIELD2": "Opening",
+   "FIELD3": "Pein, Malcolm",
+   "FIELD4": "Trends: Spanish Marshall",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1550",
+   "FIELD2": "Opening",
+   "FIELD3": "Pickett, Len",
+   "FIELD4": "The Old Indian Renewed",
+   "FIELD5": "1984",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1284",
+   "FIELD2": "Opening",
+   "FIELD3": "Plaskett, James",
+   "FIELD4": "Trends: Sicilian Paulsen",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1265",
+   "FIELD2": "Opening",
+   "FIELD3": "Polugajewski, Lew",
+   "FIELD4": "Damengambit Tscigorin-System bis Tarrasch-Verteidigung",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1264",
+   "FIELD2": "Opening",
+   "FIELD3": "Polugayevsky, Lev",
+   "FIELD4": "Queen's Gambit: Orthodox Defence",
+   "FIELD5": "1988",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1632",
+   "FIELD2": "Opening",
+   "FIELD3": "Pritchett, Craig",
+   "FIELD4": "Nimzo-Indian 4 e3: Nimzowitsch, Hübner & Taimanov Variations",
+   "FIELD5": "1980",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1286",
+   "FIELD2": "Opening",
+   "FIELD3": "Pritchett, Craig",
+   "FIELD4": "The Sicilian Scheveningen",
+   "FIELD5": "1977",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1162",
+   "FIELD2": "Opening",
+   "FIELD3": "Psakhis, Lev",
+   "FIELD4": "Advance and other Anti-French Variations",
+   "FIELD5": "2003",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1164",
+   "FIELD2": "Opening",
+   "FIELD3": "Psakhis, Lev",
+   "FIELD4": "French Defence: Steinitz, Classical and other Systems",
+   "FIELD5": "2004",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1213",
+   "FIELD2": "Opening",
+   "FIELD3": "Reinfeld, Fred",
+   "FIELD4": "Chess: how to play the black pieces",
+   "FIELD5": "1973",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1631",
+   "FIELD2": "Opening",
+   "FIELD3": "Rodriguez, Amador",
+   "FIELD4": "Modern ways of playing the Sicilian",
+   "FIELD5": "1999",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Chessbase DVD English and Spanish"
+ },
+ {
+   "FIELD1": "1583",
+   "FIELD2": "Opening",
+   "FIELD3": "Romero & De Prado",
+   "FIELD4": "The Agile London System",
+   "FIELD5": "2016",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of Blair Freeman"
+ },
+ {
+   "FIELD1": "1561",
+   "FIELD2": "Opening",
+   "FIELD3": "S1 Editrice",
+   "FIELD4": "Nimzo-Indian Capablanca Variation E32-E39",
+   "FIELD5": "1995",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1544",
+   "FIELD2": "Opening",
+   "FIELD3": "Sakaev, Konstantin",
+   "FIELD4": "How to Get the Edge Against the Gruenfeld",
+   "FIELD5": "2004",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1263",
+   "FIELD2": "Opening",
+   "FIELD3": "Samarian, Sergiu",
+   "FIELD4": "Queen's Gambit Declined",
+   "FIELD5": "1974",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1160",
+   "FIELD2": "Opening",
+   "FIELD3": "Sapi & Schneider",
+   "FIELD4": "Sicilian Dragon: Classical and Levenfish Variations",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1468",
+   "FIELD2": "Opening",
+   "FIELD3": "Sapi & Schneider",
+   "FIELD4": "Sicilian Dragon: Classical and Levenfish Variations",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Arthur Patton"
+ },
+ {
+   "FIELD1": "1405",
+   "FIELD2": "Opening",
+   "FIELD3": "Schiller, Eric",
+   "FIELD4": "The Classical Caro-Kann Rejuvinated",
+   "FIELD5": "1994",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1260",
+   "FIELD2": "Opening",
+   "FIELD3": "Schwarz, Rolf",
+   "FIELD4": "Handbuch der Schach-Eröffnungen, Band 1",
+   "FIELD5": "1954",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, In German"
+ },
+ {
+   "FIELD1": "1520",
+   "FIELD2": "Opening",
+   "FIELD3": "Seirawan, Yasser",
+   "FIELD4": "Winning Chess Openings",
+   "FIELD5": "2003",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1163",
+   "FIELD2": "Opening",
+   "FIELD3": "Short, Nigel",
+   "FIELD4": "The French Defence",
+   "FIELD5": "1990",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1357",
+   "FIELD2": "Opening",
+   "FIELD3": "Sokolsky, Alexei",
+   "FIELD4": "The Modern Openings in Theory and Practice",
+   "FIELD5": "1972",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Ray Stone"
+ },
+ {
+   "FIELD1": "1615",
+   "FIELD2": "Opening",
+   "FIELD3": "Soltis & Smith",
+   "FIELD4": "How to play the Sicilian Defense against all White possibilities",
+   "FIELD5": "1987",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1614",
+   "FIELD2": "Opening",
+   "FIELD3": "Soltis, Andrew",
+   "FIELD4": "A Black defensive system for the rest of your career",
+   "FIELD5": "1987",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1613",
+   "FIELD2": "Opening",
+   "FIELD3": "Soltis, Andrew",
+   "FIELD4": "The (Not So) Old Indian",
+   "FIELD5": "1984",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1538",
+   "FIELD2": "Opening",
+   "FIELD3": "Soltis, Andrew",
+   "FIELD4": "The Trompowsky Attack",
+   "FIELD5": "1995",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1564",
+   "FIELD2": "Opening",
+   "FIELD3": "Sosonko & van der Sterren",
+   "FIELD4": "New in Chess Yearbook 26, 1992",
+   "FIELD5": "1992",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1430",
+   "FIELD2": "Opening",
+   "FIELD3": "Sosonko & van der Sterren",
+   "FIELD4": "New in Chess Yearbook 3, 1985A",
+   "FIELD5": "1985",
+   "FIELD6": "Algebraic",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1560",
+   "FIELD2": "Opening",
+   "FIELD3": "Speelman & McDonald",
+   "FIELD4": "Modern Defence",
+   "FIELD5": "2000",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1168",
+   "FIELD2": "Opening",
+   "FIELD3": "Suetin, A.S.",
+   "FIELD4": "Modern Chess Opening Theory",
+   "FIELD5": "1965",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1269",
+   "FIELD2": "Opening",
+   "FIELD3": "Suetin, Alexei",
+   "FIELD4": "The Complete Grünfeld",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1556",
+   "FIELD2": "Opening",
+   "FIELD3": "Summerscale, Aaron",
+   "FIELD4": "A Killer Chess Opening Repertoire",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1565",
+   "FIELD2": "Opening",
+   "FIELD3": "Sveshnikov, Evgeny Elinovich",
+   "FIELD4": "Sveshnikov's System",
+   "FIELD5": "1998",
+   "FIELD6": "Algebraic",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1285",
+   "FIELD2": "Opening",
+   "FIELD3": "Taimanov, Mark",
+   "FIELD4": "Sicilian: Paulsen",
+   "FIELD5": "1984",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1161",
+   "FIELD2": "Opening",
+   "FIELD3": "Taulbut, Shaun",
+   "FIELD4": "How to Play the French Defence",
+   "FIELD5": "1983",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1398",
+   "FIELD2": "Opening",
+   "FIELD3": "Tseitlin, Mikhail",
+   "FIELD4": "Winning with the Schliemann",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Graham Haase"
+ },
+ {
+   "FIELD1": "1261",
+   "FIELD2": "Opening",
+   "FIELD3": "Voronkov, B. G.",
+   "FIELD4": "Novoyndeyskaya Zaschita (Queen's Indian)",
+   "FIELD5": "1970",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton, in Russian"
+ },
+ {
+   "FIELD1": "1154",
+   "FIELD2": "Opening",
+   "FIELD3": "Wade, Blackstock & Booth",
+   "FIELD4": "The Closed Ruy Lopez",
+   "FIELD5": "1970",
+   "FIELD6": "Descriptive",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1310",
+   "FIELD2": "Opening",
+   "FIELD3": "Wade, Blackstock & Booth",
+   "FIELD4": "The Closed Ruy Lopez",
+   "FIELD5": "1970",
+   "FIELD6": "Descriptive",
+   "FIELD7": ""
+ },
+ {
+   "FIELD1": "1246",
+   "FIELD2": "Opening",
+   "FIELD3": "Walker, J.N.",
+   "FIELD4": "Chess Openings for Juniors",
+   "FIELD5": "1975",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1624",
+   "FIELD2": "Opening",
+   "FIELD3": "Wall, Bill",
+   "FIELD4": "500 King's Gambit Miniatures",
+   "FIELD5": "1986",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1644",
+   "FIELD2": "Opening",
+   "FIELD3": "Watson, John",
+   "FIELD4": "A Strategic Chess Opening Repertoire for White",
+   "FIELD5": "2012",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Max Lough"
+ },
+ {
+   "FIELD1": "1524",
+   "FIELD2": "Opening",
+   "FIELD3": "Watson, John",
+   "FIELD4": "Mastering the Chess Openings Volume 1",
+   "FIELD5": "2006",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1525",
+   "FIELD2": "Opening",
+   "FIELD3": "Watson, John",
+   "FIELD4": "Mastering the Chess Openings Volume 2",
+   "FIELD5": "2007",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1526",
+   "FIELD2": "Opening",
+   "FIELD3": "Watson, John",
+   "FIELD4": "Mastering the Chess Openings Volume 3",
+   "FIELD5": "2008",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1527",
+   "FIELD2": "Opening",
+   "FIELD3": "Watson, John",
+   "FIELD4": "Mastering the Chess Openings Volume 4",
+   "FIELD5": "2010",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1530",
+   "FIELD2": "Opening",
+   "FIELD3": "Watson, John",
+   "FIELD4": "Play the French",
+   "FIELD5": "1984",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1107",
+   "FIELD2": "Opening",
+   "FIELD3": "Wells, Peter",
+   "FIELD4": "The Complete Semi-Slav",
+   "FIELD5": "1994",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Ex Libris Richard Sutton"
+ },
+ {
+   "FIELD1": "1630",
+   "FIELD2": "Opening",
+   "FIELD3": "",
+   "FIELD4": "The New Chess Player 5 1979 A",
+   "FIELD5": "1979",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Max Lough"
+ },
+ {
+   "FIELD1": "1610",
+   "FIELD2": "Problems",
+   "FIELD3": "Barnes, B.P.",
+   "FIELD4": "Pick of the best Chess Problems",
+   "FIELD5": "1976",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1618",
+   "FIELD2": "Problems",
+   "FIELD3": "Pandolfini, Bruce",
+   "FIELD4": "More Chessercizes: Checkmate!",
+   "FIELD5": "1991",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ },
+ {
+   "FIELD1": "1528",
+   "FIELD2": "Problems",
+   "FIELD3": "Smullyan, Raymond",
+   "FIELD4": "The Chess Mysteries of the Arabian Knights",
+   "FIELD5": "1981",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by John Calder"
+ },
+ {
+   "FIELD1": "1566",
+   "FIELD2": "Problems",
+   "FIELD3": "Wenman, P.",
+   "FIELD4": "100 Published Problems",
+   "FIELD5": "1946",
+   "FIELD6": "Descriptive",
+   "FIELD7": "From the estate of John Sutherland"
+ },
+ {
+   "FIELD1": "1643",
+   "FIELD2": "Problems",
+   "FIELD3": "Wilson & Alberston",
+   "FIELD4": "303 More Tricky Chess Puzzles",
+   "FIELD5": "2006",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Max Lough"
+ },
+ {
+   "FIELD1": "1617",
+   "FIELD2": "Problems",
+   "FIELD3": "Wilson & Alberston",
+   "FIELD4": "303 Tactical Chess Puzzles",
+   "FIELD5": "2002",
+   "FIELD6": "Algebraic",
+   "FIELD7": "Donated by Chris Lydiate"
+ }
+]

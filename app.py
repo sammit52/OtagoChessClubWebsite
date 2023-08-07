@@ -1,6 +1,8 @@
 import re
 from datetime import datetime
-from flask import Flask, render_template, url_for
+from flask import Flask, render_template, url_for, flash, request, redirect
+from flask_sqlalchemy import SQLAlchemy
+
 
 
 app = Flask(__name__)
@@ -44,15 +46,17 @@ def calendar():
 def tournaments():
     return render_template("tournament.html")
 
-@app.route("/results")
-def results():
-    return render_template("results.html")
+@app.route("/library")
+def library():
+    return render_template("library.html")
+
+
 
 @app.route("/ratings")
 def ratings():
     return render_template("ratings.html")
 
-@app.route("/library")
-def library():
-    return render_template("library.html")
+@app.route("/results")
+def results():
+    return render_template("results.html")
 
