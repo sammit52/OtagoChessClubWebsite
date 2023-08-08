@@ -4,15 +4,11 @@ Home Page
 {% endblock %}
 
 {% block script %}
-<script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.8/index.global.min.js'></script>
-<script src='https://cdn.jsdelivr.net/npm/@fullcalendar/google-calendar@6.1.8/index.global.min.js'></script>
-<script>
-//Basically I want to write code that gets the upcoming events and gets the details about them like their date so I can write code for the calendar widgit get sir to help you 
-//fullcalendar.io/docs/Calendar-getEvents
-</script>
+
 {% endblock %}
 
 {% block content %}
+<div>
 <div class = "left-container">
 <h1 class = "header">Want to play chess in Otago?</h1>
 <p class = "written-content">The Otago Chess club has been established in Dunedin since 1875. We warmly welcome anyone interested in joining the club to come along to our weekly club meetings on Wednesday evenings at 7pm. We cater to all chess players whether competitive and social and hope everyone can have a fun time playing the beautiful game of chess. 
@@ -50,17 +46,23 @@ Home Page
 </div>
 <div class = "upcoming-events">
     <h1 class = "header">Upcoming Events:</h1>
-    <p>Figure out a way to create this with variables</p>
-
-
-
+    {% set counter = 0 %}
+    {% for event in events %}
+        {% if counter < 5 %}
+            {{ event[1] }} - {{ event[0] }}<br>
+            {% set counter = counter + 1 %}
+        {% endif %}
+    {% endfor %}
 </div>
-
+</div>
 <div class = "right-container">
     <img src="{{ url_for('static', filename='images/OCCHouse.jpg')}}" alt="Otago Chess Club House" class="main-images">
     <img src="{{ url_for('static', filename='images/OCCInsideBuilding.jpg')}}" alt="Inside Otago Chess Club House" class="main-images">
     <img src="{{ url_for('static', filename='images/OCCOldPhoto.jpg')}}" alt="Old Photo" class="main-images">
 
 </div>
+
+</div>
+
 
 {% endblock %}
