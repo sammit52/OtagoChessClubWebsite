@@ -3,5 +3,52 @@
 Library Page
 {% endblock %}
 {% block content %}
-<p>This is the library page of the website.</p>
+<h1 class="header">Library</h1>
+<form action="/library" method="post">
+    <select name="Category">
+        <option value="Opening">Opening</option>
+        <option value="Endgame">Endgame</option>
+        <option value="Biography">Biography</option>
+        <option value="Game Collection">Game Collection</option>
+        <option value="General">General</option>
+        <option value="History">History</option>
+        <option value="Informant">Informant</option>
+        <option value="Magazine">Magazine</option>
+        <option value="Tournament">Tournament</option>
+        <option value="Middlegame">Middlegame</option>
+        <option value="Puzzles">Puzzles</option>
+
+
+    </select>
+    <select name="Notation">
+        <option value="Algebraic">Algebraic</option>
+        <option value="Descriptive">Descriptive</option>
+
+    </select>
+    <select name="Search_type">
+        <option value="Title">Title</option>
+        <option value="Author">Author</option>
+    </select>
+    <input type="text" name="Query" placeholder="Search...">
+    <button type="submit">Search</button>
+</form>
+{% if search_results %}
+<h2>Search Results</h2>
+<ul>
+    {% for book in search_results %}
+    <li>{{ book['Title'] }} by {{ book['Author'] }}</li>
+    {% endfor %}
+</ul>
+{% else %}
+{% if query %}
+<p>No search results found for '{{ query }}'.</p>
+{% else %}
+<h2>All Books</h2>
+<ul>
+    {% for book in chess_books %}
+    <li>{{ book['Title'] }} by {{ book['Author'] }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+{% endif %}
 {% endblock %}

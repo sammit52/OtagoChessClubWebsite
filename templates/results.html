@@ -3,5 +3,33 @@
 Results Page
 {% endblock %}
 {% block content %}
-<p>This is the results page of the Otago Chess Club</p>
+<h1 class = "header">2023 Results</h1>
+<form>
+    <label for="game_type">Filter by Game Type:</label>
+    <select name="game_type" id="game_type">
+        <option value="All">All</option>
+        {% for game_type in game_types %}
+            <option value="{{ game_type }}" {% if game_type == selected_type %}selected{% endif %}>{{ game_type }}</option>
+        {% endfor %}
+    </select>
+    <button type="submit">Filter</button>
+</form>
+<table class = "written-content">
+    <tr>
+        <th>Date</th>
+        <th>Type</th>
+        <th>White Name</th>
+        <th>Black Name</th>
+        <th>Result</th>
+    </tr>
+    {% for entry in game_data %}
+        <tr class="table-row">
+            <td>{{ entry['Date'] }}</td>
+            <td>{{ entry['Game Type'] }}</td>
+            <td>{{ entry['White Name'] }}</td>
+            <td>{{ entry['Black Name'] }}</td>
+            <td>{{ entry['White Result'] }} - {{ entry['Black Result'] }}</td>
+        </tr>
+    {% endfor %}
+</table>
 {% endblock %}
