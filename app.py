@@ -1,7 +1,7 @@
 import re
 import json
 import pandas as pd
-from datetime import datetime
+import datetime
 from flask import Flask, render_template, url_for, flash, request, redirect
 from googleapiclient.discovery import build
 
@@ -9,8 +9,8 @@ from googleapiclient.discovery import build
 app = Flask(__name__)
 
 # Replace with your API key and calendar ID
-API_KEY = 'AIzaSyBrSepztiiinJcyMsWfUjhjcLK9qA8Cm14'
-CALENDAR_ID = 'f87833500104928c8fe435ceb2db6f55e81db34f8af20624b565005f8f51eafe@group.calendar.google.com'
+API_KEY = 'AIzaSyByyOAVN9RlcCs3NoQVLqa2gdmhrJPt558'
+CALENDAR_ID = 'otagochess@gmail.com'
 
 # Build the Google Calendar API service using the API key
 service = build('calendar', 'v3', developerKey=API_KEY)
@@ -30,7 +30,6 @@ df.columns = ['Game Type', 'Date', 'White Name', 'White Rating', 'White Result',
 # Convert the date column to strings, did this because idk ima see if it works
 df['Date'] = df['Date'].astype(str)
 
-
 # Convert to JSON
 json_data = df.to_json(orient='records', indent=4)
 
@@ -41,11 +40,15 @@ with open(json_file, 'w') as f:
 with open('static/LibraryBooks.json', 'r', encoding='utf-8') as json_file:
     chess_books = json.load(json_file)
 
-def get_upcoming_events(max_results=5):
-    events_result = service.events().list(calendarId=CALENDAR_ID, maxResults=max_results,
-                                          singleEvents=True, orderBy='startTime').execute()
+def get_upcoming_events(max_results=4):
+    now = datetime.datetime.utcnow().isoformat() + 'Z'  # Current UTC time
+    events_result = service.events().list(calendarId=CALENDAR_ID, timeMin=now,
+                                          maxResults=max_results, singleEvents=True,
+                                          orderBy='startTime').execute()
     events = events_result.get('items', [])
     return events
+
+# Need to make it so it doesn't show events in the past and only in the future!!!!
 
 def format_date(date_str):
     months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December']
@@ -150,5 +153,11 @@ def results():
 
     return render_template('results.html', game_types=game_types, selected_type=selected_type, game_data=sorted_data)
 
+@app.route('/news/club_championship_ratings')
+def club_championship_ratings():
+    return render_template('club_championship_ratings.html')
+
+
 if __name__ == "__main__":
     app.run(debug=True)
+
