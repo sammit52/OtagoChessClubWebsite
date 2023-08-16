@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Admin Dashboard</title>
+</head>
+<body>
+    <h1>Admin Dashboard</h1>
+    <ul>
+        <li><a href="{{ url_for('admin_edit_page', page='news') }}">Edit News</a></li>
+        <li><a href="{{ url_for('admin_edit_page', page='notices') }}">Edit Notices</a></li>
+        <li><a href="{{ url_for('admin_edit_page', page='tournaments') }}">Edit Tournaments</a></li>
+        <li><a href="{{ url_for('admin_upload_file') }}">Upload File</a></li>
+        <!-- Add more links as needed -->
+    </ul>
+    <h2>Uploaded PDF Files:</h2>
+    <ul>
+        {% for file in uploaded_pdf_files %}
+            <li>
+                <a href="{{ url_for('static', filename='uploads/pdfs/' + file) }}" target="_blank">{{ file }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+    <h2>Uploaded HTML Files:</h2>
+    <ul>
+        {% for file in uploaded_html_files %}
+            <li>
+                <a href="{{ url_for('static', filename='uploads/htmls/' + file) }}" target="_blank">{{ file }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+    <a href="{{ url_for('logout') }}">Logout</a>
+</body>
+</html>

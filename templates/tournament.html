@@ -3,5 +3,9 @@
 Tournament Page
 {% endblock %}
 {% block content %}
-<p>This is the tournament page of the website.</p>
+<h1>Tournaments</h1>
+<div>
+    <!-- Insert dynamic content here -->
+    {{ tournaments_content|safe }}
+</div>
 {% endblock %}

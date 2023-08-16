@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Content</title>
+</head>
+<body>
+    <h1>Edit Content</h1>
+    <form method="post" action="{{ url_for('admin_edit_page', page=page) }}">
+        <textarea name="content" rows="40" cols="150">{{ content }}</textarea><br>
+        <input type="submit" value="Save">
+    </form>
+    <a href="{{ url_for('admin_dashboard') }}">Back to Dashboard</a>
+</body>
+</html>

@@ -4,8 +4,10 @@ News Page
 {% endblock %}
 {% block content %}
     <h1 class= "header">Latest News</h1>
-    <p><i>Watch this space for up-to-date news of chess
-    events from the Otago region.</i></p>
+    <p><i>Watch this space for up-to-date news of chess events from the Otago region.</i></p>
+    {{ news_content|safe }}
+    
+    
 
     <p><b>Winter Rapid Open - 11 June</b></p>
     <p>The Winter Rapid Open drew a very healthy field of 34, with a players from Oamaru
@@ -41,7 +43,7 @@ News Page
     
     <p><b>Club Rapid Championship - 7 June</b></p>
     <p style="font-weight: normal">The grades were set using the NZCF Rapid ratings
-    under the <a href="static/CHAMPIONSHIP.pdf">rules</a>.</p>
+    under the <a href="static/CHAMPIONSHIP.pdf" target="_blank">rules</a>.</p>
     <p>The A grade had two regulars, Quentin Johnson and Ben Suazo, and two new
     additions: Jens Paulsen who had fought his way up the ratings to appear in the
     A grade for the first time having started in the C grade last year,
@@ -69,7 +71,7 @@ News Page
     </p>
     <p><span style="font-weight: normal"><a href="{{ url_for('club_championship_ratings') }}">View
     combined Crosstable and Rating performances</a><br>
-    <a href="OCCnews/news2023/OCCRapidChp2023l1.htm">View
+    <a href="static\club_rapid_champion_leg1.pdf#zoom=60">View
     Grade Crosstables</a></span></p>
     
     <p><b>Blitz Championship 2 – 7 June</b></p>
@@ -80,7 +82,7 @@ News Page
     These two drew with each other and won all their other games. Iain Lamont was 3rd on 5
     points and Samuel Mitchell and Rogan-Joe Slaon shared 4th on 4. Ian Repia scored
     a notable 3½ for 6th as he played both the winners.</p>
-    <p><a href="OCCnews/news2023/blitz2_2023.htm">View Crosstable</a></p>
+    <p><a href="{{ url_for('blitz_championship_2023') }}">View Crosstable</a></p>
     <p><b>Graham Haase Memorial - 10 May</b></p>
     <p>The Graham Haase Memorial 2023 chess tournament equalled its biggest turnout
     with 29 players taking part including several new members. It ended with Jens 
@@ -93,13 +95,13 @@ News Page
     Naser Tamimi, Hamish Gold, and Leo Malcolm on 3½ points. Paulsen and Tamimi
     had notable rating gains (Naser returning to the club after a couple of years hiatus),
     along with Lobb, William Smith and John Armstrong.</p>
-    <p><a href="OCCnews/news2023/haase2023.htm">View
+    <p><a href="{{ url_for('graham_haase_2023') }}">View
     Crosstable and Rating performances</a></p>
     <p><b>University of Otago Inter-College Teams' tournament - 23 April</b></p>
     <p>The 2023 University of Otago held its annual Inter-College Chess Teams competition
     on Sunday 23 April at the College of Education staffroom. Studholme 1 were the
     champions this year with a score of 9/10.</p>
-    <p>View the final <a href="./OCCnews/news2023/intercol2023.htm" target="_blank">Crosstable</a></p>
+    <p>View the final <a href="{{ url_for('intercollege_chess_2023') }}">Crosstable</a></p>
     <p><b>Club Championship – 5 April, updated 3 May</b></p>
     <p>The first leg of the 2023 Club Championship was affected by a number of absences
     with seveal games still to finish in the A and B Grades.</p>
@@ -125,20 +127,20 @@ News Page
     standings.<br>
     Overall, it was a competitive and exciting tournament, and congratulations to Ezekiel Stewart for
     winning promotion to the B Grade in the second leg!</p>
-    <p>The <a href="CLUB%20CHAMPIONSHIPS.pdf" target="_blank"><b>rules</b></a>
+    <p>The <a href="static/CHAMPIONSHIP.pdf" target="_blank"><b>rules</b></a>
     mean that each grade starts with a base score and/or a scaling factor,
     to allow performances to be roughly compared between grades, based on
     the average rating of the field in each grade. That allows players in
     different grades to compete for the same trophy on fair terms. The
     Championship totals in the link below show the effect of these
     adjustments.</p>
-    <p><a href="OCCnews/news2023/OCCchamps23l1.htm">View
+    <p><a href="static\club_champion_leg1.pdf">View
     all crosstables</a><br>
-    <a href="OCCnews/news2023/otchp2023a1.htm">View
+    <a href="static\AGrade_Club_Champs_Leg1.pdf">View
     A-Grade crosstable and rating performances</a><br>
-    <a href="OCCnews/news2023/otchp2023b1.htm">View
+    <a href="static\BGrade_Club_Champs_Leg1.pdf">View
     B-Grade crosstable and rating performances</a><br>
-    <a href="OCCnews/news2023/otchp2023c1.htm">View
+    <a href="static\CGrade_Club_Champs_Leg1.pdf">View
     C-Grade crosstable and rating performances</a></p>
     <p><b>Autumn Rapid Open - 5 March</b></p>
     <p>The Autumn Rapid Open drew an excellent field of 30, with a players from Invercargill,
@@ -170,12 +172,12 @@ News Page
     The U1600 Grade was shared by Hamish Gold, Emmanuel Santiago and Conor Kerr on 4 points.<br>
     The U1200 Grade was shared by Leo Devlin, Haru Kuroe and Yurri Viray on 3 points.<br>
     The next rapid open is the Winter Rapid on Sunday 11 June.</p>
-    <p><a href="OCCnews/news2023/wwwOtagoAutumnRapidOpen2023/crosstablescore.html">View Vega output</a></p>
+    <p><a href="https://otagochess.org/OCCnews/news2023/wwwOtagoAutumnRapidOpen2023/crosstablescore.html">View Vega output</a></p>
     <p><b>Allan Chang Memorial – 22 February</b></p>
     <p>The Allan Chang 10 minute hourglass tournament had a turnout of
     19 participants. The unusual time limit delivered plenty of upsets, with
     the trophy going to the largest (based on 
-    <a href="./OCCnews/news2023/OCCPerpetual2023.htm" target="_blank">club rapid rating</a>
+    <a href="static\ratingsaug.pdf" >club rapid rating</a>
     difference January 2023).</p>
     <p>Oscar Lobb recorded the biggest upset of round 1 with a win over Terry Duffield 
     (Difference 109 club rapid rating points), and then bettered it two games

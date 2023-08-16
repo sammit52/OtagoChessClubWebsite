@@ -2,11 +2,152 @@ import re
 import json
 import pandas as pd
 import datetime
-from flask import Flask, render_template, url_for, flash, request, redirect
+from flask import Flask, render_template, url_for, flash, request, redirect, session, g, send_from_directory
 from googleapiclient.discovery import build
-
+import os
+from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
+app.secret_key = "ballz123"
+
+UPLOAD_FOLDER = 'static/pdfs'
+ALLOWED_PDF_EXTENSIONS = {'pdf'}
+ALLOWED_HTML_EXTENSIONS = {'html'}
+
+app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path, 'static', 'uploads')
+
+def allowed_file(filename, allowed_extensions):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in allowed_extensions
+
+@app.route('/admin/upload_file', methods=['GET', 'POST'])
+def admin_upload_file():
+    if not g.admin_logged_in:
+        return redirect(url_for("admin_login"))
+    
+    if request.method == 'POST':
+        pdf_file = request.files.get('pdf_file')
+        html_file = request.files.get('html_file')
+
+        if pdf_file and allowed_file(pdf_file.filename, ALLOWED_PDF_EXTENSIONS):
+            pdf_filename = os.path.join(app.config['UPLOAD_FOLDER'], 'pdfs', pdf_file.filename)
+            pdf_file.save(pdf_filename)
+            flash("PDF file uploaded successfully.", "success")
+            return redirect(url_for('admin_dashboard'))  # Redirect to the admin dashboard after processing
+
+        if html_file and allowed_file(html_file.filename, ALLOWED_HTML_EXTENSIONS):
+            html_filename = os.path.join(app.config['UPLOAD_FOLDER'], 'html', html_file.filename)
+            html_file.save(html_filename)
+            flash("HTML file uploaded successfully.", "success")
+            return redirect(url_for('admin_dashboard'))  # Redirect to the admin dashboard after processing
+
+    return render_template('admin_upload_file.html')  # Return the upload file page template
+    
+# Makes it so admin can mention the file in the code with the url_for function
+@app.route('/pdfs/<filename>')
+def download_pdf(filename):
+    return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
+
+
+
+
+# Simulate admin user for demonstration
+ADMIN_USERNAME = "admin"
+ADMIN_PASSWORD = "password"
+
+# Define g context middleware
+@app.before_request
+def before_request():
+    g.admin_logged_in = session.get("admin_logged_in", False)
+
+# ... other routes ...
+
+@app.route("/admin/login", methods=["GET", "POST"])
+def admin_login():
+    error_message = None
+
+    if request.method == "POST":
+        username = request.form.get("username")
+        password = request.form.get("password")
+
+        if username == ADMIN_USERNAME and password == ADMIN_PASSWORD:
+            session["admin_logged_in"] = True
+            g.admin_logged_in = True
+            flash("Logged in as admin.", "success")
+            return redirect(url_for("admin_dashboard"))
+        else:
+            error_message="Wrong username or password"
+            flash("Invalid username or password.", "danger")
+            return render_template('admin_login.html', error_message=error_message)
+
+    return render_template("admin_login.html")
+
+@app.route("/logout")
+def logout():
+    session.pop("admin_logged_in", None)
+    g.pop("admin_logged_in", None)
+    flash("Logged out.", "success")
+    return redirect(url_for("admin_login"))
+
+@app.route("/admin/dashboard")
+def admin_dashboard():
+    if not g.admin_logged_in:
+        return redirect(url_for("admin_login"))
+    
+    uploaded_pdf_files = os.listdir(os.path.join(app.config['UPLOAD_FOLDER'], 'pdfs'))
+    uploaded_html_files = os.listdir(os.path.join(app.config['UPLOAD_FOLDER'], 'htmls'))
+
+
+
+    return render_template("admin_dashboard.html", uploaded_pdf_files=uploaded_pdf_files, uploaded_html_files=uploaded_html_files)
+
+
+@app.route("/admin/edit/<page>", methods=["GET", "POST"])
+def admin_edit_page(page):
+    if not g.admin_logged_in:
+        return redirect(url_for("admin_login"))
+
+    content_file_path = f"static/{page}_content.txt"
+    if request.method == "POST":
+        content = request.form.get("content")
+        with open(content_file_path, "w") as content_file:
+            content_file.write(content)
+        flash(f"{page.capitalize()} content saved.", "success")
+
+    with open(content_file_path, 'w', newline='') as file:
+        file.write(content)
+
+    return render_template("admin_edit.html", page=page, content=content)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Replace with your API key and calendar ID
 API_KEY = 'AIzaSyByyOAVN9RlcCs3NoQVLqa2gdmhrJPt558'
@@ -90,22 +231,10 @@ def get_data():
 def about():
     return render_template("about.html")
 
-@app.route("/news")
-def news():
-    return render_template("news.html")
-
-@app.route("/notices")
-def notices():
-    return render_template("notices.html")
 
 @app.route("/calendar")
 def calendar():
-
     return render_template("calendar.html")
-
-@app.route("/tournaments")
-def tournaments():
-    return render_template("tournament.html")
 
 @app.route('/library', methods=['GET', 'POST'])
 def library():
@@ -153,11 +282,63 @@ def results():
 
     return render_template('results.html', game_types=game_types, selected_type=selected_type, game_data=sorted_data)
 
+
+@app.route("/news")
+def news():
+    with open('static/news_content.txt', 'r') as news_file:
+        news_content = news_file.read()
+    return render_template("news.html", news_content=news_content)
+
+@app.route("/notices")
+def notices():
+    with open('static/notices_content.txt', 'r') as notices_file:
+        notices_content = notices_file.read()
+    return render_template("notices.html", notices_content=notices_content)
+
+@app.route("/tournaments")
+def tournaments():
+    with open('static/tournaments_content.txt', 'r') as tournaments_file:
+        tournaments_content = tournaments_file.read()
+    return render_template("tournament.html", tournaments_content=tournaments_content)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @app.route('/news/club_championship_ratings')
 def club_championship_ratings():
     return render_template('club_championship_ratings.html')
 
+@app.route('/news/blitz_championship_2023')
+def blitz_championship_2023():
+    return render_template('blitz_championship_2023.html')
+
+@app.route('/news/graham_haase_2023')
+def graham_haase_2023():
+    return render_template('graham_haase_2023.html')
+
+@app.route('/news/intercollege_chess_2023.html')
+def intercollege_chess_2023():
+    return render_template('intercollege_chess_2023.html')
 
 if __name__ == "__main__":
     app.run(debug=True)
+
 
