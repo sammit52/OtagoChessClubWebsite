@@ -2,19 +2,23 @@ import re
 import json
 import pandas as pd
 import datetime
-from flask import Flask, render_template, url_for, flash, request, redirect, session, g, send_from_directory
+from flask import Flask, render_template, url_for, flash, request, redirect, session, g, send_from_directory, jsonify, render_template_string
 from googleapiclient.discovery import build
 import os
+
+
 from werkzeug.utils import secure_filename
 
 app = Flask(__name__)
 app.secret_key = "ballz123"
 
-UPLOAD_FOLDER = 'static/pdfs'
+HTML_UPLOAD_FOLDER = 'uploads/htmls'
+PDF_UPLOAD_FOLDER = 'uploads/pdfs'
 ALLOWED_PDF_EXTENSIONS = {'pdf'}
 ALLOWED_HTML_EXTENSIONS = {'html'}
 
-app.config['UPLOAD_FOLDER'] = os.path.join(app.root_path, 'static', 'uploads')
+app.config['UPLOAD_FOLDER_PDFS'] = PDF_UPLOAD_FOLDER
+app.config['UPLOAD_FOLDER_HTMLS'] = HTML_UPLOAD_FOLDER
 
 def allowed_file(filename, allowed_extensions):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in allowed_extensions
@@ -29,23 +33,35 @@ def admin_upload_file():
         html_file = request.files.get('html_file')
 
         if pdf_file and allowed_file(pdf_file.filename, ALLOWED_PDF_EXTENSIONS):
-            pdf_filename = os.path.join(app.config['UPLOAD_FOLDER'], 'pdfs', pdf_file.filename)
+            pdf_filename = os.path.join(app.config['UPLOAD_FOLDER_PDFS'], pdf_file.filename)
             pdf_file.save(pdf_filename)
             flash("PDF file uploaded successfully.", "success")
-            return redirect(url_for('admin_dashboard'))  # Redirect to the admin dashboard after processing
+            return redirect(url_for('admin_dashboard'))
 
         if html_file and allowed_file(html_file.filename, ALLOWED_HTML_EXTENSIONS):
-            html_filename = os.path.join(app.config['UPLOAD_FOLDER'], 'html', html_file.filename)
+            html_filename = os.path.join(app.config['UPLOAD_FOLDER_HTMLS'], html_file.filename)
             html_file.save(html_filename)
             flash("HTML file uploaded successfully.", "success")
-            return redirect(url_for('admin_dashboard'))  # Redirect to the admin dashboard after processing
+            return redirect(url_for('admin_dashboard'))
 
-    return render_template('admin_upload_file.html')  # Return the upload file page template
+    return render_template('admin_upload_file.html')
+
     
 # Makes it so admin can mention the file in the code with the url_for function
-@app.route('/pdfs/<filename>')
-def download_pdf(filename):
-    return send_from_directory(app.config['UPLOAD_FOLDER'], filename)
+# Code so the admin can generate links for CMS
+@app.route('/<page_name>/<filename>')
+def link_file(page_name, filename):
+    if allowed_file(filename, ALLOWED_PDF_EXTENSIONS):
+        folder = os.path.join(app.config['UPLOAD_FOLDER_PDFS'])
+
+    elif allowed_file(filename, ALLOWED_HTML_EXTENSIONS):
+        folder = os.path.join(app.config['UPLOAD_FOLDER_HTMLS'])
+    
+    else:
+        return "Error: Not a valid file"
+    
+    return send_from_directory(folder, filename)
+
 
 
 
@@ -93,8 +109,8 @@ def admin_dashboard():
     if not g.admin_logged_in:
         return redirect(url_for("admin_login"))
     
-    uploaded_pdf_files = os.listdir(os.path.join(app.config['UPLOAD_FOLDER'], 'pdfs'))
-    uploaded_html_files = os.listdir(os.path.join(app.config['UPLOAD_FOLDER'], 'htmls'))
+    uploaded_pdf_files = os.listdir(app.config['UPLOAD_FOLDER_PDFS'])
+    uploaded_html_files = os.listdir(app.config['UPLOAD_FOLDER_HTMLS'])
 
 
 
@@ -107,44 +123,27 @@ def admin_edit_page(page):
         return redirect(url_for("admin_login"))
 
     content_file_path = f"static/{page}_content.txt"
+    content = ""  # Initialize content with an empty string
+
     if request.method == "POST":
         content = request.form.get("content")
-        with open(content_file_path, "w") as content_file:
-            content_file.write(content)
+        
+        # Render the content using Jinja2 to process the template variables
+        rendered_content = render_template_string(content)
+        
+        # Write the rendered content to the file
+        with open(content_file_path, "w", newline='') as content_file:
+            content_file.write(rendered_content)
+        
         flash(f"{page.capitalize()} content saved.", "success")
 
-    with open(content_file_path, 'w', newline='') as file:
-        file.write(content)
+    # Load the current content from the file and render it
+    with open(content_file_path, "r") as content_file:
+        content = content_file.read()
 
-    return render_template("admin_edit.html", page=page, content=content)
+    rendered_content = render_template_string(content)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    return render_template("admin_edit.html", page=page, content=rendered_content)
 
 
 
@@ -300,26 +299,6 @@ def tournaments():
     with open('static/tournaments_content.txt', 'r') as tournaments_file:
         tournaments_content = tournaments_file.read()
     return render_template("tournament.html", tournaments_content=tournaments_content)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 @app.route('/news/club_championship_ratings')

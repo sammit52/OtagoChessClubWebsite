@@ -9,6 +9,7 @@
         <textarea name="content" rows="40" cols="150">{{ content }}</textarea><br>
         <input type="submit" value="Save">
     </form>
+    <p>Note: To display links to a document/file use the following code &lt;a href="&#123;&#123; url_for('link_file', page_name='(name of page you're editing)', filename='filename.(file_type)') &#125;&#125;"&gt;LINK&lt;/a&gt;</p>
     <a href="{{ url_for('admin_dashboard') }}">Back to Dashboard</a>
 </body>
 </html>

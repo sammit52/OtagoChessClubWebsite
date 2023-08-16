@@ -14,18 +14,15 @@
     </ul>
     <h2>Uploaded PDF Files:</h2>
     <ul>
-        {% for file in uploaded_pdf_files %}
-            <li>
-                <a href="{{ url_for('static', filename='uploads/pdfs/' + file) }}" target="_blank">{{ file }}</a>
-            </li>
+        {% for pdf_file in uploaded_pdf_files %}
+            <li><a href="{{ url_for('link_file', page_name='uploads', filename=pdf_file) }}">{{ pdf_file }}</a></li>
         {% endfor %}
     </ul>
-    <h2>Uploaded HTML Files:</h2>
+    
+    <h2>Uploaded HTML Files</h2>
     <ul>
-        {% for file in uploaded_html_files %}
-            <li>
-                <a href="{{ url_for('static', filename='uploads/htmls/' + file) }}" target="_blank">{{ file }}</a>
-            </li>
+        {% for html_file in uploaded_html_files %}
+            <li><a href="{{ url_for('link_file', page_name='uploads', filename=html_file) }}">{{ html_file }}</a></li>
         {% endfor %}
     </ul>
     <a href="{{ url_for('logout') }}">Logout</a>
