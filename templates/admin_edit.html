@@ -6,10 +6,20 @@
 <body>
     <h1>Edit Content</h1>
     <form method="post" action="{{ url_for('admin_edit_page', page=page) }}">
-        <textarea name="content" rows="40" cols="150">{{ content }}</textarea><br>
+        <textarea name="content" rows="20" cols="150">{{ content }}</textarea><br>
         <input type="submit" value="Save">
     </form>
-    <p>Note: To display links to a document/file use the following code &lt;a href="&#123;&#123; url_for('link_file', page_name='(name of page you're editing)', filename='filename.(file_type)') &#125;&#125;"&gt;LINK&lt;/a&gt;</p>
+    <p>To link to an image they are found in static/uploads/images/your_file_name.<br>For html and pdf files they should work from simply linking it to: the_page_it's_on/file_name.<br></p>
+    <p>If pdf/html links don't work use jinja format it should automatically create one for you: href="&#123;&#123; url_for('link_file', page_name='(name of page you're editing)', filename='filename.(file_type)') &#125;&#125;"</p>
     <a href="{{ url_for('admin_dashboard') }}">Back to Dashboard</a>
+    {% with messages = get_flashed_messages() %}
+    {% if messages %}
+    <ul class="flash-messages">
+        {% for message in messages %}
+        <li class="flash-message">{{ message }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    {% endwith %}
 </body>
 </html>

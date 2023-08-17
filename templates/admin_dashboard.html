@@ -31,6 +31,16 @@
             <li><a href="{{ url_for('link_file', page_name='uploads', filename=image_file) }}">{{ image_file }}</a></li>
         {% endfor %}
     </ul>
+    <h2>System Messages</h2>
+    {% with messages = get_flashed_messages() %}
+    {% if messages %}
+    <ul class="flash-messages">
+        {% for message in messages %}
+        <li class="flash-message">{{ message }}</li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+    {% endwith %}
     <a href="{{ url_for('logout') }}">Logout</a>
 </body>
 </html>

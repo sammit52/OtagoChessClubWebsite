@@ -5,19 +5,29 @@ import datetime
 from flask import Flask, render_template, url_for, flash, request, redirect, session, g, send_from_directory, jsonify, render_template_string
 from googleapiclient.discovery import build
 import os
-
-
 from werkzeug.utils import secure_filename
+from dotenv import load_dotenv
+import jinja2
+from jinja2.exceptions import TemplateSyntaxError
 
 app = Flask(__name__)
 app.secret_key = "ballz123"
+
+# Load environment variables from .env fil
+load_dotenv()
+
+
+""" 
+CMS ADMIN SECTION OF CODE
+
+"""
 
 HTML_UPLOAD_FOLDER = 'static/uploads/htmls'
 PDF_UPLOAD_FOLDER = 'static/uploads/pdfs'
 IMAGE_UPLOAD_FOLDER = 'static/uploads/images'
 ALLOWED_PDF_EXTENSIONS = {'pdf'}
 ALLOWED_HTML_EXTENSIONS = {'html'}
-ALLOWED_IMAGE_EXTENSIONS = {'png,','jpg','jpeg'}
+ALLOWED_IMAGE_EXTENSIONS = {'png','jpg','jpeg'}
 
 app.config['UPLOAD_FOLDER_PDFS'] = PDF_UPLOAD_FOLDER
 app.config['UPLOAD_FOLDER_HTMLS'] = HTML_UPLOAD_FOLDER
@@ -55,13 +65,12 @@ def admin_upload_file():
             return redirect(url_for('admin_dashboard'))
         
         else:
-            return "Error: Not a valid file" 
+            return "Error: Only accepted file types are: pdf, html, png, jpeg and jpg" 
  
 
     return render_template('admin_upload_file.html')
 
     
-# Makes it so admin can mention the file in the code with the url_for function
 # Code so the admin can generate links for CMS
 @app.route('/<page_name>/<filename>')
 def link_file(page_name, filename):
@@ -75,13 +84,9 @@ def link_file(page_name, filename):
         folder = os.path.join(app.config['UPLOAD_FOLDER_IMAGES'])
     
     else:
-        return "Error: The file is not valid"
+        return "Error: The file is not valid, the only accepted file types are: pdf, html, png, jpeg and jpg"
     
     return send_from_directory(folder, filename)
-
-
-
-
 
 # Simulate admin user for demonstration
 ADMIN_USERNAME = "admin"
@@ -91,8 +96,6 @@ ADMIN_PASSWORD = "password"
 @app.before_request
 def before_request():
     g.admin_logged_in = session.get("admin_logged_in", False)
-
-# ... other routes ...
 
 @app.route("/admin/login", methods=["GET", "POST"])
 def admin_login():
@@ -145,14 +148,22 @@ def admin_edit_page(page):
     if request.method == "POST":
         content = request.form.get("content")
         
-        # Render the content using Jinja2 to process the template variables
-        rendered_content = render_template_string(content)
-        
-        # Write the rendered content to the file
-        with open(content_file_path, "w", newline='') as content_file:
-            content_file.write(rendered_content)
-        
-        flash(f"{page.capitalize()} content saved.", "success")
+        try:
+            # Try to render the template to check for errors
+            rendered_content = render_template_string(content)
+            
+            # If no errors, save the content
+            with open(content_file_path, "w", newline='') as content_file:
+                content_file.write(rendered_content)
+            
+            flash(f"{page.capitalize()} content saved.", "success")
+
+        except jinja2.exceptions.UndefinedError as e:
+            flash("Warning: There is some sort of error with your Jinja code, variable is undefined or incorrect syntax")
+
+        except TemplateSyntaxError as e:
+            # Template contains errors, display a warning message to the admin
+            flash("Warning: The content contains template syntax errors. It may not render correctly.", "warning")
 
     # Load the current content from the file and render it
     with open(content_file_path, "r") as content_file:
@@ -163,14 +174,11 @@ def admin_edit_page(page):
     return render_template("admin_edit.html", page=page, content=rendered_content)
 
 
+"""
+ACCESSING EXCEL SHEET AND GETTING DATA
 
+"""
 
-# Replace with your API key and calendar ID
-API_KEY = 'AIzaSyByyOAVN9RlcCs3NoQVLqa2gdmhrJPt558'
-CALENDAR_ID = 'otagochess@gmail.com'
-
-# Build the Google Calendar API service using the API key
-service = build('calendar', 'v3', developerKey=API_KEY)
 
 # Load the JSON data
 with open('static/results.json', 'r') as json_file:
@@ -197,8 +205,20 @@ with open(json_file, 'w') as f:
 with open('static/LibraryBooks.json', 'r', encoding='utf-8') as json_file:
     chess_books = json.load(json_file)
 
+
+"""
+GOOGLE API SECTION OF CODE
+
+"""
+
+API_KEY = "AIzaSyByyOAVN9RlcCs3NoQVLqa2gdmhrJPt558"
+CALENDAR_ID = 'otagochess@gmail.com'
+
+service = build('calendar', 'v3', developerKey=API_KEY)
+
+
 def get_upcoming_events(max_results=4):
-    now = datetime.datetime.utcnow().isoformat() + 'Z'  # Current UTC time
+    now = datetime.datetime.utcnow().isoformat() + 'Z'  
     events_result = service.events().list(calendarId=CALENDAR_ID, timeMin=now,
                                           maxResults=max_results, singleEvents=True,
                                           orderBy='startTime').execute()
@@ -228,20 +248,10 @@ def home():
     return render_template("home.html", events=event_data)
 
 
-@app.route("/hello/")
-@app.route("/hello/<name>")
-def hello_there(name = None):
-    print(name)
-    return render_template(
-        "hello_there.html",
-        name=name,
-        date=datetime.now()
-    )
-    
-@app.route("/api/data")
-def get_data():
-    return app.send_static_file("data.json")
+"""
+MAIN PAGES OF WEBSITE
 
+"""
 
 @app.route("/about")
 def about():
@@ -251,6 +261,32 @@ def about():
 @app.route("/calendar")
 def calendar():
     return render_template("calendar.html")
+
+
+@app.route("/news")
+def news():
+    with open('static/news_content.txt', 'r') as news_file:
+        news_content = news_file.read()
+    return render_template("news.html", news_content=news_content)
+
+@app.route("/notices")
+def notices():
+    with open('static/notices_content.txt', 'r') as notices_file:
+        notices_content = notices_file.read()
+    return render_template("notices.html", notices_content=notices_content)
+
+@app.route("/tournaments")
+def tournaments():
+    with open('static/tournaments_content.txt', 'r') as tournaments_file:
+        tournaments_content = tournaments_file.read()
+    return render_template("tournament.html", tournaments_content=tournaments_content)
+
+
+"""
+PAGES THAT ACCESS DATABASES
+
+"""
+
 
 @app.route('/library', methods=['GET', 'POST'])
 def library():
@@ -299,23 +335,6 @@ def results():
     return render_template('results.html', game_types=game_types, selected_type=selected_type, game_data=sorted_data)
 
 
-@app.route("/news")
-def news():
-    with open('static/news_content.txt', 'r') as news_file:
-        news_content = news_file.read()
-    return render_template("news.html", news_content=news_content)
-
-@app.route("/notices")
-def notices():
-    with open('static/notices_content.txt', 'r') as notices_file:
-        notices_content = notices_file.read()
-    return render_template("notices.html", notices_content=notices_content)
-
-@app.route("/tournaments")
-def tournaments():
-    with open('static/tournaments_content.txt', 'r') as tournaments_file:
-        tournaments_content = tournaments_file.read()
-    return render_template("tournament.html", tournaments_content=tournaments_content)
 
 if __name__ == "__main__":
     app.run(debug=True)
