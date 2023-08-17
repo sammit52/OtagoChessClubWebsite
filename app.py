@@ -6,16 +6,12 @@ from flask import Flask, render_template, url_for, flash, request, redirect, ses
 from googleapiclient.discovery import build
 import os
 from werkzeug.utils import secure_filename
-from dotenv import load_dotenv
+from werkzeug.security import generate_password_hash, check_password_hash
 import jinja2
 from jinja2.exceptions import TemplateSyntaxError
 
 app = Flask(__name__)
 app.secret_key = "ballz123"
-
-# Load environment variables from .env fil
-load_dotenv()
-
 
 """ 
 CMS ADMIN SECTION OF CODE
@@ -91,6 +87,7 @@ def link_file(page_name, filename):
 # Simulate admin user for demonstration
 ADMIN_USERNAME = "admin"
 ADMIN_PASSWORD = "password"
+
 
 # Define g context middleware
 @app.before_request

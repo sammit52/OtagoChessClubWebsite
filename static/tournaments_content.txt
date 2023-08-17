@@ -18,11 +18,11 @@
 <br><br>
 <u><b>Team entry fee (3 players):</u></b> $30.00
 <br><br>
-Download an entry form
+Download an <a href="tournaments/2023OtagoUnder13ChessChp.pdf">entry form</a>
 <br><br>
 <u><b>For more details or to register by email:</u></b> otagochess@gmail.com
 <br><br>
-See final 2023 Crosstable
+See final <a href="tournaments/southland_u13_2023.html">2023 Crosstable</a>
 </p>
 
 <h3 class="header"><b>Otago Junior (Under 20) Chess Championship 2022</b></h3>
@@ -45,7 +45,7 @@ See final 2023 Crosstable
 <br><br>
 <u><b>Team entry fee (3 players):</u></b> $40.00
 <br><br>
-Download an entry form
+Download an <a href="tournaments/OtagoJunior2023entryform.pdf">entry form</a>
 <br><br>
 <u><b>For more details or to register by email:</u></b> otagochess@gmail.com
 </p>
@@ -62,11 +62,11 @@ Download an entry form
 <br><br>
 <u><b>For Further Details Contact:</u></b> Quentin Johnson, 021 156 6789, email:otagochess@gmail.com
 <br><br>
-Download entry information
+<a href="tournaments/SIChampsInformation2023.pdf">Download entry information</a>
 <br><br>
-Register via the Online Entry Form
+Register via the <a href="https://forms.office.com/pages/responsepage.aspx?id=-WBsUSO9jUqyVCHDTDKoSqUFdXRe7MFOuMtT5iR07CFUMllFSTY0WkM5NVdVS1dKSTJKQTBNQzQ0TS4u">Online Entry Form</a>
 <br><br>
-View Vega files showing registrations to date
+<a href="https://otagochess.org/OCCnews/news2023/wwwSouthIslandChampionship2023/">View Vega Files</a> showing registrations to date
 </p>
 
 <h3 class="header"><b>South Island Rapid Championship 2023</b></h3>
@@ -81,11 +81,11 @@ View Vega files showing registrations to date
 <br><br>
 <u><b>For Further Details Contact:</u></b> Quentin Johnson, 021 156 6789, email:otagochess@gmail.com
 <br><br>
-Download entry information
+<a href="tournaments/SIChampsInformation2023.pdf">Download entry information</a>
 <br><br>
-Register via the Online Entry Form
+Register via the <a href="https://forms.office.com/pages/responsepage.aspx?id=-WBsUSO9jUqyVCHDTDKoSqUFdXRe7MFOuMtT5iR07CFUMllFSTY0WkM5NVdVS1dKSTJKQTBNQzQ0TS4u">Online Entry Form</a>
 <br><br>
-View Vega files showing registrations to date
+<a href="https://otagochess.org/OCCnews/news2023/wwwSouthIalndRapidChampionship2023/">View Vega files</a> showing registrations to date
 </p>
 
 <h3 class="header"><b>Otago Westpac Trophy Open Rapid Tournaments</b></h3>
@@ -111,3 +111,21 @@ Download an entry form - 2022 Results on Vega
 <p>
 Download an entry form - 2023 Entries to date
 </p>
+<h3 class="header">Tournament Links:</h3>
+<P><A HREF="http://www.newzealandchess.co.nz/">New Zealand Chess</A>
+						</P>
+<P><A HREF="http://www.nzchessmag.com/">New Zealand Chess Magazine</A>
+						</P>
+<P><A HREF="http://www.nzchess.co.nz/">Poison Pawn</A> 
+			</P>
+<P><A HREF="http://www.auschess.org.au/oceania/">Oceania international events</A> 
+			</P>
+<P><A HREF="http://www.chess.org.nz/">Canterbury Chess Club</A> 
+			</P>
+<P><A HREF="http://www.fijichess.com/">Fiji Chess Federation</A> 
+			</P>
+<P><A HREF="http://wellingtonchess2012.blogspot.co.nz/">Wellington
+			Chess Blog</A> 
+			</P>
+<P><A HREF="https://www.chesspower.co.nz/tournaments.html">Chess Power</A> 
+			</P>
