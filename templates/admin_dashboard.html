@@ -25,6 +25,12 @@
             <li><a href="{{ url_for('link_file', page_name='uploads', filename=html_file) }}">{{ html_file }}</a></li>
         {% endfor %}
     </ul>
+    <h2>Uploaded IMAGE Files</h2>
+    <ul>
+        {% for image_file in uploaded_image_files %}
+            <li><a href="{{ url_for('link_file', page_name='uploads', filename=image_file) }}">{{ image_file }}</a></li>
+        {% endfor %}
+    </ul>
     <a href="{{ url_for('logout') }}">Logout</a>
 </body>
 </html>

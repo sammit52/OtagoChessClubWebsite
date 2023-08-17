@@ -12,13 +12,16 @@ from werkzeug.utils import secure_filename
 app = Flask(__name__)
 app.secret_key = "ballz123"
 
-HTML_UPLOAD_FOLDER = 'uploads/htmls'
-PDF_UPLOAD_FOLDER = 'uploads/pdfs'
+HTML_UPLOAD_FOLDER = 'static/uploads/htmls'
+PDF_UPLOAD_FOLDER = 'static/uploads/pdfs'
+IMAGE_UPLOAD_FOLDER = 'static/uploads/images'
 ALLOWED_PDF_EXTENSIONS = {'pdf'}
 ALLOWED_HTML_EXTENSIONS = {'html'}
+ALLOWED_IMAGE_EXTENSIONS = {'png,','jpg','jpeg'}
 
 app.config['UPLOAD_FOLDER_PDFS'] = PDF_UPLOAD_FOLDER
 app.config['UPLOAD_FOLDER_HTMLS'] = HTML_UPLOAD_FOLDER
+app.config['UPLOAD_FOLDER_IMAGES'] = IMAGE_UPLOAD_FOLDER
 
 def allowed_file(filename, allowed_extensions):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in allowed_extensions
@@ -31,18 +34,29 @@ def admin_upload_file():
     if request.method == 'POST':
         pdf_file = request.files.get('pdf_file')
         html_file = request.files.get('html_file')
+        image_file = request.files.get('image_file')
 
-        if pdf_file and allowed_file(pdf_file.filename, ALLOWED_PDF_EXTENSIONS):
+        if image_file and allowed_file(image_file.filename, ALLOWED_IMAGE_EXTENSIONS):
+            image_filename = os.path.join(app.config['UPLOAD_FOLDER_IMAGES'], image_file.filename)
+            image_file.save(image_filename)
+            flash("Image file uploaded successfully.", "success")
+            return redirect(url_for('admin_dashboard'))
+
+        elif pdf_file and allowed_file(pdf_file.filename, ALLOWED_PDF_EXTENSIONS):
             pdf_filename = os.path.join(app.config['UPLOAD_FOLDER_PDFS'], pdf_file.filename)
             pdf_file.save(pdf_filename)
             flash("PDF file uploaded successfully.", "success")
             return redirect(url_for('admin_dashboard'))
-
-        if html_file and allowed_file(html_file.filename, ALLOWED_HTML_EXTENSIONS):
+        
+        elif html_file and allowed_file(html_file.filename, ALLOWED_HTML_EXTENSIONS):
             html_filename = os.path.join(app.config['UPLOAD_FOLDER_HTMLS'], html_file.filename)
             html_file.save(html_filename)
             flash("HTML file uploaded successfully.", "success")
             return redirect(url_for('admin_dashboard'))
+        
+        else:
+            return "Error: Not a valid file" 
+ 
 
     return render_template('admin_upload_file.html')
 
@@ -56,9 +70,12 @@ def link_file(page_name, filename):
 
     elif allowed_file(filename, ALLOWED_HTML_EXTENSIONS):
         folder = os.path.join(app.config['UPLOAD_FOLDER_HTMLS'])
+
+    elif allowed_file(filename, ALLOWED_IMAGE_EXTENSIONS):
+        folder = os.path.join(app.config['UPLOAD_FOLDER_IMAGES'])
     
     else:
-        return "Error: Not a valid file"
+        return "Error: The file is not valid"
     
     return send_from_directory(folder, filename)
 
@@ -111,10 +128,10 @@ def admin_dashboard():
     
     uploaded_pdf_files = os.listdir(app.config['UPLOAD_FOLDER_PDFS'])
     uploaded_html_files = os.listdir(app.config['UPLOAD_FOLDER_HTMLS'])
+    uploaded_image_files = os.listdir(app.config['UPLOAD_FOLDER_IMAGES'])
 
 
-
-    return render_template("admin_dashboard.html", uploaded_pdf_files=uploaded_pdf_files, uploaded_html_files=uploaded_html_files)
+    return render_template("admin_dashboard.html", uploaded_pdf_files=uploaded_pdf_files, uploaded_html_files=uploaded_html_files, uploaded_image_files=uploaded_image_files)
 
 
 @app.route("/admin/edit/<page>", methods=["GET", "POST"])
@@ -299,23 +316,6 @@ def tournaments():
     with open('static/tournaments_content.txt', 'r') as tournaments_file:
         tournaments_content = tournaments_file.read()
     return render_template("tournament.html", tournaments_content=tournaments_content)
-
-
-@app.route('/news/club_championship_ratings')
-def club_championship_ratings():
-    return render_template('club_championship_ratings.html')
-
-@app.route('/news/blitz_championship_2023')
-def blitz_championship_2023():
-    return render_template('blitz_championship_2023.html')
-
-@app.route('/news/graham_haase_2023')
-def graham_haase_2023():
-    return render_template('graham_haase_2023.html')
-
-@app.route('/news/intercollege_chess_2023.html')
-def intercollege_chess_2023():
-    return render_template('intercollege_chess_2023.html')
 
 if __name__ == "__main__":
     app.run(debug=True)

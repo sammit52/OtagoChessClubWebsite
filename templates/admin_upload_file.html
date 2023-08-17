@@ -9,8 +9,9 @@
     <p class="error">{{ error_message }}</p>
     {% endif %}
     <form method="post" enctype="multipart/form-data">
-        <input type="file" name="pdf_file"><p>Choose pdf file</p>
-        <input type="file" name="html_file"><p>Choose html file</p>
+        <p>Choose pdf file</p><input type="file" name="pdf_file">
+        <p>Choose html file</p><input type="file" name="html_file">
+        <p>Choose image file</p><input type="file" name="image_file">
         <input type="submit" value="Upload">
     </form>
     <a href="{{ url_for('admin_dashboard') }}">Back to Dashboard</a>
