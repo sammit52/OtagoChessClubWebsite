@@ -136,8 +136,13 @@
     width: auto;
 }
 
-.table-row td {
-    padding-right: 14px;
+.table-row td{
+    padding-right: 30px;
+
+}
+
+.name {
+    width: 120px;
 }
 
 @media screen and (max-width: 1175px) {

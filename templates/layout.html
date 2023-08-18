@@ -22,7 +22,7 @@
                     <button role="button" type="button" class="btn dropdown" data-toggle="dropdown">&#8801;</button>
                     <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
                         <a class="dropdown-item" href="{{ url_for('home') }}">HOME</a>
-                        <a class="dropdown-item" href="{{ url_for('about') }}">ABOUT</a>
+                        
                         <a class="dropdown-item" href="{{ url_for('news') }}">NEWS</a>
                         <a class="dropdown-item" href="{{ url_for('notices') }}">NOTICES</a>
                         <a class="dropdown-item" href="{{ url_for('calendar') }}">CALENDAR</a>
@@ -34,8 +34,7 @@
                 </div>
                 <div>
                         <a style = "text-decoration: none;" href="{{ url_for('home') }}" class="navbar-item">HOME</a>
-                        <p class="navbar-divider">&#9474;</p>
-                        <a style = "text-decoration: none;" href="{{ url_for('about') }}" class="navbar-item">ABOUT</a>
+                        <!-- REMOVED ABOUT BECAUSE DIDNT HAVE TIME TO FINISH IT FOR MY BETA RELEASE -->
                         <p class="navbar-divider">&#9474;</p>
                         <a style = "text-decoration: none;" href="{{ url_for('news') }}" class="navbar-item">NEWS</a>
                         <p class="navbar-divider">&#9474;</p>
@@ -88,33 +87,6 @@
 
 
 
-
-        <!-- 
-            <div class="navbar">
-                <button class="mobile-menu-button"><a class="hamburger-menu">&#8801;</a></button>
-                    <div class="mobile-menu">
-                        <li><a href="{{ url_for('home') }}">HOME</a></li>
-                        <li><a href="{{ url_for('about') }}">ABOUT</a></li>
-                        <li><a href="{{ url_for('news') }}">NEWS</a></li>
-                        <li><a href="{{ url_for('notices') }}">NOTICES</a></li>
-                        <li><a href="{{ url_for('calendar') }}">CALENDAR</a></li>
-                        <li><a href="{{ url_for('tournaments') }}">TOURNAMENTS</a></li>
-                        <li><a href="{{ url_for('results') }}">RESULTS</a></li>
-                        <li><a href="{{ url_for('ratings') }}">RATINGS</a></li>
-                        <li><a href="{{ url_for('library') }}">LIBRARY</a></li>
-                    </div>
-            
-                <a href="{{ url_for('home') }}" class="navbar-item">HOME</a>
-                <a href="{{ url_for('about') }}" class="navbar-item">ABOUT</a>
-                <a href="{{ url_for('news') }}" class="navbar-item">NEWS</a>
-                <a href="{{ url_for('notices') }}" class="navbar-item">NOTICES</a>
-                <a href="{{ url_for('calendar') }}" class="navbar-item">CALENDAR</a>
-                <a href="{{ url_for('tournaments') }}" class="navbar-item">TOURNAMENTS</a>
-                <a href="{{ url_for('results') }}" class="navbar-item">RESULTS</a>
-                <a href="{{ url_for('ratings') }}" class="navbar-item">RATINGS</a>
-                <a href="{{ url_for('library') }}" class="navbar-item">LIBRARY</a>
-            </div>
-        -->  
 
 
 

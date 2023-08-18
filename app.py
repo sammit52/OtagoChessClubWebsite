@@ -21,6 +21,8 @@ CMS ADMIN SECTION OF CODE
 HTML_UPLOAD_FOLDER = 'static/uploads/htmls'
 PDF_UPLOAD_FOLDER = 'static/uploads/pdfs'
 IMAGE_UPLOAD_FOLDER = 'static/uploads/images'
+EXCEL_UPLOAD_FOLDER = 'static/uploads/excels'
+ALLOWED_EXCEL_EXTENSIONS = {'xlsx'}
 ALLOWED_PDF_EXTENSIONS = {'pdf'}
 ALLOWED_HTML_EXTENSIONS = {'html'}
 ALLOWED_IMAGE_EXTENSIONS = {'png','jpg','jpeg'}
@@ -28,6 +30,7 @@ ALLOWED_IMAGE_EXTENSIONS = {'png','jpg','jpeg'}
 app.config['UPLOAD_FOLDER_PDFS'] = PDF_UPLOAD_FOLDER
 app.config['UPLOAD_FOLDER_HTMLS'] = HTML_UPLOAD_FOLDER
 app.config['UPLOAD_FOLDER_IMAGES'] = IMAGE_UPLOAD_FOLDER
+app.config['UPLOAD_FOLDER_EXCELS'] = EXCEL_UPLOAD_FOLDER
 
 def allowed_file(filename, allowed_extensions):
     return '.' in filename and filename.rsplit('.', 1)[1].lower() in allowed_extensions
@@ -41,6 +44,7 @@ def admin_upload_file():
         pdf_file = request.files.get('pdf_file')
         html_file = request.files.get('html_file')
         image_file = request.files.get('image_file')
+        excel_file = request.files.get('excel_file')
 
         if image_file and allowed_file(image_file.filename, ALLOWED_IMAGE_EXTENSIONS):
             image_filename = os.path.join(app.config['UPLOAD_FOLDER_IMAGES'], image_file.filename)
@@ -60,8 +64,36 @@ def admin_upload_file():
             flash("HTML file uploaded successfully.", "success")
             return redirect(url_for('admin_dashboard'))
         
+        elif excel_file and allowed_file(excel_file.filename, ALLOWED_EXCEL_EXTENSIONS):
+            excel_filename = os.path.join(app.config['UPLOAD_FOLDER_EXCELS'], excel_file.filename)
+            if os.path.exists(excel_filename):
+                os.remove(excel_filename)
+            excel_file.save(excel_filename)
+            flash("Excel file uploaded successfully.", "success")
+
+            # UPDATE CURRENT DATABASE
+            # Load new Excel data
+            new_data_df = pd.read_excel(excel_filename, usecols=[0, 1, 2, 3, 4, 5, 6, 7])
+            new_data_df.columns = ['Game Type', 'Date', 'White Name', 'White Rating', 'White Result', 'Black Name', 'Black Rating', 'Black Result']
+            
+            # Convert the date column to strings, did this because idk ima see if it works
+            new_data_df['Date'] = new_data_df['Date'].astype(str)           
+
+            # Convert new data DataFrame to JSON and append to existing data
+            new_data_json = new_data_df.to_dict(orient='records')
+
+            # Update the JSON file with the updated data
+            if excel_file.filename == "results.xlsx":
+                with open('static/results.json', 'w') as json_file:
+                    json.dump(new_data_json, json_file, indent=4)
+            elif excel_file.filename == "ratings.xlsx":
+                with open('static/ratings.json', 'w') as json_file:
+                    json.dump(new_data_json, json_file, indent=4)
+
+            return redirect(url_for('admin_dashboard'))
+        
         else:
-            return "Error: Only accepted file types are: pdf, html, png, jpeg and jpg" 
+            return "Error: Only accepted file types are: xlsx, pdf, html, png, jpeg and jpg" 
  
 
     return render_template('admin_upload_file.html')
@@ -176,15 +208,12 @@ ACCESSING EXCEL SHEET AND GETTING DATA
 
 """
 
-
-# Load the JSON data
-with open('static/results.json', 'r') as json_file:
-    game_data = json.load(json_file)
+# LOAD RESULTS DATA
 
 # Get the excel file
-excel_file = 'static/results.xlsx'
+results_excel_file = 'static/uploads/excels/results.xlsx'
 
-df = pd.read_excel(excel_file, usecols=[0, 1, 2, 3, 4, 5, 6, 7])
+df = pd.read_excel(results_excel_file, usecols=[0, 1, 2, 3, 4, 5, 6, 7])
 
 # Rename columns for clarity
 df.columns = ['Game Type', 'Date', 'White Name', 'White Rating', 'White Result', 'Black Name', 'Black Rating', 'Black Result']
@@ -193,14 +222,65 @@ df.columns = ['Game Type', 'Date', 'White Name', 'White Rating', 'White Result',
 df['Date'] = df['Date'].astype(str)
 
 # Convert to JSON
-json_data = df.to_json(orient='records', indent=4)
+results_json_data = df.to_json(orient='records', indent=4)
 
-json_file = 'static/results.json'
-with open(json_file, 'w') as f:
-    f.write(json_data)
+results_json_file = 'static/results.json'
+with open(results_json_file, 'w') as f:
+    f.write(results_json_data)
 
-with open('static/LibraryBooks.json', 'r', encoding='utf-8') as json_file:
-    chess_books = json.load(json_file)
+# Load the JSON data
+with open('static/results.json', 'r') as json_file:
+    game_data = json.load(json_file)
+
+# UPDATE DATABASE WHEN NEW FILE ADDED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# LOAD RATINGS DATA
+
+
+
+ratings_excel_file = 'static/uploads/excels/ratings.xlsx'
+
+df2 = pd.read_excel(ratings_excel_file, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15])
+
+df2.columns = ['Game Type',	'Rank', 'Name',	'Jan',	'Feb',	'Mar',	'Apr',	'May',	'Jun',	'Jul',	'Aug',	'Sep',	'Oct',	'Nov',	'Dec',	'Gain']
+
+# Convert to JSON
+ratings_json_data = df2.to_json(orient='records', indent=4)
+
+ratings_json_file = 'static/ratings.json'
+with open(ratings_json_file, 'w') as f:
+    f.write(ratings_json_data)
+
+# Load the JSON data
+with open('static/ratings.json', 'r') as json_file:
+    results_data = json.load(json_file)
+
+
+
 
 
 """
@@ -232,6 +312,7 @@ def format_date(date_str):
     formatted_date = f"{month} {day}"
     return formatted_date
 
+
 @app.route("/")
 def home():
     upcoming_events = get_upcoming_events(max_results=5)
@@ -250,15 +331,16 @@ MAIN PAGES OF WEBSITE
 
 """
 
+
+"""
 @app.route("/about")
 def about():
     return render_template("about.html")
-
+"""
 
 @app.route("/calendar")
 def calendar():
     return render_template("calendar.html")
-
 
 @app.route("/news")
 def news():
@@ -285,6 +367,10 @@ PAGES THAT ACCESS DATABASES
 """
 
 
+with open('static/LibraryBooks.json', 'r', encoding='utf-8') as json_file:
+    chess_books = json.load(json_file)   
+
+
 @app.route('/library', methods=['GET', 'POST'])
 def library():
     if request.method == 'POST':
@@ -308,10 +394,6 @@ def library():
     else:
         return render_template('library.html', chess_books=chess_books)
 
-@app.route("/ratings")
-def ratings():
-    return render_template("ratings.html")
-
 
 @app.route('/results', methods=['GET', 'POST'])
 def results():
@@ -330,6 +412,26 @@ def results():
     sorted_data = sorted(filtered_data, key=lambda x: x['Date'], reverse=True)
 
     return render_template('results.html', game_types=game_types, selected_type=selected_type, game_data=sorted_data)
+
+
+@app.route("/ratings", methods=['GET','POST'])
+def ratings():
+    game_types = set(entry['Game Type'] for entry in results_data)
+    
+    
+    if request.method == 'POST':
+        selected_type = request.form.get('game_type')
+    else:
+        selected_type = request.args.get('game_type')
+    
+    if selected_type == None:
+        selected_type = 'Standard' # Set default display
+    
+    filtered_data = [entry for entry in results_data if entry['Game Type'] == selected_type]
+
+    sorted_data = sorted(filtered_data, key=lambda x: x['Rank'], reverse=False)
+
+    return render_template("ratings.html", game_types=game_types, selected_type=selected_type, results_data=sorted_data)
 
 
 

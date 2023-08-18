@@ -1,0 +1,3744 @@
+[
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-01",
+        "White Name": "Jens Paulsen",
+        "White Rating": 417,
+        "White Result": 0.5,
+        "Black Name": "Iain Lamont",
+        "Black Rating": 510,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-01",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 574,
+        "White Result": 1.0,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 337,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-01",
+        "White Name": "Terence Duffield",
+        "White Rating": 324,
+        "White Result": 0.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 450,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-01",
+        "White Name": "Hamish R Gold",
+        "White Rating": 333,
+        "White Result": 0.0,
+        "Black Name": "Elliot Munro",
+        "Black Rating": 454,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-01",
+        "White Name": "Brent Southgate",
+        "White Rating": 229,
+        "White Result": 0.0,
+        "Black Name": "Alexander Sun",
+        "Black Rating": 350,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-01",
+        "White Name": "Lewis Kim",
+        "White Rating": 350,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 189,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-01",
+        "White Name": "David M Reid",
+        "White Rating": 186,
+        "White Result": 0.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 213,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-01",
+        "White Name": "Ryan High",
+        "White Rating": 257,
+        "White Result": 0.0,
+        "Black Name": "Issey Gray",
+        "Black Rating": 117,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-01",
+        "White Name": "Oscar Lobb",
+        "White Rating": 234,
+        "White Result": 1.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 241,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-01",
+        "White Name": "Ezekiel Stewart",
+        "White Rating": 197,
+        "White Result": 1.0,
+        "Black Name": "William Smith",
+        "Black Rating": 234,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-08",
+        "White Name": "Iain Lamont",
+        "White Rating": 510,
+        "White Result": 0.5,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 574,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-29",
+        "White Name": "Benedict Suazo",
+        "White Rating": 514,
+        "White Result": 0.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 417,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "Leo Malcolm",
+        "White Rating": 456,
+        "White Result": 0.0,
+        "Black Name": "Alexander Sun",
+        "Black Rating": 361,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-08",
+        "White Name": "Elliot Munro",
+        "White Rating": 454,
+        "White Result": 1.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 229,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-08",
+        "White Name": "Terence Duffield",
+        "White Rating": 324,
+        "White Result": 0.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 333,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-08",
+        "White Name": "Alf Loretan",
+        "White Rating": 213,
+        "White Result": 0.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 234,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-08",
+        "White Name": "Gregory Familton",
+        "White Rating": 337,
+        "White Result": 0.0,
+        "Black Name": "Ezekiel Stewart",
+        "Black Rating": 197,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-08",
+        "White Name": "Issey Gray",
+        "White Rating": 117,
+        "White Result": 0.0,
+        "Black Name": "David M Reid",
+        "Black Rating": 186,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-08",
+        "White Name": "William Smith",
+        "White Rating": 234,
+        "White Result": 0.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 257,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-08",
+        "White Name": "John F Armstrong",
+        "White Rating": 189,
+        "White Result": 1.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 167,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-05",
+        "White Name": "Jens Paulsen",
+        "White Rating": 455,
+        "White Result": 1.0,
+        "Black Name": "Qi Le Kong-Lim",
+        "Black Rating": 547,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-15",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 574,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 514,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-15",
+        "White Name": "Gregory Familton",
+        "White Rating": 337,
+        "White Result": 0.0,
+        "Black Name": "Iain Lamont",
+        "Black Rating": 510,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-15",
+        "White Name": "Hamish R Gold",
+        "White Rating": 333,
+        "White Result": 0.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 450,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-15",
+        "White Name": "Brent Southgate",
+        "White Rating": 229,
+        "White Result": 0.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 324,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-15",
+        "White Name": "Alexander Sun",
+        "White Rating": 350,
+        "White Result": 0.0,
+        "Black Name": "Elliot Munro",
+        "Black Rating": 454,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-15",
+        "White Name": "Ezekiel Stewart",
+        "White Rating": 197,
+        "White Result": 1.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 234,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-15",
+        "White Name": "Ryan High",
+        "White Rating": 257,
+        "White Result": 1.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 213,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-15",
+        "White Name": "David M Reid",
+        "White Rating": 186,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 189,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-15",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 241,
+        "White Result": 0.0,
+        "Black Name": "Issey Gray",
+        "Black Rating": 117,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-22",
+        "White Name": "Jens Paulsen",
+        "White Rating": 417,
+        "White Result": 1.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 574,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-29",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 574,
+        "White Result": 0.5,
+        "Black Name": "Qi Le Kong-Lim",
+        "Black Rating": 533,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-22",
+        "White Name": "Iain Lamont",
+        "White Rating": 510,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 514,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-22",
+        "White Name": "Leo Malcolm",
+        "White Rating": 450,
+        "White Result": 0.0,
+        "Black Name": "Elliot Munro",
+        "Black Rating": 454,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-22",
+        "White Name": "Terence Duffield",
+        "White Rating": 324,
+        "White Result": 0.5,
+        "Black Name": "Alexander Sun",
+        "Black Rating": 350,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-22",
+        "White Name": "Hamish R Gold",
+        "White Rating": 333,
+        "White Result": 1.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 229,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-22",
+        "White Name": "Ryan High",
+        "White Rating": 257,
+        "White Result": 1.0,
+        "Black Name": "Ezekiel Stewart",
+        "Black Rating": 197,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-22",
+        "White Name": "Oscar Lobb",
+        "White Rating": 234,
+        "White Result": 1.0,
+        "Black Name": "David M Reid",
+        "Black Rating": 186,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-22",
+        "White Name": "Alf Loretan",
+        "White Rating": 213,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 189,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-22",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 167,
+        "White Result": 0.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 241,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-05",
+        "White Name": "Brent Southgate",
+        "White Rating": 214,
+        "White Result": 0.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 455,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-19",
+        "White Name": "Alexander Sun",
+        "White Rating": 350,
+        "White Result": 1.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 343,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-29",
+        "White Name": "Elliot Munro",
+        "White Rating": 454,
+        "White Result": 1.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 324,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-29",
+        "White Name": "Oscar Lobb",
+        "White Rating": 234,
+        "White Result": 0.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 257,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-29",
+        "White Name": "Issey Gray",
+        "White Rating": 117,
+        "White Result": 0.0,
+        "Black Name": "Ezekiel Stewart",
+        "Black Rating": 197,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-29",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 241,
+        "White Result": 1.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 213,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-29",
+        "White Name": "David M Reid",
+        "White Rating": 186,
+        "White Result": 0.5,
+        "Black Name": "William Smith",
+        "Black Rating": 234,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-29",
+        "White Name": "Leo Malcolm",
+        "White Rating": 450,
+        "White Result": 1.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 150,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-03-29",
+        "White Name": "Samuel Mitchell",
+        "White Rating": 150,
+        "White Result": 1.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 167,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-05",
+        "White Name": "Ezekiel Stewart",
+        "White Rating": 238,
+        "White Result": 1.0,
+        "Black Name": "David M Reid",
+        "Black Rating": 194,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-05",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 144,
+        "White Result": 0.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 247,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-05",
+        "White Name": "Oliver Lee",
+        "White Rating": 150,
+        "White Result": 0.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 236,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-05",
+        "White Name": "Alf Loretan",
+        "White Rating": 209,
+        "White Result": 0.0,
+        "Black Name": "Samuel Mitchell",
+        "Black Rating": 161,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-12",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 548,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 179,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-12",
+        "White Name": "David M Reid",
+        "White Rating": 194,
+        "White Result": 0.0,
+        "Black Name": "Iain Lamont",
+        "Black Rating": 506,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-12",
+        "White Name": "Jens Paulsen",
+        "White Rating": 455,
+        "White Result": 0.5,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 247,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-12",
+        "White Name": "Issey Gray",
+        "White Rating": 137,
+        "White Result": 0.0,
+        "Black Name": "Naser Tamimi",
+        "Black Rating": 360,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-12",
+        "White Name": "Gregory Familton",
+        "White Rating": 319,
+        "White Result": 1.0,
+        "Black Name": "Samuel Mitchell",
+        "Black Rating": 161,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-12",
+        "White Name": "William Smith",
+        "White Rating": 214,
+        "White Result": 0.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 317,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-12",
+        "White Name": "Hamish R Gold",
+        "White Rating": 343,
+        "White Result": 1.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 144,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-12",
+        "White Name": "Carlssen Van Rooyen",
+        "White Rating": 250,
+        "White Result": 0.5,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 214,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-12",
+        "White Name": "Alf Loretan",
+        "White Rating": 209,
+        "White Result": 1.0,
+        "Black Name": "Eva Lloyd",
+        "Black Rating": 100,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-12",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 300,
+        "White Result": 1.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 236,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-19",
+        "White Name": "Terence Duffield",
+        "White Rating": 317,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 548,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-19",
+        "White Name": "Iain Lamont",
+        "White Rating": 506,
+        "White Result": 0.5,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 319,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-19",
+        "White Name": "Benedict Suazo",
+        "White Rating": 516,
+        "White Result": 1.0,
+        "Black Name": "Zhe Min Yee",
+        "Black Rating": 300,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-19",
+        "White Name": "Brent Southgate",
+        "White Rating": 214,
+        "White Result": 0.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 455,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-19",
+        "White Name": "Oscar Lobb",
+        "White Rating": 247,
+        "White Result": 0.5,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 455,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-19",
+        "White Name": "Ryan High",
+        "White Rating": 281,
+        "White Result": 1.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 150,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-19",
+        "White Name": "John F Armstrong",
+        "White Rating": 179,
+        "White Result": 1.0,
+        "Black Name": "River Mein",
+        "Black Rating": 100,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-19",
+        "White Name": "Samuel Mitchell",
+        "White Rating": 161,
+        "White Result": 1.0,
+        "Black Name": "Ezekiel Stewart",
+        "Black Rating": 238,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-19",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 144,
+        "White Result": 0.0,
+        "Black Name": "William Smith",
+        "Black Rating": 214,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-26",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 548,
+        "White Result": 1.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 343,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-26",
+        "White Name": "Naser Tamimi",
+        "White Rating": 360,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 516,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-26",
+        "White Name": "Jens Paulsen",
+        "White Rating": 455,
+        "White Result": 1.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 209,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-26",
+        "White Name": "Leo Malcolm",
+        "White Rating": 455,
+        "White Result": 1.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 281,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-26",
+        "White Name": "Samuel Mitchell",
+        "White Rating": 161,
+        "White Result": 0.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 317,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-26",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 300,
+        "White Result": 0.5,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 179,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-26",
+        "White Name": "William Smith",
+        "White Rating": 214,
+        "White Result": 1.0,
+        "Black Name": "Carlssen Van Rooyen",
+        "Black Rating": 250,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-26",
+        "White Name": "Oliver Lee",
+        "White Rating": 150,
+        "White Result": 0.5,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 214,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-26",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 236,
+        "White Result": 1.0,
+        "Black Name": "Issey Gray",
+        "Black Rating": 137,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-26",
+        "White Name": "Eva Lloyd",
+        "White Rating": 100,
+        "White Result": 0.0,
+        "Black Name": "David M Reid",
+        "Black Rating": 194,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-04-26",
+        "White Name": "River Mein",
+        "White Rating": 100,
+        "White Result": 0.0,
+        "Black Name": "James Davies",
+        "Black Rating": 100,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "Iain Lamont",
+        "White Rating": 501,
+        "White Result": 0.5,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 557,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "Benedict Suazo",
+        "White Rating": 525,
+        "White Result": 0.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 469,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "Gregory Familton",
+        "White Rating": 333,
+        "White Result": 1.0,
+        "Black Name": "William Smith",
+        "Black Rating": 229,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "Terence Duffield",
+        "White Rating": 328,
+        "White Result": 0.0,
+        "Black Name": "Naser Tamimi",
+        "Black Rating": 360,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "Hamish R Gold",
+        "White Rating": 336,
+        "White Result": 1.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 272,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "Alf Loretan",
+        "White Rating": 204,
+        "White Result": 1.0,
+        "Black Name": "Zhe Min Yee",
+        "Black Rating": 302,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "David M Reid",
+        "White Rating": 194,
+        "White Result": 1.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 244,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "John F Armstrong",
+        "White Rating": 194,
+        "White Result": 0.5,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 144,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "Carlssen Van Rooyen",
+        "White Rating": 239,
+        "White Result": 0.5,
+        "Black Name": "Samuel Mitchell",
+        "Black Rating": 182,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "Brent Southgate",
+        "White Rating": 213,
+        "White Result": 0.5,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 131,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "Issey Gray",
+        "White Rating": 131,
+        "White Result": 1.0,
+        "Black Name": "Eva Lloyd",
+        "Black Rating": 90,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-03",
+        "White Name": "Sarah Lund",
+        "White Rating": 100,
+        "White Result": 1.0,
+        "Black Name": "River Mein",
+        "Black Rating": 85,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-10",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 557,
+        "White Result": 0.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 469,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-10",
+        "White Name": "Benedict Suazo",
+        "White Rating": 525,
+        "White Result": 0.5,
+        "Black Name": "Iain Lamont",
+        "Black Rating": 501,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-10",
+        "White Name": "Naser Tamimi",
+        "White Rating": 360,
+        "White Result": 1.0,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 333,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-10",
+        "White Name": "Leo Malcolm",
+        "White Rating": 456,
+        "White Result": 1.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 204,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-10",
+        "White Name": "Hamish R Gold",
+        "White Rating": 336,
+        "White Result": 1.0,
+        "Black Name": "David M Reid",
+        "Black Rating": 194,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-10",
+        "White Name": "Ryan High",
+        "White Rating": 284,
+        "White Result": 0.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 194,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-10",
+        "White Name": "William Smith",
+        "White Rating": 229,
+        "White Result": 0.5,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 213,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-10",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 244,
+        "White Result": 0.5,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 144,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-10",
+        "White Name": "Oscar Lobb",
+        "White Rating": 272,
+        "White Result": 1.0,
+        "Black Name": "Carlssen Van Rooyen",
+        "Black Rating": 239,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-10",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 302,
+        "White Result": 1.0,
+        "Black Name": "Sarah Lund",
+        "Black Rating": 100,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-05-10",
+        "White Name": "Eva Lloyd",
+        "White Rating": 90,
+        "White Result": 0.5,
+        "Black Name": "River Mein",
+        "Black Rating": 85,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-14",
+        "White Name": "Oscar Lobb",
+        "White Rating": 275,
+        "White Result": 1.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 496,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-14",
+        "White Name": "Gregory Familton",
+        "White Rating": 332,
+        "White Result": 1.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 136,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-14",
+        "White Name": "William Smith",
+        "White Rating": 225,
+        "White Result": 0.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 351,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-14",
+        "White Name": "Alf Loretan",
+        "White Rating": 218,
+        "White Result": 0.5,
+        "Black Name": "Samuel Mitchell",
+        "Black Rating": 186,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-14",
+        "White Name": "Oliver Lee",
+        "White Rating": 154,
+        "White Result": 0.5,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 207,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-14",
+        "White Name": "David M Reid",
+        "White Rating": 203,
+        "White Result": 1.0,
+        "Black Name": "Ian Repia-King",
+        "Black Rating": 100,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-21",
+        "White Name": "Oscar Lobb",
+        "White Rating": 275,
+        "White Result": 1.0,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 332,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-21",
+        "White Name": "Hamish R Gold",
+        "White Rating": 351,
+        "White Result": 1.0,
+        "Black Name": "David M Reid",
+        "Black Rating": 203,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-21",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 543,
+        "White Result": 1.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 271,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-21",
+        "White Name": "Iain Lamont",
+        "White Rating": 508,
+        "White Result": 1.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 218,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-21",
+        "White Name": "Benedict Suazo",
+        "White Rating": 513,
+        "White Result": 1.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 229,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-21",
+        "White Name": "John F Armstrong",
+        "White Rating": 207,
+        "White Result": 0.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 446,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-21",
+        "White Name": "Brent Southgate",
+        "White Rating": 211,
+        "White Result": 1.0,
+        "Black Name": "Issey Gray",
+        "Black Rating": 141,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-21",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 136,
+        "White Result": 0.5,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 154,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-28",
+        "White Name": "Hamish R Gold",
+        "White Rating": 351,
+        "White Result": 0.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 275,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-28",
+        "White Name": "Brent Southgate",
+        "White Rating": 211,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 513,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-28",
+        "White Name": "Jens Paulsen",
+        "White Rating": 496,
+        "White Result": 1.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 154,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-28",
+        "White Name": "Gregory Familton",
+        "White Rating": 332,
+        "White Result": 1.0,
+        "Black Name": "David M Reid",
+        "Black Rating": 203,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-28",
+        "White Name": "Ryan High",
+        "White Rating": 271,
+        "White Result": 1.0,
+        "Black Name": "Issey Gray",
+        "Black Rating": 141,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-28",
+        "White Name": "Alf Loretan",
+        "White Rating": 218,
+        "White Result": 0.5,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 136,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-06-28",
+        "White Name": "Ian Repia-King",
+        "White Rating": 100,
+        "White Result": 0.5,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 207,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-05",
+        "White Name": "Benedict Suazo",
+        "White Rating": 517,
+        "White Result": 0.5,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 546,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-05",
+        "White Name": "Gregory Familton",
+        "White Rating": 331,
+        "White Result": 1.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 350,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-05",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 229,
+        "White Result": 0.5,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 219,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-05",
+        "White Name": "John F Armstrong",
+        "White Rating": 200,
+        "White Result": 0.0,
+        "Black Name": "Zhe Min Yee",
+        "Black Rating": 293,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-05",
+        "White Name": "David M Reid",
+        "White Rating": 203,
+        "White Result": 0.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 214,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-12",
+        "White Name": "Oscar Lobb",
+        "White Rating": 321,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 517,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-12",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 546,
+        "White Result": 1.0,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 331,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-12",
+        "White Name": "Emmanuel Santiago",
+        "White Rating": 263,
+        "White Result": 0.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 481,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-12",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 293,
+        "White Result": 1.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 219,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-12",
+        "White Name": "Alf Loretan",
+        "White Rating": 214,
+        "White Result": 0.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 229,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-12",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 140,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 200,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-12",
+        "White Name": "Benjamin Roberts",
+        "White Rating": 100,
+        "White Result": 0.0,
+        "Black Name": "David M Reid",
+        "Black Rating": 203,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-19",
+        "White Name": "Jens Paulsen",
+        "White Rating": 481,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 517,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-19",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 546,
+        "White Result": 1.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 321,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-19",
+        "White Name": "Hamish R Gold",
+        "White Rating": 350,
+        "White Result": 1.0,
+        "Black Name": "Zhe Min Yee",
+        "Black Rating": 293,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-19",
+        "White Name": "Leo Malcolm",
+        "White Rating": 449,
+        "White Result": 1.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 229,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-19",
+        "White Name": "Oliver Lee",
+        "White Rating": 159,
+        "White Result": 0.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 276,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-19",
+        "White Name": "Brent Southgate",
+        "White Rating": 219,
+        "White Result": 1.0,
+        "Black Name": "David M Reid",
+        "Black Rating": 203,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": "2023-07-19",
+        "White Name": "Samuel Mitchell",
+        "White Rating": 189,
+        "White Result": 0.5,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 200,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Benedict Suazo",
+        "White Rating": 530,
+        "White Result": 1.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 238,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Ryan High",
+        "White Rating": 248,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 520,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Romero Suggate",
+        "White Rating": 412,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 176,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Oscar Lobb",
+        "White Rating": 192,
+        "White Result": 1.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 301,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Hamish R Gold",
+        "White Rating": 322,
+        "White Result": 1.0,
+        "Black Name": "William Smith",
+        "Black Rating": 252,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Alf Loretan",
+        "White Rating": 139,
+        "White Result": 0.0,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 337,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Brent Southgate",
+        "White Rating": 256,
+        "White Result": 1.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 160,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Brent Southgate",
+        "White Rating": 256,
+        "White Result": 0.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 176,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 160,
+        "White Result": 0.0,
+        "Black Name": "Romero Suggate",
+        "Black Rating": 412,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Alf Loretan",
+        "White Rating": 139,
+        "White Result": 1.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 238,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "William Smith",
+        "White Rating": 252,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 530,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Gregory Familton",
+        "White Rating": 337,
+        "White Result": 0.5,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 322,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Alf Loretan",
+        "White Rating": 139,
+        "White Result": 0.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 160,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Romero Suggate",
+        "White Rating": 412,
+        "White Result": 1.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 192,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 520,
+        "White Result": 1.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 322,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Ryan High",
+        "White Rating": 248,
+        "White Result": 0.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 256,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Gregory Familton",
+        "White Rating": 337,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 176,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 238,
+        "White Result": 1.0,
+        "Black Name": "William Smith",
+        "Black Rating": 252,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Terence Duffield",
+        "White Rating": 301,
+        "White Result": 1.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 160,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Benedict Suazo",
+        "White Rating": 530,
+        "White Result": 1.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 139,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Romero Suggate",
+        "White Rating": 412,
+        "White Result": 1.0,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 337,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Oscar Lobb",
+        "White Rating": 192,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 176,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 160,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 520,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Terence Duffield",
+        "White Rating": 301,
+        "White Result": 0.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 322,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Oscar Lobb",
+        "White Rating": 192,
+        "White Result": 1.0,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 337,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "William Smith",
+        "White Rating": 252,
+        "White Result": 0.0,
+        "Black Name": "Romero Suggate",
+        "Black Rating": 412,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-15",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 520,
+        "White Result": 1.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 530,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 160,
+        "White Result": 0.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 315,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 520,
+        "White Result": 1.0,
+        "Black Name": "Romero Suggate",
+        "Black Rating": 412,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Hamish R Gold",
+        "White Rating": 322,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 530,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Gregory Familton",
+        "White Rating": 337,
+        "White Result": 1.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 256,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 238,
+        "White Result": 0.0,
+        "Black Name": "Iain Lamont",
+        "Black Rating": 531,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Leo Malcolm",
+        "White Rating": 500,
+        "White Result": 1.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 139,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Jens Paulsen",
+        "White Rating": 315,
+        "White Result": 1.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 248,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Ezekiel Stewart",
+        "White Rating": 197,
+        "White Result": 1.0,
+        "Black Name": "William Smith",
+        "Black Rating": 252,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Arthur",
+        "White Rating": 100,
+        "White Result": 0.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 160,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Jens Paulsen",
+        "White Rating": 315,
+        "White Result": 0.5,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 530,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Alf Loretan",
+        "White Rating": 139,
+        "White Result": 0.0,
+        "Black Name": "William Smith",
+        "Black Rating": 252,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Ryan High",
+        "White Rating": 248,
+        "White Result": 0.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 322,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 160,
+        "White Result": 0.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 500,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Ezekiel Stewart",
+        "White Rating": 197,
+        "White Result": 1.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 256,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Gregory Familton",
+        "White Rating": 337,
+        "White Result": 1.0,
+        "Black Name": "Arthur",
+        "Black Rating": 100,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Alf Loretan",
+        "White Rating": 139,
+        "White Result": 0.5,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 322,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Benedict Suazo",
+        "White Rating": 530,
+        "White Result": 1.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 500,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Arthur",
+        "White Rating": 100,
+        "White Result": 0.0,
+        "Black Name": "Ezekiel Stewart",
+        "Black Rating": 197,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Iain Lamont",
+        "White Rating": 531,
+        "White Result": 1.0,
+        "Black Name": "Romero Suggate",
+        "Black Rating": 412,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 238,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 520,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Benedict Suazo",
+        "White Rating": 530,
+        "White Result": 1.0,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 337,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Arthur",
+        "White Rating": 100,
+        "White Result": 0.0,
+        "Black Name": "William Smith",
+        "Black Rating": 252,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Alf Loretan",
+        "White Rating": 139,
+        "White Result": 0.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 315,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-02-22",
+        "White Name": "Leo Malcolm",
+        "White Rating": 500,
+        "White Result": 1.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 520,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 293,
+        "White Result": 1.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 144,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Oliver Lee",
+        "White Rating": 154,
+        "White Result": 0.5,
+        "Black Name": "Ryan High",
+        "Black Rating": 226,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "John F Armstrong",
+        "White Rating": 177,
+        "White Result": 1.0,
+        "Black Name": "Sarah Lund",
+        "Black Rating": 100,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Izzy McAllister",
+        "White Rating": 100,
+        "White Result": 1.0,
+        "Black Name": "Samuel Mitchell",
+        "Black Rating": 186,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Jens Paulsen",
+        "White Rating": 342,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 540,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Benedict Suazo",
+        "White Rating": 539,
+        "White Result": 0.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 507,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 167,
+        "White Result": 1.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 236,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Issey Gray",
+        "White Rating": 197,
+        "White Result": 0.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 245,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Oscar Lobb",
+        "White Rating": 234,
+        "White Result": 0.5,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 285,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-06-07",
+        "White Name": "Hamish R Gold",
+        "White Rating": 331,
+        "White Result": 0.0,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 347,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "John F Armstrong",
+        "White Rating": 177,
+        "White Result": 0.0,
+        "Black Name": "Zhe Min Yee",
+        "Black Rating": 293,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Ryan High",
+        "White Rating": 226,
+        "White Result": 1.0,
+        "Black Name": "Izzy McAllister",
+        "Black Rating": 100,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Samuel Mitchell",
+        "White Rating": 186,
+        "White Result": 0.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 154,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Alf Loretan",
+        "White Rating": 144,
+        "White Result": 1.0,
+        "Black Name": "Sarah Lund",
+        "Black Rating": 100,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 540,
+        "White Result": 1.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 342,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Leo Malcolm",
+        "White Rating": 507,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 539,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 236,
+        "White Result": 0.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 167,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Brent Southgate",
+        "White Rating": 245,
+        "White Result": 1.0,
+        "Black Name": "Issey Gray",
+        "Black Rating": 197,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-17",
+        "White Name": "Terence Duffield",
+        "White Rating": 285,
+        "White Result": 1.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 234,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-06-07",
+        "White Name": "Gregory Familton",
+        "White Rating": 347,
+        "White Result": 1.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 331,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 293,
+        "White Result": 0.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 226,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Oliver Lee",
+        "White Rating": 154,
+        "White Result": 0.0,
+        "Black Name": "Ezekiel Stewart",
+        "Black Rating": 230,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "William Smith",
+        "White Rating": 234,
+        "White Result": 0.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 177,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Samuel Mitchell",
+        "White Rating": 186,
+        "White Result": 1.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 144,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 540,
+        "White Result": 1.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 507,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Jens Paulsen",
+        "White Rating": 342,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 539,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Gregory Familton",
+        "White Rating": 335,
+        "White Result": 1.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 234,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Terence Duffield",
+        "White Rating": 285,
+        "White Result": 0.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 339,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 167,
+        "White Result": 1.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 245,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Ryan High",
+        "White Rating": 226,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 177,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Ezekiel Stewart",
+        "White Rating": 230,
+        "White Result": 0.0,
+        "Black Name": "Zhe Min Yee",
+        "Black Rating": 293,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Alf Loretan",
+        "White Rating": 144,
+        "White Result": 0.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 154,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "William Smith",
+        "White Rating": 234,
+        "White Result": 1.0,
+        "Black Name": "Samuel Mitchell",
+        "Black Rating": 186,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Leo Malcolm",
+        "White Rating": 507,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 540,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Benedict Suazo",
+        "White Rating": 539,
+        "White Result": 1.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 342,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Oscar Lobb",
+        "White Rating": 234,
+        "White Result": 1.0,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 335,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Hamish R Gold",
+        "White Rating": 339,
+        "White Result": 0.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 285,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-24",
+        "White Name": "Brent Southgate",
+        "White Rating": 245,
+        "White Result": 1.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 167,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Samuel Mitchell",
+        "White Rating": 186,
+        "White Result": 0.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 226,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 293,
+        "White Result": 1.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 154,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Alf Loretan",
+        "White Rating": 144,
+        "White Result": 0.0,
+        "Black Name": "William Smith",
+        "Black Rating": 234,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-06-14",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 568,
+        "White Result": 1.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 547,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Leo Malcolm",
+        "White Rating": 507,
+        "White Result": 1.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 342,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Hamish R Gold",
+        "White Rating": 339,
+        "White Result": 1.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 234,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Terence Duffield",
+        "White Rating": 285,
+        "White Result": 0.0,
+        "Black Name": "Gregory Familton",
+        "Black Rating": 335,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-06-14",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 212,
+        "White Result": 1.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 259,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Ryan High",
+        "White Rating": 226,
+        "White Result": 0.5,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 144,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 293,
+        "White Result": 1.0,
+        "Black Name": "Samuel Mitchell",
+        "Black Rating": 186,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Oliver Lee",
+        "White Rating": 154,
+        "White Result": 0.0,
+        "Black Name": "William Smith",
+        "Black Rating": 234,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-06-14",
+        "White Name": "Benedict Suazo",
+        "White Rating": 547,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 568,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Jens Paulsen",
+        "White Rating": 342,
+        "White Result": 0.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 507,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Oscar Lobb",
+        "White Rating": 234,
+        "White Result": 1.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 339,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-05-31",
+        "White Name": "Gregory Familton",
+        "White Rating": 335,
+        "White Result": 1.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 285,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-06-14",
+        "White Name": "Brent Southgate",
+        "White Rating": 259,
+        "White Result": 0.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 212,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-07-26",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 238,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 590,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-07-26",
+        "White Name": "Benedict Suazo",
+        "White Rating": 529,
+        "White Result": 1.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 237,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-07-26",
+        "White Name": "Oliver Lee",
+        "White Rating": 166,
+        "White Result": 0.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 505,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-07-26",
+        "White Name": "Jens Paulsen",
+        "White Rating": 328,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 187,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-07-26",
+        "White Name": "Alf Loretan",
+        "White Rating": 133,
+        "White Result": 0.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 203,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-07-26",
+        "White Name": "Ryan High",
+        "White Rating": 259,
+        "White Result": 1.0,
+        "Black Name": "Joseph Butson",
+        "Black Rating": 100,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-07-26",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 590,
+        "White Result": 0.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 328,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-07-26",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 203,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 529,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-07-26",
+        "White Name": "Leo Malcolm",
+        "White Rating": 505,
+        "White Result": 1.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 259,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-07-26",
+        "White Name": "John F Armstrong",
+        "White Rating": 187,
+        "White Result": 0.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 238,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-07-26",
+        "White Name": "Brent Southgate",
+        "White Rating": 237,
+        "White Result": 0.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 133,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-02",
+        "White Name": "Benedict Suazo",
+        "White Rating": 533,
+        "White Result": 0.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 510,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-02",
+        "White Name": "Jens Paulsen",
+        "White Rating": 353,
+        "White Result": 1.0,
+        "Black Name": "Issey Gray",
+        "Black Rating": 183,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-02",
+        "White Name": "Alf Loretan",
+        "White Rating": 142,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 575,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-02",
+        "White Name": "Ryan High",
+        "White Rating": 263,
+        "White Result": 1.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 166,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-02",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 247,
+        "White Result": 0.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 224,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-02",
+        "White Name": "Leo Malcolm",
+        "White Rating": 510,
+        "White Result": 1.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 353,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-02",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 575,
+        "White Result": 0.5,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 533,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-02",
+        "White Name": "Ryan High",
+        "White Rating": 263,
+        "White Result": 1.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 247,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-02",
+        "White Name": "Issey Gray",
+        "White Rating": 183,
+        "White Result": 0.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 142,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-02",
+        "White Name": "Brent Southgate",
+        "White Rating": 224,
+        "White Result": 0.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 166,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Dev Pandya",
+        "White Rating": 220,
+        "White Result": 1.0,
+        "Black Name": "Henry Chapman",
+        "Black Rating": 150,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Oliver Lee",
+        "White Rating": 166,
+        "White Result": 1.0,
+        "Black Name": "Issey Gray",
+        "Black Rating": 183,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "John F Armstrong",
+        "White Rating": 176,
+        "White Result": 0.0,
+        "Black Name": "Joseph Butson",
+        "Black Rating": 97,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Chloe Jarvis",
+        "White Rating": 100,
+        "White Result": 0.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 142,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Jens Paulsen",
+        "White Rating": 353,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 575,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Leo Malcolm",
+        "White Rating": 510,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 533,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 211,
+        "White Result": 1.0,
+        "Black Name": "Robert D Clarkson",
+        "Black Rating": 247,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Hamish R Gold",
+        "White Rating": 313,
+        "White Result": 0.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 263,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Alf Loretan",
+        "White Rating": 142,
+        "White Result": 1.0,
+        "Black Name": "Dev Pandya",
+        "Black Rating": 220,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Henry Chapman",
+        "White Rating": 150,
+        "White Result": 0.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 166,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Issey Gray",
+        "White Rating": 183,
+        "White Result": 0.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 176,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 575,
+        "White Result": 1.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 353,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Benedict Suazo",
+        "White Rating": 533,
+        "White Result": 0.0,
+        "Black Name": "Leo Malcolm",
+        "Black Rating": 510,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Robert D Clarkson",
+        "White Rating": 247,
+        "White Result": 0.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 211,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Rapid",
+        "Date": "2023-08-09",
+        "White Name": "Ryan High",
+        "White Rating": 263,
+        "White Result": 0.0,
+        "Black Name": "Hamish R Gold",
+        "Black Rating": 313,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Terence Duffield",
+        "White Rating": 320,
+        "White Result": 0.0,
+        "Black Name": "Iain Lamont",
+        "Black Rating": 488,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 475,
+        "White Result": 1.0,
+        "Black Name": "Matteo Degregori",
+        "Black Rating": 330,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "William Smith",
+        "White Rating": 250,
+        "White Result": 0.0,
+        "Black Name": "Romero Suggate",
+        "Black Rating": 502,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Jens Paulsen",
+        "White Rating": 409,
+        "White Result": 1.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 248,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Alf Loretan",
+        "White Rating": 187,
+        "White Result": 0.0,
+        "Black Name": "Alexander Sun",
+        "Black Rating": 470,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 250,
+        "White Result": 0.0,
+        "Black Name": "Pratik Jadhav",
+        "Black Rating": 404,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Iain Lamont",
+        "White Rating": 488,
+        "White Result": 1.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 409,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Alexander Sun",
+        "White Rating": 470,
+        "White Result": 1.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 475,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Romero Suggate",
+        "White Rating": 502,
+        "White Result": 1.0,
+        "Black Name": "Pratik Jadhav",
+        "Black Rating": 404,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "William Smith",
+        "White Rating": 250,
+        "White Result": 1.0,
+        "Black Name": "Zhe Min Yee",
+        "Black Rating": 250,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Oscar Lobb",
+        "White Rating": 248,
+        "White Result": 1.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 320,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Matteo Degregori",
+        "White Rating": 330,
+        "White Result": 0.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 187,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Romero Suggate",
+        "White Rating": 502,
+        "White Result": 1.0,
+        "Black Name": "Iain Lamont",
+        "Black Rating": 488,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Jens Paulsen",
+        "White Rating": 409,
+        "White Result": 1.0,
+        "Black Name": "Alexander Sun",
+        "Black Rating": 470,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 475,
+        "White Result": 0.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 248,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Alf Loretan",
+        "White Rating": 187,
+        "White Result": 0.0,
+        "Black Name": "William Smith",
+        "Black Rating": 250,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Pratik Jadhav",
+        "White Rating": 404,
+        "White Result": 1.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 320,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 250,
+        "White Result": 0.0,
+        "Black Name": "Matteo Degregori",
+        "Black Rating": 330,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Alexander Sun",
+        "White Rating": 470,
+        "White Result": 0.0,
+        "Black Name": "Romero Suggate",
+        "Black Rating": 502,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Iain Lamont",
+        "White Rating": 488,
+        "White Result": 1.0,
+        "Black Name": "William Smith",
+        "Black Rating": 250,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Pratik Jadhav",
+        "White Rating": 404,
+        "White Result": 0.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 409,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Oscar Lobb",
+        "White Rating": 248,
+        "White Result": 0.0,
+        "Black Name": "Matteo Degregori",
+        "Black Rating": 330,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Alf Loretan",
+        "White Rating": 187,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 475,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Terence Duffield",
+        "White Rating": 320,
+        "White Result": 0.0,
+        "Black Name": "Zhe Min Yee",
+        "Black Rating": 250,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Jens Paulsen",
+        "White Rating": 409,
+        "White Result": 1.0,
+        "Black Name": "Romero Suggate",
+        "Black Rating": 502,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Iain Lamont",
+        "White Rating": 488,
+        "White Result": 1.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 187,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 475,
+        "White Result": 0.0,
+        "Black Name": "Pratik Jadhav",
+        "Black Rating": 404,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "William Smith",
+        "White Rating": 250,
+        "White Result": 0.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 248,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 250,
+        "White Result": 0.5,
+        "Black Name": "Alexander Sun",
+        "Black Rating": 470,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Matteo Degregori",
+        "White Rating": 330,
+        "White Result": 0.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 320,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Pratik Jadhav",
+        "White Rating": 404,
+        "White Result": 0.0,
+        "Black Name": "Iain Lamont",
+        "Black Rating": 488,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Romero Suggate",
+        "White Rating": 502,
+        "White Result": 1.0,
+        "Black Name": "Oscar Lobb",
+        "Black Rating": 248,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Matteo Degregori",
+        "White Rating": 330,
+        "White Result": 1.0,
+        "Black Name": "Jens Paulsen",
+        "Black Rating": 409,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Alexander Sun",
+        "White Rating": 470,
+        "White Result": 1.0,
+        "Black Name": "William Smith",
+        "Black Rating": 250,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Zhe Min Yee",
+        "White Rating": 250,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 475,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Terence Duffield",
+        "White Rating": 320,
+        "White Result": 0.0,
+        "Black Name": "Alf Loretan",
+        "Black Rating": 187,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Iain Lamont",
+        "White Rating": 488,
+        "White Result": 0.0,
+        "Black Name": "Alexander Sun",
+        "Black Rating": 470,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Romero Suggate",
+        "White Rating": 502,
+        "White Result": 1.0,
+        "Black Name": "Matteo Degregori",
+        "Black Rating": 330,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Jens Paulsen",
+        "White Rating": 409,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 475,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Oscar Lobb",
+        "White Rating": 248,
+        "White Result": 0.0,
+        "Black Name": "Pratik Jadhav",
+        "Black Rating": 404,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "Alf Loretan",
+        "White Rating": 187,
+        "White Result": 0.5,
+        "Black Name": "Zhe Min Yee",
+        "Black Rating": 250,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-02-01",
+        "White Name": "William Smith",
+        "White Rating": 250,
+        "White Result": 0.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 320,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Iain Lamont",
+        "White Rating": 496,
+        "White Result": 1.0,
+        "Black Name": "Brent Southgate",
+        "Black Rating": 237,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Ryan High",
+        "White Rating": 167,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 455,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Benedict Suazo",
+        "White Rating": 542,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 185,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "William Smith",
+        "White Rating": 252,
+        "White Result": 1.0,
+        "Black Name": "Jesse MacDonald",
+        "Black Rating": 300,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Terence Duffield",
+        "White Rating": 292,
+        "White Result": 0.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 166,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Samuel Mitchell",
+        "White Rating": 154,
+        "White Result": 1.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 203,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Pratik Jadhav",
+        "White Rating": 416,
+        "White Result": 0.0,
+        "Black Name": "Ian Repia",
+        "Black Rating": 300,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Oliver Lee",
+        "White Rating": 166,
+        "White Result": 0.0,
+        "Black Name": "Iain Lamont",
+        "Black Rating": 496,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 455,
+        "White Result": 1.0,
+        "Black Name": "William Smith",
+        "Black Rating": 252,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Ian Repia",
+        "White Rating": 300,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 542,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Terence Duffield",
+        "White Rating": 292,
+        "White Result": 0.0,
+        "Black Name": "Samuel Mitchell",
+        "Black Rating": 154,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 203,
+        "White Result": 1.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 167,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "John F Armstrong",
+        "White Rating": 185,
+        "White Result": 0.0,
+        "Black Name": "Pratik Jadhav",
+        "Black Rating": 416,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Iain Lamont",
+        "White Rating": 496,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 542,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Samuel Mitchell",
+        "White Rating": 154,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 455,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "William Smith",
+        "White Rating": 252,
+        "White Result": 0.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 203,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Pratik Jadhav",
+        "White Rating": 416,
+        "White Result": 1.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 166,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Ryan High",
+        "White Rating": 167,
+        "White Result": 1.0,
+        "Black Name": "Ian Repia",
+        "Black Rating": 300,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "John F Armstrong",
+        "White Rating": 185,
+        "White Result": 0.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 292,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Benedict Suazo",
+        "White Rating": 542,
+        "White Result": 0.5,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 455,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Samuel Mitchell",
+        "White Rating": 154,
+        "White Result": 0.0,
+        "Black Name": "Iain Lamont",
+        "Black Rating": 496,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 203,
+        "White Result": 1.0,
+        "Black Name": "Pratik Jadhav",
+        "Black Rating": 416,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Ian Repia",
+        "White Rating": 300,
+        "White Result": 0.5,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 292,
+        "Black Result": 0.5
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Oliver Lee",
+        "White Rating": 166,
+        "White Result": 1.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 167,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "William Smith",
+        "White Rating": 252,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 185,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 455,
+        "White Result": 1.0,
+        "Black Name": "Iain Lamont",
+        "Black Rating": 496,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Benedict Suazo",
+        "White Rating": 542,
+        "White Result": 1.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 203,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Pratik Jadhav",
+        "White Rating": 416,
+        "White Result": 0.0,
+        "Black Name": "Samuel Mitchell",
+        "Black Rating": 154,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Oliver Lee",
+        "White Rating": 166,
+        "White Result": 1.0,
+        "Black Name": "William Smith",
+        "Black Rating": 252,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Terence Duffield",
+        "White Rating": 292,
+        "White Result": 0.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 167,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "John F Armstrong",
+        "White Rating": 185,
+        "White Result": 0.0,
+        "Black Name": "Ian Repia",
+        "Black Rating": 300,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Quentin J F Johnson",
+        "White Rating": 455,
+        "White Result": 1.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 166,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Samuel Mitchell",
+        "White Rating": 154,
+        "White Result": 0.0,
+        "Black Name": "Benedict Suazo",
+        "Black Rating": 542,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Iain Lamont",
+        "White Rating": 496,
+        "White Result": 1.0,
+        "Black Name": "Rogan-Joe Sloan",
+        "Black Rating": 203,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Ian Repia",
+        "White Rating": 300,
+        "White Result": 1.0,
+        "Black Name": "William Smith",
+        "Black Rating": 252,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Terence Duffield",
+        "White Rating": 292,
+        "White Result": 1.0,
+        "Black Name": "Pratik Jadhav",
+        "Black Rating": 416,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Ryan High",
+        "White Rating": 167,
+        "White Result": 1.0,
+        "Black Name": "John F Armstrong",
+        "Black Rating": 185,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Ian Repia",
+        "White Rating": 300,
+        "White Result": 0.0,
+        "Black Name": "Quentin J F Johnson",
+        "Black Rating": 455,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Benedict Suazo",
+        "White Rating": 542,
+        "White Result": 1.0,
+        "Black Name": "Oliver Lee",
+        "Black Rating": 166,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Iain Lamont",
+        "White Rating": 496,
+        "White Result": 1.0,
+        "Black Name": "Ryan High",
+        "Black Rating": 167,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "Rogan-Joe Sloan",
+        "White Rating": 203,
+        "White Result": 1.0,
+        "Black Name": "Terence Duffield",
+        "Black Rating": 292,
+        "Black Result": 0.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "John F Armstrong",
+        "White Rating": 185,
+        "White Result": 0.0,
+        "Black Name": "Samuel Mitchell",
+        "Black Rating": 154,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "William Smith",
+        "White Rating": 252,
+        "White Result": 0.0,
+        "Black Name": "Pratik Jadhav",
+        "Black Rating": 416,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "TESTING",
+        "White Rating": 283,
+        "White Result": 0.0,
+        "Black Name": "TESTING",
+        "Black Rating": 763,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Blitz",
+        "Date": "2023-06-07",
+        "White Name": "TESTING1",
+        "White Rating": 223,
+        "White Result": 0.0,
+        "Black Name": "TESTING2",
+        "Black Rating": 627,
+        "Black Result": 1.0
+    },
+    {
+        "Game Type": "Standard",
+        "Date": 

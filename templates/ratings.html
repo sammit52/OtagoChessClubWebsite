@@ -3,5 +3,53 @@
 Ratings Page
 {% endblock %}
 {% block content %}
-<p>This is the ratings page of the website.</p>
+<h1 class = "header">2023 Ratings</h1>
+<form>
+    <label for="game_type">Filter by Game Type:</label>
+    <select name="game_type" id="game_type">
+        {% for game_type in game_types %}
+            <option value="{{ game_type }}" {% if game_type == selected_type %}selected{% endif %}>{{ game_type }}</option>
+        {% endfor %}
+    </select>
+    <button type="submit">Filter</button>
+</form>
+<table class = "written-content">
+    <tr>
+        <th>Rank</th>
+        <th>Name</th>
+        <th>Jan</th>
+        <th>Feb</th>
+        <th>Mar</th>
+        <th>Apr</th>
+        <th>May</th>
+        <th>Jun</th>
+        <th>Jul</th>
+        <th>Aug</th>
+        <th>Sep</th>
+        <th>Oct</th>
+        <th>Nov</th>
+        <th>Dec</th>
+        <th>Gain</th>
+    </tr>
+    {% for entry in results_data %}
+        <tr>
+            <td style="width: 5%;">{{ entry['Rank'] }}</td>
+            <td style="width: 18%;">{{ entry['Name'] }}</td>
+            <td style="width: 5%;">{{ entry['Jan'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['Feb'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['Mar'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['Apr'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['May'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['Jun'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['Jul'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['Aug'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['Sep'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['Oct'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['Nov'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['Dec'] or ""}}</td>
+            <td style="width: 5%;">{{ entry['Gain'] }}</td>
+        </tr>
+    {% endfor %}
+</table>
 {% endblock %}
+['Game Type',	'Rank', 'Name',	'Jan',	'Feb',	'Mar',	'Apr',	'May',	'Jun',	'Jul',	'Aug',	'Sep',	'Oct',	'Nov',	'Dec',	'Gain']

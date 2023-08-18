@@ -12,8 +12,10 @@
         <p>Choose pdf file</p><input type="file" name="pdf_file">
         <p>Choose html file</p><input type="file" name="html_file">
         <p>Choose image file</p><input type="file" name="image_file">
+        <p>Choose excel file</p><input type="file" name="excel_file">
         <input type="submit" value="Upload">
     </form>
+    <p>For excel files they are intended to update the current ratings and results excel sheets in the system.<br>Make sure you name them results or ratings, the old file will be deleted.</p>
     <a href="{{ url_for('admin_dashboard') }}">Back to Dashboard</a>
 </body>
 </html>
