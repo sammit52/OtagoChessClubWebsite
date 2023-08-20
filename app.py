@@ -70,28 +70,28 @@ def admin_upload_file():
                 os.remove(excel_filename)
             excel_file.save(excel_filename)
             flash("Excel file uploaded successfully.", "success")
-
-            # UPDATE CURRENT DATABASE
-            # Load new Excel data
-            new_data_df = pd.read_excel(excel_filename, usecols=[0, 1, 2, 3, 4, 5, 6, 7])
-            new_data_df.columns = ['Game Type', 'Date', 'White Name', 'White Rating', 'White Result', 'Black Name', 'Black Rating', 'Black Result']
             
-            # Convert the date column to strings, did this because idk ima see if it works
-            new_data_df['Date'] = new_data_df['Date'].astype(str)           
-
-            # Convert new data DataFrame to JSON and append to existing data
-            new_data_json = new_data_df.to_dict(orient='records')
-
-            # Update the JSON file with the updated data
             if excel_file.filename == "results.xlsx":
+                new_data_df = pd.read_excel(results_excel_file, usecols=[0, 1, 2, 3, 4, 5, 6, 7])
+                new_data_df.columns = ['Game Type', 'Date', 'White Name', 'White Rating', 'White Result', 'Black Name', 'Black Rating', 'Black Result']
+
+                # Convert the date column to strings, did this because idk ima see if it works
+                new_data_df['Date'] = new_data_df['Date'].astype(str)
+
+                new_data_json = new_data_df.to_dict(orient='records')
+
                 with open('static/results.json', 'w') as json_file:
                     json.dump(new_data_json, json_file, indent=4)
+
             elif excel_file.filename == "ratings.xlsx":
+                new_data_df2 = pd.read_excel(ratings_excel_file, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15])
+                new_data_df2.columns = ['Game Type',	'Rank', 'Name',	'Jan',	'Feb',	'Mar',	'Apr',	'May',	'Jun',	'Jul',	'Aug',	'Sep',	'Oct',	'Nov',	'Dec',	'Gain']
+                new_data_json = new_data_df2.to_dict(orient='records')
+
                 with open('static/ratings.json', 'w') as json_file:
                     json.dump(new_data_json, json_file, indent=4)
 
             return redirect(url_for('admin_dashboard'))
-        
         else:
             return "Error: Only accepted file types are: xlsx, pdf, html, png, jpeg and jpg" 
  
@@ -209,77 +209,50 @@ ACCESSING EXCEL SHEET AND GETTING DATA
 """
 
 # LOAD RESULTS DATA
-
-# Get the excel file
 results_excel_file = 'static/uploads/excels/results.xlsx'
+# Get the excel file
+def load_results_data():
+    df = pd.read_excel(results_excel_file, usecols=[0, 1, 2, 3, 4, 5, 6, 7])
 
-df = pd.read_excel(results_excel_file, usecols=[0, 1, 2, 3, 4, 5, 6, 7])
+    # Rename columns for clarity
+    df.columns = ['Game Type', 'Date', 'White Name', 'White Rating', 'White Result', 'Black Name', 'Black Rating', 'Black Result']
 
-# Rename columns for clarity
-df.columns = ['Game Type', 'Date', 'White Name', 'White Rating', 'White Result', 'Black Name', 'Black Rating', 'Black Result']
+    # Convert the date column to strings, did this because idk ima see if it works
+    df['Date'] = df['Date'].astype(str)
 
-# Convert the date column to strings, did this because idk ima see if it works
-df['Date'] = df['Date'].astype(str)
+    # Convert to JSON
+    results_json_data = df.to_json(orient='records', indent=4)
 
-# Convert to JSON
-results_json_data = df.to_json(orient='records', indent=4)
+    results_json_file = 'static/results.json'
+    with open(results_json_file, 'w') as f:
+        f.write(results_json_data)
 
-results_json_file = 'static/results.json'
-with open(results_json_file, 'w') as f:
-    f.write(results_json_data)
+    # Load the JSON data
+    with open('static/results.json', 'r') as json_file:
+        game_data = json.load(json_file)
 
-# Load the JSON data
-with open('static/results.json', 'r') as json_file:
-    game_data = json.load(json_file)
-
-# UPDATE DATABASE WHEN NEW FILE ADDED
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# LOAD RATINGS DATA
-
-
+    return game_data
 
 ratings_excel_file = 'static/uploads/excels/ratings.xlsx'
+def load_ratings_data():
 
-df2 = pd.read_excel(ratings_excel_file, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15])
+    # LOAD RATINGS DATA
+    df2 = pd.read_excel(ratings_excel_file, usecols=[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15])
 
-df2.columns = ['Game Type',	'Rank', 'Name',	'Jan',	'Feb',	'Mar',	'Apr',	'May',	'Jun',	'Jul',	'Aug',	'Sep',	'Oct',	'Nov',	'Dec',	'Gain']
+    df2.columns = ['Game Type',	'Rank', 'Name',	'Jan',	'Feb',	'Mar',	'Apr',	'May',	'Jun',	'Jul',	'Aug',	'Sep',	'Oct',	'Nov',	'Dec',	'Gain']
 
-# Convert to JSON
-ratings_json_data = df2.to_json(orient='records', indent=4)
+    # Convert to JSON
+    ratings_json_data = df2.to_json(orient='records', indent=4)
 
-ratings_json_file = 'static/ratings.json'
-with open(ratings_json_file, 'w') as f:
-    f.write(ratings_json_data)
+    ratings_json_file = 'static/ratings.json'
+    with open(ratings_json_file, 'w') as f:
+        f.write(ratings_json_data)
 
-# Load the JSON data
-with open('static/ratings.json', 'r') as json_file:
-    results_data = json.load(json_file)
-
-
+    # Load the JSON data
+    with open('static/ratings.json', 'r') as json_file:
+        ratings_data = json.load(json_file)
+    
+    return ratings_data
 
 
 
@@ -397,6 +370,7 @@ def library():
 
 @app.route('/results', methods=['GET', 'POST'])
 def results():
+    game_data = load_results_data()
     game_types = set(entry['Game Type'] for entry in game_data)
     
     if request.method == 'POST':
@@ -416,8 +390,8 @@ def results():
 
 @app.route("/ratings", methods=['GET','POST'])
 def ratings():
-    game_types = set(entry['Game Type'] for entry in results_data)
-    
+    ratings_data = load_ratings_data()
+    game_types = set(entry['Game Type'] for entry in ratings_data)
     
     if request.method == 'POST':
         selected_type = request.form.get('game_type')
@@ -427,11 +401,11 @@ def ratings():
     if selected_type == None:
         selected_type = 'Standard' # Set default display
     
-    filtered_data = [entry for entry in results_data if entry['Game Type'] == selected_type]
+    filtered_data = [entry for entry in ratings_data if entry['Game Type'] == selected_type]
 
     sorted_data = sorted(filtered_data, key=lambda x: x['Rank'], reverse=False)
 
-    return render_template("ratings.html", game_types=game_types, selected_type=selected_type, results_data=sorted_data)
+    return render_template("ratings.html", game_types=game_types, selected_type=selected_type, ratings_data=sorted_data)
 
 
 

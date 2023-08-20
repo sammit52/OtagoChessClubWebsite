@@ -3718,27 +3718,5 @@
         "Black Name": "Pratik Jadhav",
         "Black Rating": 416,
         "Black Result": 1.0
-    },
-    {
-        "Game Type": "Blitz",
-        "Date": "2023-06-07",
-        "White Name": "TESTING",
-        "White Rating": 283,
-        "White Result": 0.0,
-        "Black Name": "TESTING",
-        "Black Rating": 763,
-        "Black Result": 1.0
-    },
-    {
-        "Game Type": "Blitz",
-        "Date": "2023-06-07",
-        "White Name": "TESTING1",
-        "White Rating": 223,
-        "White Result": 0.0,
-        "Black Name": "TESTING2",
-        "Black Rating": 627,
-        "Black Result": 1.0
-    },
-    {
-        "Game Type": "Standard",
-        "Date": 
+    }
+]
